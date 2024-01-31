@@ -1,0 +1,28 @@
+[[entries]]
+title = "关于"
+
+  [[entries.entries]]
+  title = "翻译你感兴趣的计算机科学文献。"
+
+  [[entries.entries]]
+  title = "Translate articles of your interest about Computer Science."
+
+  [[entries.entries]]
+  title = "项目代码库"
+  url = "https://github.com/random-cs-hans/random-cs-hans"
+
+[[entries]]
+title = "全部文章"
+
+  [entries.post_list]
+  limit = 0
+
+[[entries]]
+title = "订阅 RSS"
+url = "index.xml"
+
+[[entries]]
+title = "各篇译文内附自身版权声明。"
+
+[[entries]]
+title = "Copyright © 2024 计算机史料随译组"

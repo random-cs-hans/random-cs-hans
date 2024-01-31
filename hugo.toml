@@ -1,3 +1,38 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# Base URL used when generating links to your pages
+# Set to the URL for your site
+baseURL = "https://random-cs-hans.github.io"
+
+# The name of this wonderful theme ;-).
+theme = 'hugo-theme-nostyleplease'
+
+# Basic metadata configuration for your blog.
+title = "计算机史料随译"
+author = "计算机史料随译组"
+copyright = "Copyright © 2024 计算机史料随译组."
+languageCode = "zh-Hans"
+
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  # description = ""
+
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  # favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  # images = ["images/share.png"]
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  # title = "计算机史料随译"
+
+  # This theme will, by default, inject a made-with-line at the bottom of the page.
+  # You can turn it off, but we would really appreciate if you don’t :-).
+  # hideMadeWithLine = true
+
+[params.theme_config]
+  # show_description = true
