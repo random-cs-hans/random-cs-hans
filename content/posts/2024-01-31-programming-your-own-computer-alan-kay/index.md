@@ -11,8 +11,7 @@ Alan Kay 著
 All rights of the [original work](https://tinlizzie.org/VPRIPapers/Alan-Kay-World-Book-Encyc-1979.pdf) belong to the original author(s) (Alan Kay). This translation work is published with the approval of the original author(s) and includes its own copyright disclaimer at the end.
 
 ---
-
-{{< figure src="p2-img1.png" alt="Children having fun in front of a personal computer" >}}
+{{< lightbox src="p2-img1-1.png" lightbox="children" alt="孩子们快乐地玩着计算机" >}}
 
 1980 年代的计算机将会易用而廉价，却足够强大，让我们能实现未曾设想过的事情。
 
@@ -32,18 +31,33 @@ Beth 使用的设备是她的个人计算机。尽管这个少女生活在假想
 
 ***他***们每个人都学会了如何通过计算机指令，或者称为“编程”，来创造新的工具和效果。比如，12 岁的 Susan 设计了一个画图工具，来帮助她创造和修改屏幕上的几何图形和纹理效果。Dennis，一个 11 岁的孩子，制作了自己的太空战争游戏，游戏里是他亲自设计的太空战队在屏幕上战斗。12 岁的 Joan 改写了一个由专业动画师制作的工具，用它制作了一场生动的赛马动画。
 
-{{< figure src="p8-img1.png" alt="Example on how to edit and illustrate a composition, part1" title="文章排版" caption="你可以用个人计算机编写文章、绘制插图。举个例子，你可以编写一篇宇宙飞船的故事，将它保存放好后，再键入指令让文章的任意片段显示出来供你检阅。如果你发现了拼写错误，你可以用名为“鼠标”的控制设备来修正它。当你用鼠标移动电子指针将它移动错误处，那里的屏幕背景就会变暗。输入正确的版本后，按下鼠标的一个按钮，之前的错误就原地修改完成。如果想画一张插图，你可以按下鼠标的另一个按钮，一个“绘图板”会出现在眼前。用指针选定“画刷”工具后，你可以将它移到要上色的区域里，然后按住鼠标按钮，移动鼠标来给你想要的地方上色。" >}}
+<figure role="group" title="文档排版">
+{{< lightbox src="p8-img1-highres.jpg" lightbox="editing-a-composition" alt="修改拼写错误" >}}
+<figcaption>
+<h4>文档排版</h4>
+<p>
+你可以用个人计算机编写文章、绘制插图。举个例子，你可以编写一篇宇宙飞船的故事，将它保存放好后，再键入指令让文章的任意片段显示出来供你检阅。如果你发现了拼写错误，你可以用名为“鼠标”的控制设备来修正它。当你用鼠标移动电子指针将它移动错误处，那里的屏幕背景就会变暗。输入正确的版本后，按下鼠标的一个按钮，之前的错误就原地修改完成。如果想画一张插图，你可以按下鼠标的另一个按钮，一个“绘图板”会出现在眼前。用指针选定“画刷”工具后，你可以将它移到要上色的区域里，然后按住鼠标按钮，移动鼠标来给你想要的地方上色。
+</p>
+</figcaption>
+{{< lightbox src="p8-img2-highres.jpg" lightbox="editing-a-composition" alt="绘制图片" >}}
+</figure>
 
-{{< figure src="p8-img2.png" alt="Example on how to edit and illustrate a composition, part2" >}}
 
 我对个人计算机的兴趣源于我从 1960 年代研究生时期就有的梦想。在几位很有远见的教授的启发下，我意识到计算机不只是体型巨大、喀啦作响、耗资数百万美元的算术机器，不应该只有熟练经验的专家靠不断输入打孔卡片才能操作。它们有潜力与普通人沟通，成为美妙的工具。而且就在当时，那些房间大小的巨型设备正在被远远更小且更快的型号替代。几年之内，我们就可以把与 1960 年代数百万美元的计算机相匹敌的计算能力—由单位时间内它可以处理的信息量表示—塞进一个与平常活页笔记本同样小的容器里。现有的技术使得我们可以制造出口袋计算器和电子表等小型设备，也将能让我们制造出个人计算机。
 
 这意味着，很快我们就将人手一台个人计算机。但，我们怎样才能应用它呢？在这台小而强大的计算机里，不能仅仅只有电路、存储和内存等实体的“硬件”部分。我们还需要与这台机器沟通并能控制它的“软件”机制。而当下的计算机软件系统，哪怕委婉地说，也是比较笨重的。只有专家才能勉强鞭策它们运行。显然，如果我们不对软件进行大幅改进，没有可能真正实现“属于 1980 年代的个人计算机”。
 
-{{< figure src="p6-img1.png" alt="ENIAC" width="50%" >}}
-{{< figure src="p6-img2.png" alt="PDP 11/45" width="50%" >}}
-{{< figure src="p6-img3.png" alt="Alto" width="50%" >}}
-{{< figure src="p6-img4.png" alt="Dynabook" width="50%" caption="图片：1946 年的古董计算机 ENIAC（图1）已经被越来越小而强大的机器所取代，比如用于文档图片排版的 PDP 11/45 微机（图2）和用于为个人计算机开发程序的 Alto 微机（图3）。很快我们就能将与它们同等的算力封装进笔记本大小的 Dynabook 中（图4）。" >}}
+<figure role="group" class="row">
+{{< lightbox src="p6-img1.png" class="column" lightbox="computer-hardware-examples" alt="ENIAC" >}}
+{{< lightbox src="p6-img2.png" class="column" lightbox="computer-hardware-examples" alt="PDP 11/45" >}}
+{{< lightbox src="p6-img3.png" class="column" lightbox="computer-hardware-examples" alt="the Alto" >}}
+{{< lightbox src="p6-img4.png" class="column" lightbox="computer-hardware-examples" alt="Dynabook" >}}
+<figcaption>
+<p>
+图片：1946 年的古董计算机 ENIAC（图1）已经被越来越小而强大的机器所取代，比如用于文档图片排版的 PDP 11/45 微机（图2）和用于为个人计算机开发程序的 Alto 微机（图3）。很快我们就能将与它们同等的算力封装进笔记本大小的 Dynabook 中（图4）。
+</p>
+</figcaption>
+</figure>
 
 我所属的公司于 1971 年开立了长期研究项目来解决软件系统问题，引来一批个人计算机领域的有志之士。在我们的设想中，1980 年代的个人计算机是一个笔记本大小的方形设备，正面是一块类似液晶手表的平面反光屏，表面能感应手指或者电子画笔的点触。它的内部有着可以每秒执行数百万条指令的计算电路，也有着足以保存数月项目资料的存储容量。它应当做到完整的自包含，但同时，它还可以接入高清音响来创作音乐，连接其他计算机进行团队协作，或者接入其他信息源，比如未来的电子图书馆。我们将这台想象中的计算机称为“Dynabook”。
 
@@ -76,37 +90,57 @@ Smalltalk 程序的特别之处在于每个演员都可以派生出很多后代�
 
 ***选***中 “停止“命令后，演员会停止执行这个脚本。这之后我们可以做很多事情。我们可以修改脚本，比如，把“前进 10”改成“前进 15”。或者我们可以把这个脚本添加为一个全新的命令。比如，我们刚才写的程序是让这个箭头转圈。通过键盘我们可以把这个新的命令—“转圈”—加到这个箭头的节目单里。
 
+<figure role="group" title="编程一个“演员”" class="row">
+<figcaption>
+<h4>编程一个“演员”</h4>
+<p>
+要控制一个演员，你首先需要通过键盘或者鼠标调出这个演员和他所能接受的命令列表。通过鼠标将电子指针移到屏幕上的指令处，就能选中这个指令。指令后面的屏幕会变暗，这是电脑在通过改变文字的显示，来说明它知晓了你要执行这个指令的意图。
+</p>
+</figcaption>
 
-{{< figure src="p9-img0.png" alt="Legend for programming an actor" width="45%" title="编程一个“演员”" caption="要控制一个演员，你首先需要通过键盘或者鼠标调出这个演员和他所能接受的命令列表。通过鼠标将电子指针移到屏幕上的指令处，就能选中这个指令。指令后面的屏幕会变暗，这是电脑在通过改变文字的显示，来说明它知晓了你要执行这个指令的意图。" >}}
-{{< figure src="p9-img1.png" alt="Hide an actor" width="45%" caption="要隐藏一个演员，先将指针移动到“抹除”，然后按下鼠标按钮。屏幕显示会随之变化。" >}}
-{{< figure src="p9-img2.png" alt="Actor is hidden" width="45%" caption="演员消失了，命令列表也变回最初的显示。" >}}
-{{< figure src="p9-img3.png" alt="Show the actor" width="45%" caption="将指针移动到“显示”，然后按下鼠标。屏幕显示再次随之变化。" >}}
-{{< figure src="p9-img4.png" alt="Actor is back" width="45%" caption="演员再次出现，命令列表又恢复如初。" >}}
-{{< figure src="p9-img5.png" alt="Turn the actor" width="45%" caption="要尝试编程的话，将指针移动到“转向”。屏幕上会弹出一个问询面板，要求你输入一个具体的数字。" >}}
-{{< figure src="p9-img6.png" alt="Type in the angle" width="45%" caption="输入你想让演员转向的角度（50），将指针移到编辑列表的“确认”，按下按钮。" >}}
-{{< figure src="p9-img7.png" alt="Confirm the turning" width="45%" caption="问询面板从屏幕上消失了，而演员也转了 50 度。" >}}
-{{< figure src="p9-img8.png" alt="Scripting the actor" width="45%" caption="如果要编写更泛化的程序，将指针移到“脚本”。屏幕上会显示出一个空白的问询面板。" >}}
-{{< figure src="p9-img9.png" alt="Type in the script" width="45%" caption="输入“转向 20”，将指针移到“确认”。" >}}
-{{< figure src="p9-img10.png" alt="Run the script" width="45%" caption="将指针移到“运行”后按下鼠标按钮，演员就会一次次地转向 20 度。" >}}
+{{< lightbox src="p9-img0.png" class="column" lightbox="programming-a-player" alt="Legend for programming an actor" title="编程一个“演员”" >}}
+{{< lightbox src="p9-img1.png" class="column" lightbox="programming-a-player" alt="Hide an actor" caption="要隐藏一个演员，先将指针移动到“抹除”，然后按下鼠标按钮。屏幕显示会随之变化。" >}}
+{{< lightbox src="p9-img2.png" class="column" lightbox="programming-a-player" alt="Actor is hidden" caption="演员消失了，命令列表也变回最初的显示。" >}}
+{{< lightbox src="p9-img3.png" class="column" lightbox="programming-a-player" alt="Show the actor" caption="将指针移动到“显示”，然后按下鼠标。屏幕显示再次随之变化。" >}}
+{{< lightbox src="p9-img4.png" class="column" lightbox="programming-a-player" alt="Actor is back" caption="演员再次出现，命令列表又恢复如初。" >}}
+{{< lightbox src="p9-img5.png" class="column" lightbox="programming-a-player" alt="Turn the actor" caption="要尝试编程的话，将指针移动到“转向”。屏幕上会弹出一个问询面板，要求你输入一个具体的数字。" >}}
+{{< lightbox src="p9-img6.png" class="column" class="column" lightbox="programming-a-player" alt="Type in the angle" caption="输入你想让演员转向的角度（50），将指针移到编辑列表的“确认”，按下按钮。" >}}
+{{< lightbox src="p9-img7.png" class="column" lightbox="programming-a-player" alt="Confirm the turning" caption="问询面板从屏幕上消失了，而演员也转了 50 度。" >}}
+{{< lightbox src="p9-img8.png" class="column" lightbox="programming-a-player" alt="Scripting the actor" caption="如果要编写更泛化的程序，将指针移到“脚本”。屏幕上会显示出一个空白的问询面板。" >}}
+{{< lightbox src="p9-img9.png" class="column" lightbox="programming-a-player" alt="Type in the script" caption="输入“转向 20”，将指针移到“确认”。" >}}
+{{< lightbox src="p9-img10.png" class="column" lightbox="programming-a-player" alt="Run the script" caption="将指针移到“运行”后按下鼠标按钮，演员就会一次次地转向 20 度。" >}}
+</figure>
 
 我们现在能向剧场里的某个演员发送编程好的指令了，但这只是一个开始。接下来，使用者们要学习如何控制多个演员和剧本。这样之后用户就可以自己编程，编写新脚本来教会演员们新的戏码。他们能通过调出一个画板，用鼠标选择线条和色调并绘制插画，来为演员们更换装扮。他们可以创作动画—教会演员一边动一边在遇到各种不同物件时变换大小和形状。如果要创作音乐，可以让演员们改而遵循乐谱形式的剧本，以乐器的声音作为戏服。用户还可以模拟现实世界中的系统，比如吊桥、电子电路，或者游乐园里的过山车。
 
 一个特别能寓教于乐的例子是动画游戏的创作。只要花几分钟，我们就可以编写出一个游戏，让两位演员在屏幕上你追我赶。我们可以写一个脚本，将鼠标的横坐标与“转向”命令关联起来，将“前进”命令与鼠标的纵坐标关联起来。点中“运行”命令后，通过前后左右移动鼠标，可以像开车一样操作一位演员。接下来选中命令列表中的“克隆”命令来制作一个使用同样脚本的演员。这个新演员的脚本可以改为用另一个鼠标来操纵。这样就可以让两个人在屏幕上操纵两个独立的演员。用 Smalltalk 的画图功能，把每个演员的服装换为不同的车子，就做好了最简单的游戏版本。
 
-{{< figure src="p11-img0.png" alt="Legend for programming a new game" width="45%" title="编程一个新的游戏" caption="你可以通过编程，让个人计算机上的一个演员随鼠标的控制移动。然后使用“克隆”命令生产另一个和他能力一模一样的演员。插上第二个鼠标，把第二个演员的控制权交给它，就能让两个人在计算机上玩“你追我赶”。" >}}
-{{< figure src="p11-img1.png" alt="Let mouse 1 control the actor's turning rate" width="45%" caption="将指针移到“脚本”，输入“转向 鼠标1 x”，再执行“确认”。" >}}
-{{< figure src="p11-img2.png" alt="Run actor's script" width="45%" caption="将鼠标移到“运行”。" >}}
-{{< figure src="p11-img3.png" alt="Now we can control turning rate" width="45%" caption="现在可以通过水平移动鼠标来控制演员旋转的速度。" >}}
-{{< figure src="p11-img4.png" alt="Add 'go' to the script" width="45%" caption="将指针移到“停止”，键入“前进 10”，将鼠标移到“确认”。演员现在会一次次地向前移动 10 个单位。" >}}
-{{< figure src="p11-img5.png" alt="Actor will turn while going forward" width="45%" caption="执行“运行”，将鼠标向左移动，演员会一边前进一边逐渐右转。" >}}
-{{< figure src="p11-img6.png" alt="Use mouse 1 to control speed" width="45%" caption="在问询面板里接着输入“前进 鼠标1 y”，再将鼠标移到“确认”。" >}}
-{{< figure src="p11-img7.png" alt="Now we can control turning rate and speed" width="45%" caption="将鼠标移到“运行”，然后再上下左右移动鼠标，演员就会像车子一样在屏幕上行驶。" >}}
-{{< figure src="p11-img8.png" alt="Use paiting palette for costume" width="45%" caption="要改变演员的样子，将指针移到“装扮”，屏幕会显示出绘图板和演员图片的母板。" >}}
-{{< figure src="p11-img9.png" alt="Draw and change the costume" width="45%" caption="用指针在绘图板选出想要的线条和颜色，来给演员绘制图片。执行“确认”后，演员的装扮会变成图片上的样子。" >}}
-{{< figure src="p11-img10.png" alt="Clone a twin of the actor" width="45%" caption="在这个演员的命令列表里选中执行“克隆”，会让屏幕上显示出另一个一模一样的演员，和完全相同的命令列表。绘图板这时会消失。" >}}
-{{< figure src="p11-img11.png" alt="Alter the appearence of actor 2 and check its script" width="45%" caption="用演员 2 号的“装扮”命令定制他的新样貌。然后选中“脚本”，看到演员 2 号的问询面板里是鼠标 1的指令。" >}}
-{{< figure src="p11-img12.png" alt="Connect actor 2 to mouse 2" width="45%" caption="编辑演员 2 号的问询面板，把鼠标 1 都改为鼠标 2。执行“确认”。" >}}
-{{< figure src="p11-img13.png" alt="Play the game with your friend" width="45%" caption="在两个演员的命令列表里都选中“运行”，然后用键盘隐藏掉两个命令列表。现在整个屏幕都留给你和朋友一起玩“你追我赶”了。" >}}
+
+<figure role="group" title="编程一个新的游戏" class="row">
+<figcaption>
+<h4>编程一个新的游戏</h4>
+<p>
+你可以通过编程，让个人计算机上的一个演员随鼠标的控制移动。然后使用“克隆”命令生产另一个和他能力一模一样的演员。插上第二个鼠标，把第二个演员的控制权交给它，就能让两个人在计算机上玩“你追我赶”。
+</p>
+</figcaption>
+
+{{< lightbox src="p11-img0.png" class="column" lightbox="programming-a-new-game" alt="Legend for programming a new game" >}}
+{{< lightbox src="p11-img1.png" class="column" lightbox="programming-a-new-game" alt="Let mouse 1 control the actor's turning rate" caption="将指针移到“脚本”，输入“转向 鼠标1 x”，再执行“确认”。" >}}
+{{< lightbox src="p11-img2.png" class="column" lightbox="programming-a-new-game" alt="Run actor's script" caption="将鼠标移到“运行”。" >}}
+{{< lightbox src="p11-img3.png" class="column" lightbox="programming-a-new-game" alt="Now we can control turning rate" caption="现在可以通过水平移动鼠标来控制演员旋转的速度。" >}}
+{{< lightbox src="p11-img4.png" class="column" lightbox="programming-a-new-game" alt="Add 'go' to the script" caption="将指针移到“停止”，键入“前进 10”，将鼠标移到“确认”。演员现在会一次次地向前移动 10 个单位。" >}}
+{{< lightbox src="p11-img5.png" class="column" lightbox="programming-a-new-game" alt="Actor will turn while going forward" caption="执行“运行”，将鼠标向左移动，演员会一边前进一边逐渐右转。" >}}
+{{< lightbox src="p11-img6.png" class="column" lightbox="programming-a-new-game" alt="Use mouse 1 to control speed" caption="在问询面板里接着输入“前进 鼠标1 y”，再将鼠标移到“确认”。" >}}
+{{< lightbox src="p11-img7.png" class="column" lightbox="programming-a-new-game" alt="Now we can control turning rate and speed" caption="将鼠标移到“运行”，然后再上下左右移动鼠标，演员就会像车子一样在屏幕上行驶。" >}}
+{{< lightbox src="p11-img8.png" class="column" lightbox="programming-a-new-game" alt="Use paiting palette for costume" caption="要改变演员的样子，将指针移到“装扮”，屏幕会显示出绘图板和演员图片的母板。" >}}
+{{< lightbox src="p11-img9.png" class="column" lightbox="programming-a-new-game" alt="Draw and change the costume" caption="用指针在绘图板选出想要的线条和颜色，来给演员绘制图片。执行“确认”后，演员的装扮会变成图片上的样子。" >}}
+{{< lightbox src="p11-img10.png" class="column" lightbox="programming-a-new-game" alt="Clone a twin of the actor" caption="在这个演员的命令列表里选中执行“克隆”，会让屏幕上显示出另一个一模一样的演员，和完全相同的命令列表。绘图板这时会消失。" >}}
+{{< lightbox src="p11-img11.png" class="column" lightbox="programming-a-new-game" alt="Alter the appearence of actor 2 and check its script" caption="用演员 2 号的“装扮”命令定制他的新样貌。然后选中“脚本”，看到演员 2 号的问询面板里是鼠标 1 的指令。" >}}
+{{< lightbox src="p11-img12.png" class="column" lightbox="programming-a-new-game" alt="Connect actor 2 to mouse 2" caption="编辑演员 2 号的问询面板，把鼠标 1 都改为鼠标 2。执行“确认”。" >}}
+{{< lightbox src="p11-img13.png" class="column" lightbox="programming-a-new-game" alt="Play the game with your friend" caption="在两个演员的命令列表里都选中“运行”，然后用键盘隐藏掉两个命令列表。现在整个屏幕都留给你和朋友一起玩“你追我赶”了。" >}}
+
+</figure>
+
 
 与从游戏公司那里拿到一个封闭的游戏相比，亲身编程游戏的最大不同，在于参与者可以随时把新点子加到自己的程序中。比如，如何处理障碍物和碰撞？要不要加上赛道？可编程的游戏在这一点上不但更加有趣，还能帮助编程者学习为复杂情景建模的方法。
 
@@ -120,7 +154,7 @@ Smalltalk 程序的特别之处在于每个演员都可以派生出很多后代�
 
 在屏幕呈现图片是用比特来表达信息的一个最简单的例子。主存的一半，约五十万比特，用于此用途。在显示程序看来，屏幕是 600 一行、共 800 行的比特组合。当电视显像管的电子束扫描电子管的表面时，显示程序在这段内存里按行选出比特，一行行地最终画出一张图片。每当 Smalltalk 的图形程序修改显存里的比特时，图片都会改变。然后下次电子束扫过修改过的区域时，屏幕会显示一张新的图片。这很像那些建筑上或者高速边用来显示时间、天气和广告的告示板的高清版本。
 
-{{< figure src="p15-img1.png" alt="Beautiful picture rendered by computer" caption="计算机绘制的动画电影多彩而细腻，说明它们现在已经拥有了强大的能力。" >}}
+{{< lightbox src="p15-img1-enhanced-color.png" lightbox="computer-rendered-animation-film" alt="计算机渲染出的动画电影场景" caption="计算机绘制的动画电影多彩而细腻，说明它们现在已经拥有了强大的能力。" >}}
 
 这种比特操作是计算机编程的多层复杂结构的最底层。在设计、建造和使用一个剧院的过程中也有类似的分层。建造师设计整栋建筑，他负责结构的完整性和美感。剧院架构师对于建筑的设计则更关注艺术创作的需求。他们一起探索如何设计剧院内部—比如舞台，灯光和观众席。在计算机领域中，建筑设计师对应首席硬件设计师，剧院架构师对应首席软件设计师。
 
