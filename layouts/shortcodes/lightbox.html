@@ -1,0 +1,44 @@
+<!-- resolve absolute image path -->
+{{ $image := .Get "src" }}
+<figure
+  {{ with .Get "class" }}class="{{.}}"{{ end }}
+  {{ with .Get "width" }}style="width: {{ . }};"{{ end }}
+  {{ with .Get "height" }}style="height: {{ . }};"{{ end }}
+  >
+    <a 
+      {{ if .Get "lightbox" }}
+        data-lightbox="{{ .Get "lightbox" | markdownify | plainify }}"
+      {{ else }}
+        data-lightbox="image-{{ $image }}"
+      {{ end }}
+      {{ if (.Get "caption") }}
+        data-title="{{ .Get "caption" }}"
+      {{ else if (.Get "alt") }}
+        data-title="{{ .Get "alt" }}"
+      {{ end }}
+      {{ if (.Get "alt") }}
+        data-alt="{{ .Get "alt" }}"
+      {{ end }}
+      href="{{ $image }}"
+    {{ with .Get "target" }} target="{{ . }}"{{ end }}
+    {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+  <img
+      src="{{ $image }}"
+        {{ if .Get "alt" }}alt="{{ .Get "alt" | markdownify | plainify }}"
+        {{ else if .Get "caption" }}alt="{{ .Get "caption" | markdownify | plainify }}"
+        {{ end }}
+        {{ with .Get "align" }}align="{{ . }}"{{ end }}
+         />
+    </a>
+  <!-- caption and attr-->
+  {{ if .Get "caption" }}
+    <figcaption>
+      <span class="img--caption">
+        {{ .Get "caption" | markdownify | plainify }}
+        {{ if .Get "attr" }}
+          [{{- with .Get "attrlink"}}<a href="{{ . }}">{{ end }}{{ .Get "attr" | markdownify }}{{ if .Get "attrlink"}}</a>{{ end -}}]
+        {{ end }}
+      </span>
+    </figcaption>
+  {{ end }}
+</figure>

@@ -1,0 +1,13 @@
+
+{{$lightbox_js := resources.Get "js/lightbox-plus-jquery.min.js" | resources.Fingerprint "sha512" }}
+<script src="{{ $lightbox_js.Permalink | relURL }}" integrity="{{ $lightbox_js.Data.Integrity }}"></script>
+<script>
+    lightbox.option({
+        "albumLabel": "图%1/%2",
+        "fadeDuration": 0,
+        "fitImagesInViewport": false,
+        "imageFadeDuration": 0,
+        "resizeDuration": 0,
+        "wrapAround": true,
+    })
+</script>

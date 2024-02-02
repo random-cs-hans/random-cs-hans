@@ -25,4 +25,20 @@ url = "index.xml"
 title = "各篇译文内附自身版权声明。"
 
 [[entries]]
-title = "Copyright © 2024 计算机史料随译组"
+title = "网站 Copyright © 2024 计算机史料随译组"
+
+
+[[entries]]
+title = "项目网站使用的开源组件"
+
+  [[entries.entries]]
+  title = "gohugo"
+  url = "https://gohugo.io/"
+
+  [[entries.entries]]
+  title = "hugo-theme-nostyleplease"
+  url = "https://github.com/g-hanwen/hugo-theme-nostyleplease"
+
+  [[entries.entries]]
+  title = "lightbox"
+  url = "https://lokeshdhakar.com/projects/lightbox2/"
