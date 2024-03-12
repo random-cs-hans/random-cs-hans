@@ -5,7 +5,9 @@ date: 2024-02-17T00:00:00+08:00
 ---
 
 
-[原文](https://blog.apnic.net/2024/01/17/ip-addresses-through-2023/)所有权利归原作者所有。本译文仅供个人学习研究和交流使用。
+[原文](https://blog.apnic.net/2024/01/17/ip-addresses-through-2023/)所有权利归原作者（Geoff Huston）所有。本译文在获得原作者同意后发布，译文版权声明见结尾。
+
+All rights of the [original work](https://blog.apnic.net/2024/01/17/ip-addresses-through-2023/) belong to the original author(s) (Geoff Huston). This translation work is published with the approval of the original author(s) and includes its own copyright disclaimer at the end.
 
 ---
 
@@ -600,4 +602,15 @@ IPv4 地址分配一贯谨慎，有 77% 的已分配地址在 BGP 路由表中�
 
 译文作者：王文鑫
 
-转载需注明“本译文仅供个人学习研究和交流使用”，注明原作者、译文作者和引用出处。
+转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
+
+感谢 Geoff Huston 先生的亲切支持！
+
+Thanks to Mr. Geoff Huston for your kind support!
+
+在保证原作者所有权益的情况下，本译文使用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 授权，详情见 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+  超出此授权范围之外的使用需获得“计算机史料随译”项目的许可，详情见 https://random-cs-hans.github.io。
+
+On the precondition of keeping all rights of the original authors, this translation work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike License (International/4.0), see https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en for details. Permissions beyond the scope of this license are administered by the "RandomCSHans" Project，see https://random-cs-hans.github.io.
+
+{{< figure src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="CC BY-NC-SA License" >}}
