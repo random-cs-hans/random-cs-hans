@@ -18,7 +18,7 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 * 地理位置、网络规模、业务类型和地址空间的复杂度，都会影响路由安防措施的采纳程度。
 * 最新发现能帮助政策制定者了解当前的挑战，并帮助推广路由安防实践。
 
-路由安全并不是一个新问题。几十年来，人们一直知道，为实现域间路由而设计的、广泛使用的协议，即边界网关协议（[BGP](https://pulse.internetsociety.org/glossary#bgp)），存在关键性的漏洞：它缺乏一种内置机制来验证路由信息，这些信息在网络间共享，用来为数据流量选择全球范围的路径。
+路由安全并不是一个新问题。几十年来，人们一直知道，为实现域间路由而设计的、广泛使用的协议，即边界网关协议（[BGP](https://pulse.internetsociety.org/glossary#bgp)），存在关键性的漏洞：它缺乏一种内置机制来验证路由信息，这些信息在网络间共享，用来为数据流量选择全局路由。
 
 这意味着，当网络在决定流量转发目的地时，往往无法验证目的地网络是否真正能够将其传送到预定地址。因此，[流量](https://arstechnica.com/information-technology/2022/09/how-3-hours-of-inaction-from-amazon-cost-cryptocurrency-holders-235000/)[经常](https://securityboulevard.com/2024/01/orange-spain-outage-bgp-traffic-hijacked-by-threat-actor/)[会被](https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/)[路由](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)到错误的网络，无论是出于意外还是恶意。人们常把这种问题称为 BGP 劫持。
 
@@ -30,7 +30,7 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 
 令人沮丧的是，尽管 RPKI 已经存在了十多年，但推广一直很慢。在 2024 年的今天，全球通过 BGP 发布的 IP 地址中，只有大约一半有 RPKI 记录。
 
-{{< figure src="https://pulse.internetsociety.org/wp-content/uploads/2024/10/Internet-address-space-covered-by-ROA_Oct2024.png" link="https://pulse.internetsociety.org/wp-content/uploads/2024/10/Internet-address-space-covered-by-ROA_Oct2024.png" caption="图 1 - 使用 RPKI 加强互联网路由安全有两个要素。第一个要素是网络运营商要发布路由起源认证（ROA）。ROA 是一种经过加密签名的对象，说明了对于一段或者一组 IP 地址前缀，哪个自治系统（[AS](https://pulse.internetsociety.org/glossary#as)/网络）拥有使用它们作为源地址的授权。资料来源：[Pulse](https://pulse.internetsociety.org/en/technologies/#metric-roa-coverage)；数据来自 [APNIC](https://pulse.internetsociety.org/glossary#apnic) 实验室。" >}}
+{{< figure src="https://pulse.internetsociety.org/wp-content/uploads/2024/10/Internet-address-space-covered-by-ROA_Oct2024.png" link="https://pulse.internetsociety.org/wp-content/uploads/2024/10/Internet-address-space-covered-by-ROA_Oct2024.png" caption="图 1 - 使用 RPKI 加强互联网路由安全有两个要素。第一个要素是网络运营商要发布路由起源认证（Route Origin Authorization，ROA）。ROA 是一种经过加密签名的对象，说明了对于一段或者一组 IP 地址前缀，哪个自治系统（[AS](https://pulse.internetsociety.org/glossary#as)/网络）拥有使用它们作为源地址的授权。资料来源：[Pulse](https://pulse.internetsociety.org/en/technologies/#metric-roa-coverage)；数据来自 [APNIC](https://pulse.internetsociety.org/glossary#apnic) 实验室。" >}}
 
 我们希望通过研究了解 RPKI 的部署为何如此缓慢，哪怕它能解决的安全风险已经众所周知，以及哪些组织在 RPKI 的部署方面处于滞后状态。我们希望这些发现能为政策制定者提供参考，以推进 RPKI 的部署，从而增强 BGP 的安全保障。在美国政府[再次发力](https://www.fcc.gov/document/fcc-proposes-internet-routing-security-reporting-requirements-0)推动解决路由安全问题的近期背景下，这项工作的意义就更为突出了。
 
