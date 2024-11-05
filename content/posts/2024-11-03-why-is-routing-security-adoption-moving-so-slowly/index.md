@@ -5,9 +5,9 @@ date: 2024-11-03T19:38:00+08:00
 ---
 
 
-[原文](https://pulse.internetsociety.org/blog/why-is-routing-security-adoption-moving-so-slowly)所有权利归原作者（Josephine Wolff）所有。本译文仅供个人学习研究和交流使用。
+[原文](https://pulse.internetsociety.org/blog/why-is-routing-security-adoption-moving-so-slowly)所有权利归原作者（Josephine Wolff）所有。本译文在获得原作者同意后发布，译文版权声明见结尾。
 
-All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-routing-security-adoption-moving-so-slowly) belong to the original author(s) (Josephine Wolff). This translation work is for personal study and research and communication purposes only.
+All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-routing-security-adoption-moving-so-slowly) belong to the original author(s) (Josephine Wolff). This translation work is published with the approval of the original author(s) and includes its own copyright disclaimer at the end.
 
 ---
 
@@ -18,11 +18,11 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 * 地理位置、网络规模、业务类型和地址空间的复杂度，都会影响路由安防措施的采纳程度。
 * 最新发现能帮助政策制定者了解当前的挑战，并帮助推广路由安防实践。
 
-路由安全并不是一个新问题。几十年来，人们一直知道，为实现域间路由而设计的、广泛使用的协议，即边界网关协议（[BGP](https://pulse.internetsociety.org/glossary#bgp)），存在关键性的漏洞：它缺乏一种内置机制来验证路由信息，这些信息在网络间共享，用来为数据流量选择全局路由。
+路由安全并不是一个新问题。几十年来，人们一直知道，为实现域间路由而设计的、广泛使用的协议，即边界网关协议（[Border Gateway Protocol, BGP](https://pulse.internetsociety.org/glossary#bgp)），存在关键性的漏洞：它缺乏一种内置机制来验证路由信息，这些信息在网络间共享，用来为数据流量选择全局路由。
 
 这意味着，当网络在决定流量转发目的地时，往往无法验证目的地网络是否真正能够将其传送到预定地址。因此，[流量](https://arstechnica.com/information-technology/2022/09/how-3-hours-of-inaction-from-amazon-cost-cryptocurrency-holders-235000/)[经常](https://securityboulevard.com/2024/01/orange-spain-outage-bgp-traffic-hijacked-by-threat-actor/)[会被](https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/)[路由](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)到错误的网络，无论是出于意外还是恶意。人们常把这种问题称为 BGP 劫持。
 
-由于 BGP 劫持由来已久，研究人员和技术专家设计了各种方法来阻止它的发生。最常用的解决方案之一，是一个名为 “资源公钥基础设施”（[RPKI](https://pulse.internetsociety.org/glossary#rpki)）的框架，于 2012 年由互联网工程任务组标准化。
+由于 BGP 劫持由来已久，研究人员和技术专家设计了各种方法来阻止它的发生。最常用的解决方案之一，是一个名为 “资源公钥基础设施”（[Resource Public Key Infrastructure, RPKI](https://pulse.internetsociety.org/glossary#rpki)）的框架，于 2012 年由互联网工程任务组标准化。
 
 在 RPKI 框架下，网络能够发布加密记录，其他网络可以用它们来验证通过 BGP 传播的信息，有效确保网络流量不被劫持。不过，要充分受益于 RPKI 的保护，网络需要为它们使用的整个 IP 地址空间发布 RPKI 记录。
 
@@ -38,7 +38,7 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 
 在分析中，我们发现了影响各个组织部署 RPKI 的四个关键特征：地理位置、网络规模、业务类型和地址空间的复杂度。
 
-我们认为，RPKI 部署率的地域差异源于各个地区互联网注册管理机构 (RIR) 各自独立的 RPKI 记录发布流程和要求。最终它们导致每个 [RIR](https://pulse.internetsociety.org/glossary#rir) 管理的地理区域的 RPKI 部署情况各不相同。
+我们认为，RPKI 部署率的地域差异源于各个地区互联网注册管理机构 (Regional Internet Registry, RIR) 各自独立的 RPKI 记录发布流程和要求。最终它们导致每个 [RIR](https://pulse.internetsociety.org/glossary#rir) 管理的地理区域的 RPKI 部署情况各不相同。
 
 {{< figure src="https://pulse.internetsociety.org/wp-content/uploads/2024/10/RPKI-adoption_Fig1.png" link="https://pulse.internetsociety.org/wp-content/uploads/2024/10/RPKI-adoption_Fig1.png" caption="图 2 - 资源公钥基础设施 (RPKI) 在各地区互联网注册管理机构辖区的覆盖率（AFRINIC = 非洲，APNIC = 亚太地区，[ARIN](https://pulse.internetsociety.org/glossary#arin) = 北美和加勒比地区，[LACNIC](https://pulse.internetsociety.org/glossary#lacnic) = 南美和中美洲，RIPENCC = 欧洲和中东）。" >}}
 
@@ -64,7 +64,11 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 
 译文作者：王文鑫
 
-转载需注明“本译文仅供个人学习研究和交流使用”，注明原作者、译文作者和引用出处。
+本译文最初发表于 [《中国教育网络》](https://www.edu.cn/xxh/zt/tj/202405/t20240515_2609767.shtml)，转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
+
+感谢作者 Josephine Wolff 以及 Internet Society 的 Robbie Mitchell 的亲切支持！
+
+Thanks to Josephine Wolff (the original Author) and Robbie Mitchel (from Internet Society), thank you for your kind support!
 
 在保证原作者所有权益的情况下，本译文使用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 授权，详情见 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en。超出此授权范围之外的使用需获得“计算机史料随译”项目的许可，详情见 https://random-cs-hans.github.io。
 
