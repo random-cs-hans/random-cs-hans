@@ -602,11 +602,11 @@ IPv4 地址分配一贯谨慎，有 77% 的已分配地址在 BGP 路由表中�
 
 译文作者：王文鑫
 
-本文最初发表于 [《中国教育网络》](https://www.edu.cn/xxh/zt/tj/202405/t20240515_2609767.shtml)，转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
+本译文最初发表于 [《中国教育网络》](https://www.edu.cn/xxh/zt/tj/202405/t20240515_2609767.shtml)，转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
 
-感谢 Geoff Huston 先生的亲切支持！
+感谢作者 Geoff Huston 的亲切支持！
 
-Thanks to Mr. Geoff Huston for your kind support!
+Thanks to Geoff Huston (the original author) for your kind support!
 
 在保证原作者所有权益的情况下，本译文使用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 授权，详情见 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
   超出此授权范围之外的使用需获得“计算机史料随译”项目的许可，详情见 https://random-cs-hans.github.io。
