@@ -16,7 +16,7 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 梗概
 * 在网络内采用路由安防的最佳实践，可以降低客户流量被劫持的风险。
 * 地理位置、网络规模、业务类型和地址空间的复杂度，都会影响路由安防措施的采纳程度。
-* 最新发现能帮助政策制定者了解当前的挑战，并帮助推广路由安防实践。
+* 最新发现能帮助政策制定者了解当前的挑战，并帮助推广路由安防措施的实施。
 
 路由安全并不是一个新问题。几十年来，人们一直知道，为实现域间路由而设计的、广泛使用的协议，即边界网关协议（[Border Gateway Protocol, BGP](https://pulse.internetsociety.org/glossary#bgp)），存在关键性的漏洞：它缺乏一种内置机制来验证路由信息，这些信息在网络间共享，用来为数据流量选择全局路由。
 
