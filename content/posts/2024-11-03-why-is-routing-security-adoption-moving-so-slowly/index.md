@@ -64,11 +64,11 @@ All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-
 
 译文作者：王文鑫
 
-本译文最初发表于 [《中国教育网络》](https://www.edu.cn/xxh/zt/tj/202405/t20240515_2609767.shtml)，转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
+本译文最初发表于 [《中国教育网络》](https://www.edu.cn/xxh/ji_shu_ju_le_bu/wlaq/202412/t20241216_2646499.shtml)，转载请按此下述授权要求，注明译文作者、使用同一授权，并注明原作者和引用出处。
 
 感谢作者 Josephine Wolff 以及 Internet Society 的 Robbie Mitchell 的亲切支持！
 
-Thanks to Josephine Wolff (the original Author) and Robbie Mitchel (from Internet Society), thank you for your kind support!
+Thanks Josephine Wolff (the original Author) and Robbie Mitchel (from Internet Society) for your kind support!
 
 在保证原作者所有权益的情况下，本译文使用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 授权，详情见 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en。超出此授权范围之外的使用需获得“计算机史料随译”项目的许可，详情见 https://random-cs-hans.github.io。
 
