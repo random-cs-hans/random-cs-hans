@@ -2,6 +2,7 @@
 draft: false
 title: "为你的计算机“编程”"
 date: 2024-01-31T00:00:00+08:00
+original_publish_date: 1979-01-01T00:00:00+00:00
 ---
 
 Alan Kay 著

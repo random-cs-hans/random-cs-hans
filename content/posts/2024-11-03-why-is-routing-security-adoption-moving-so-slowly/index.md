@@ -2,6 +2,7 @@
 draft: false
 title: "路由安防实践为何推广如此缓慢？"
 date: 2024-11-03T19:38:00+08:00
+original_publish_date: 2024-10-15T00:00:00+00:00
 ---
 
 
@@ -10,8 +11,6 @@ date: 2024-11-03T19:38:00+08:00
 All rights of the [original work](https://pulse.internetsociety.org/blog/why-is-routing-security-adoption-moving-so-slowly) belong to the original author(s) (Josephine Wolff). This translation work is published with the approval of the original author(s) and includes its own copyright disclaimer at the end.
 
 ---
-
-原文发表时间：2024 年 10 月 15 日。
 
 梗概
 * 在网络内采用路由安防的最佳实践，可以降低客户流量被劫持的风险。

@@ -3,8 +3,14 @@
 
 <article>
     <p class="post-meta">
+        {{ if .Params.original_publish_date }}
+        <time datetime="{{ .Params.original_publish_date }}">
+            原著发布时间：{{ .Params.original_publish_date | time.Format site.Params.theme_config.date_format }}
+        </time>
+        <br/>
+        {{ end }}
         <time datetime="{{ .Date }}">
-            {{ .Date | time.Format site.Params.theme_config.date_format }}
+            译作时间：{{ .Date | time.Format site.Params.theme_config.date_format }}
         </time>
     </p>
 
