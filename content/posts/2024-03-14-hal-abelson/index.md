@@ -25,6 +25,10 @@ video:
 
 All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) belong to the original author(s) (InfiniteHistoryProject MIT). This translation work includes its own copyright disclaimer at the end.
 
+译者注：每次看到这个视频里 Abelson 教授所展现出的对教育和开放资源事业的热忱，以
+及他的国际主义胸怀，我都会十分感动。他和他的导师、同僚和学生们对世界的贡献，是一
+份来自全球化进程蒸蒸日上、充满技术乐观主义的时代的馈赠，这份馈赠我们受益至今。
+
 ---
 
 {{< track-segment start="00:00:00.000" end="00:00:03.200" >}}
