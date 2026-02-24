@@ -1,2 +1,6 @@
 public/
 resources/
+
+.venv/
+__pycache__/
+.python-version
