@@ -1,4 +1,3 @@
-
 {{$lightbox_js := resources.Get "js/lightbox-plus-jquery.min.js" | resources.Fingerprint "sha512" }}
 <script src="{{ $lightbox_js.Permalink | relURL }}" integrity="{{ $lightbox_js.Data.Integrity }}"></script>
 <script>
@@ -11,3 +10,9 @@
         "wrapAround": true,
     })
 </script>
+{{ with .Params.video }}
+{{$video_js := resources.Get "js/video.min.js" | resources.Fingerprint "sha512" }}
+<script src="{{ $video_js.Permalink | relURL }}" integrity="{{ $video_js.Data.Integrity }}"></script>
+{{$videojs_youtube_js := resources.Get "js/videojs-youtube.min.js" | resources.Fingerprint "sha512" }}
+<script src="{{ $videojs_youtube_js.Permalink | relURL }}" integrity="{{ $videojs_youtube_js.Data.Integrity }}"></script>
+{{ end }}

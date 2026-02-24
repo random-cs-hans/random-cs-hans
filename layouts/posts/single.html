@@ -16,6 +16,145 @@
 
     <h1>{{ .Title }}</h1>
 
+    {{ with .Params.video }}
+    <video
+      id="main-video"
+      class="video-js vjs-default-skin"
+      controls
+      crossorigin="anonymous"
+      playsinline
+      data-setup='{
+                  "techOrder": ["youtube"],
+                  "sources": {{ .sources | jsonify }},
+                  "posterImage": false,
+                  "textTrackDisplay": {
+                    "allowMultipleShowingTracks": true
+                  },
+                  "enableDocumentPictureInPicture": true,
+                  "responsive": true,
+                  "fluid": true
+                  }'
+    >
+       {{- range $i, $track := .tracks -}}
+       <track kind="captions" src="{{ $track.src }}" label="{{ $track.label }}" srclang="{{ $track.srclang }}" {{ if eq $i 0 }}default{{ end }} />
+       {{- end -}}
+       您的浏览器不支持 HTML5 视频播放。
+    </video>
+    <div id="subtitle-controls" style="margin: 10px 0;">
+    <strong>字幕语言：</strong>
+    </div>
+    <style>
+    .video-js .vjs-text-track-cue {
+      white-space: normal !important;
+    }
+    </style>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      let player = videojs('main-video');
+      player.ready(function() {
+        this.textTrackSettings.setValues({
+          "backgroundColor": "#000",
+          "backgroundOpacity": "0.5",
+          "edgeStyle": "uniform",
+          "fontPercent": 1
+        });
+        this.textTrackSettings.updateDisplay();
+
+        // Allow selecting multiple subtitles.
+        const tracks = this.textTracks();
+        const container = document.getElementById('subtitle-controls');
+        if (container && tracks.length > 0) {
+          for (let i = 0; i < tracks.length; i++) {
+            const track = tracks[i];
+            console.log(track);
+            const label = track.label;
+            const wrapper = document.createElement('label');
+            wrapper.style.marginRight = '15px';
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.value = i;
+            const hidingClassName = 'hide-' + track.language;
+            if (track.mode === 'showing') {
+              checkbox.checked = true;
+              document.body.classList.remove(hidingClassName);
+            } else {
+              document.body.classList.add(hidingClassName);
+            }
+            checkbox.addEventListener('change', function() {
+              track.mode = this.checked ? 'showing' : 'disabled';
+              document.body.classList.toggle(hidingClassName);
+            });
+            wrapper.appendChild(checkbox);
+            wrapper.appendChild(document.createTextNode(' ' + label));
+            container.appendChild(wrapper);
+          }
+        }
+      });
+
+      // Segment tracking
+      function parseTime(str) {
+        const parts = str.split(':');
+        const hours = parseInt(parts[0], 10);
+        const minutes = parseInt(parts[1], 10);
+        const seconds = parseFloat(parts[2]);
+        return hours * 3600 + minutes * 60 + seconds;
+      }
+
+      const segments = document.querySelectorAll('.track-segment');
+      const segmentData = [];
+      segments.forEach((seg, idx) => {
+        const start = parseTime(seg.dataset.start);
+        const btn = seg.querySelector('.segment-play-btn');
+        segmentData.push({ element: seg, start: start });
+
+        if (btn) {
+          btn.addEventListener('click', function(e) {
+            e.preventDefault();
+            player.currentTime(start);
+            if (player.paused()) {
+              player.play();
+            }
+          });
+        }
+      });
+
+      function findFirstStart(arr, target) {
+        let left = 0;
+        let right = arr.length;
+      
+        while (left < right) {
+          const mid = Math.floor((left + right) / 2);
+
+          if (arr[mid].start <= target) {
+            left = mid + 1;
+          } else {
+            right = mid;
+          }
+        }
+      
+        if (left > 0) {
+          return left - 1;
+        }
+      
+        return 0;
+      }
+
+      let lastActiveIndex = -1;
+      player.on('timeupdate', function() {
+        const currentTime = player.currentTime();
+        let activeIndex = findFirstStart(segmentData, currentTime);
+        if (activeIndex !== lastActiveIndex) {
+          if (lastActiveIndex >= 0) {
+            segmentData[lastActiveIndex].element.classList.remove('active');
+          }
+          segmentData[activeIndex].element.classList.add('active');
+          lastActiveIndex = activeIndex;
+        }
+      });
+    });
+    </script>
+    {{ end }}
+
     {{ if .Params.toc }}
         <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
             {{ .TableOfContents }}

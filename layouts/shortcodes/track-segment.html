@@ -1,0 +1,10 @@
+<span class="track-segment" data-start="{{ .Get "start" }}" data-end="{{ .Get "end" }}">
+  <a class="segment-play-btn">
+    <svg viewBox="0 0 10 10">
+      <polygon points="0,0 10,5 0,10" />
+    </svg>
+  </a>
+  <div class="segment-text">
+    {{ .Inner }}
+  </div>
+</span>
