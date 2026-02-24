@@ -19,6 +19,8 @@
   {{ $style := $sass | css.Sass $options | resources.Fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
   {{ if .Params.mathjax }} {{ partial "mathjax.html" . }} {{ end }}
-  {{ $lightbox_style := resources.Get "css/lightbox.min.css" | resources.Fingerprint "sha512" }}
-  <link rel="stylesheet" href="{{ $lightbox_style.Permalink | relURL }}" integrity="{{ $lightbox_style.Data.Integrity }}" />
+  {{ with .Params.video }}
+  {{ $videojs_style := resources.Get "css/video-js.css" | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $videojs_style.Permalink | relURL }}" integrity="{{ $videojs_style.Data.Integrity }}" />
+  {{ end }}
 </head>
