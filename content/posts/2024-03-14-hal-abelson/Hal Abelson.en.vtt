@@ -1,0 +1,6442 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.200
+
+
+00:00:03.200 --> 00:00:05.280
+INTERVIEWER: Today is August 23, 2011.
+
+00:00:05.280 --> 00:00:06.500
+I'm Chris Boebel.
+
+00:00:06.500 --> 00:00:09.430
+As part of the MIT150 Infinite History project, we're talking
+
+00:00:09.430 --> 00:00:11.610
+with professor Hal Abelson.
+
+00:00:11.610 --> 00:00:14.430
+Professor Abelson is the Class of 1922 professor of
+
+00:00:14.430 --> 00:00:17.430
+electrical engineering and computer science at MIT.
+
+00:00:17.430 --> 00:00:21.140
+He holds an AB degree from Princeton University and a PhD
+
+00:00:21.140 --> 00:00:23.860
+degree in mathematics from MIT.
+
+00:00:23.860 --> 00:00:27.320
+In 1992, Abelson was designated as one of MIT's six
+
+00:00:27.320 --> 00:00:30.150
+inaugural MacVicar Faculty Fellows.
+
+00:00:30.150 --> 00:00:32.259
+Professor Abelson is co-director of the
+
+00:00:32.259 --> 00:00:35.310
+MIT-Microsoft iCampus Research Alliance in educational
+
+00:00:35.310 --> 00:00:36.450
+technology.
+
+00:00:36.450 --> 00:00:39.130
+He's co-chair of the MIT Council on Educational
+
+00:00:39.130 --> 00:00:39.830
+Technology.
+
+00:00:39.830 --> 00:00:41.820
+And he serves on the steering committee
+
+00:00:41.820 --> 00:00:43.705
+of the HP-MIT Alliance.
+
+00:00:43.705 --> 00:00:46.950
+He has played key roles in fostering MIT institutional
+
+00:00:46.950 --> 00:00:50.690
+initiatives such as MIT OpenCourseWare and DSpace.
+
+00:00:50.690 --> 00:00:52.600
+Hal, thanks very much for taking the time--
+
+00:00:52.600 --> 00:00:52.730
+ABELSON: Sure.
+
+00:00:52.730 --> 00:00:54.900
+INTERVIEWER: --to talk today.
+
+00:00:54.900 --> 00:00:57.320
+So let's start at the beginning.
+
+00:00:57.320 --> 00:00:58.310
+ABELSON: The beginning?
+
+00:00:58.310 --> 00:01:00.185
+INTERVIEWER: The beginning.
+
+00:01:00.185 --> 00:01:03.120
+Just start by telling me a little bit about where you
+
+00:01:03.120 --> 00:01:07.950
+grew up and the early years?
+
+00:01:07.950 --> 00:01:10.470
+ABELSON: So the real early years, I grew up on a chicken
+
+00:01:10.470 --> 00:01:13.160
+farm in central New Jersey.
+
+00:01:13.160 --> 00:01:16.370
+
+
+00:01:16.370 --> 00:01:18.120
+My parents worked on the farm.
+
+00:01:18.120 --> 00:01:22.660
+My father later went and worked in the post office.
+
+00:01:22.660 --> 00:01:25.810
+I was the first one in my family to go to college,
+
+00:01:25.810 --> 00:01:28.750
+although my parents were always very, very interested
+
+00:01:28.750 --> 00:01:31.300
+in education.
+
+00:01:31.300 --> 00:01:33.415
+My parents liked music, education.
+
+00:01:33.415 --> 00:01:38.220
+I had an uncle who sort of was the college person, who worked
+
+00:01:38.220 --> 00:01:41.210
+for Exxon and had a high level position there.
+
+00:01:41.210 --> 00:01:44.250
+So we always cared a lot about education.
+
+00:01:44.250 --> 00:01:48.730
+I'm not quite sure where I glommed onto math and science.
+
+00:01:48.730 --> 00:01:52.730
+I remember when I was I guess 12 or 13, I decided I wanted
+
+00:01:52.730 --> 00:01:54.910
+to be a physicist, mostly because I
+
+00:01:54.910 --> 00:01:56.590
+think I liked the word.
+
+00:01:56.590 --> 00:01:57.940
+But I didn't know what that was.
+
+00:01:57.940 --> 00:02:02.310
+
+
+00:02:02.310 --> 00:02:04.500
+I did sort of okay in school.
+
+00:02:04.500 --> 00:02:07.440
+When I talk to kids these days, I remind them that when
+
+00:02:07.440 --> 00:02:10.930
+I was their age in seventh or eighth grade, I was getting
+
+00:02:10.930 --> 00:02:14.130
+D's in mathematics.
+
+00:02:14.130 --> 00:02:16.190
+In fact, like a lot of people who end up going into
+
+00:02:16.190 --> 00:02:20.590
+computers, we are really bad at doing arithmetic.
+
+00:02:20.590 --> 00:02:23.240
+Someone once said the reason a lot of people go into
+
+00:02:23.240 --> 00:02:24.950
+computers is to make up for their own
+
+00:02:24.950 --> 00:02:27.000
+handicaps in doing that.
+
+00:02:27.000 --> 00:02:30.060
+So I wasn't particularly good in any of those
+
+00:02:30.060 --> 00:02:31.010
+subjects early on.
+
+00:02:31.010 --> 00:02:35.150
+And then about the time I got in high school, I started
+
+00:02:35.150 --> 00:02:38.370
+being good at it.
+
+00:02:38.370 --> 00:02:43.020
+One of the things the school did, they hired somebody to
+
+00:02:43.020 --> 00:02:46.230
+help me learn calculus because of course our school did
+
+00:02:46.230 --> 00:02:48.480
+nothing like that.
+
+00:02:48.480 --> 00:02:51.460
+And I don't know, sort of grew a lot of interest in math and
+
+00:02:51.460 --> 00:02:53.120
+science from there.
+
+00:02:53.120 --> 00:02:54.640
+So at some point I said gee, I don't want to
+
+00:02:54.640 --> 00:02:56.470
+be a physicist anymore.
+
+00:02:56.470 --> 00:02:59.990
+I want to be a mathematician because I guess that word
+
+00:02:59.990 --> 00:03:01.990
+sounded better.
+
+00:03:01.990 --> 00:03:08.050
+And then I got into Princeton on a scholarship, which was
+
+00:03:08.050 --> 00:03:10.970
+nice because my family could never have afforded
+
+00:03:10.970 --> 00:03:13.100
+anything like that.
+
+00:03:13.100 --> 00:03:15.020
+And did pretty well at Princeton.
+
+00:03:15.020 --> 00:03:17.840
+
+
+00:03:17.840 --> 00:03:19.880
+Started getting interested in a subject
+
+00:03:19.880 --> 00:03:21.730
+called algebraic topology.
+
+00:03:21.730 --> 00:03:25.390
+And then got into MIT graduate school on that.
+
+00:03:25.390 --> 00:03:31.360
+And ended up coming to graduate school at MIT mostly
+
+00:03:31.360 --> 00:03:36.060
+because my wife and I were looking for places
+
+00:03:36.060 --> 00:03:38.930
+we could both go.
+
+00:03:38.930 --> 00:03:42.460
+We weren't married then, but she was looking for a place
+
+00:03:42.460 --> 00:03:42.990
+where she could go.
+
+00:03:42.990 --> 00:03:44.700
+She got into BU's School of Social Work.
+
+00:03:44.700 --> 00:03:46.800
+I got into MIT.
+
+00:03:46.800 --> 00:03:49.350
+MIT also had a draft deferment.
+
+00:03:49.350 --> 00:03:53.310
+So back in ancient days, one of the things that you wanted
+
+00:03:53.310 --> 00:03:56.240
+to do was if you were worried that getting drafted to go to
+
+00:03:56.240 --> 00:04:00.820
+the Vietnam War, so MIT did something where I think
+
+00:04:00.820 --> 00:04:03.430
+because I was teaching or something like that, there was
+
+00:04:03.430 --> 00:04:05.930
+a category of draft deferment you could get.
+
+00:04:05.930 --> 00:04:08.040
+So we ended up coming to MIT.
+
+00:04:08.040 --> 00:04:13.280
+And MIT was just absolutely an fascinating place.
+
+00:04:13.280 --> 00:04:18.290
+One of the nicest things, when I first showed up at MIT, we
+
+00:04:18.290 --> 00:04:19.930
+lived in Westgate.
+
+00:04:19.930 --> 00:04:23.620
+And one of the great memories that we had of being in
+
+00:04:23.620 --> 00:04:28.100
+Westgate was looking down over the field and at the other end
+
+00:04:28.100 --> 00:04:33.460
+of the field, seeing the tear gas on Mass Ave. Because that
+
+00:04:33.460 --> 00:04:36.080
+was the time when even MIT students
+
+00:04:36.080 --> 00:04:37.160
+were protesting stuff.
+
+00:04:37.160 --> 00:04:40.530
+They were protesting, for anybody who remembers, Draper
+
+00:04:40.530 --> 00:04:43.370
+Labs used to be called the Institute Labs.
+
+00:04:43.370 --> 00:04:47.060
+And there was a protest about how is it that on the MIT
+
+00:04:47.060 --> 00:04:50.200
+campus, there was classified research related to the
+
+00:04:50.200 --> 00:04:53.280
+Vietnam War?
+
+00:04:53.280 --> 00:04:54.280
+It was just sort of wonderful.
+
+00:04:54.280 --> 00:04:57.170
+Just marvelous to be here and look through this thing.
+
+00:04:57.170 --> 00:04:59.970
+And what do I remember of MIT?
+
+00:04:59.970 --> 00:05:05.080
+I remember going up to the door on 77 Mass Ave. And gosh,
+
+00:05:05.080 --> 00:05:07.960
+they were automatic doors.
+
+00:05:07.960 --> 00:05:11.540
+And coming from Princeton, which is an ivy covered--
+
+00:05:11.540 --> 00:05:13.690
+it's the last thing in the world you would ever
+
+00:05:13.690 --> 00:05:15.260
+imagine like that.
+
+00:05:15.260 --> 00:05:17.190
+And then there were these long, long halls.
+
+00:05:17.190 --> 00:05:20.920
+And I always had these visions of getting on roller skates
+
+00:05:20.920 --> 00:05:23.990
+and going down the halls these automatic doors.
+
+00:05:23.990 --> 00:05:26.370
+It was just a wild place.
+
+00:05:26.370 --> 00:05:28.350
+It was all one building.
+
+00:05:28.350 --> 00:05:30.240
+I didn't know quite what to make of it.
+
+00:05:30.240 --> 00:05:33.580
+
+
+00:05:33.580 --> 00:05:37.390
+But then early on, it could have been a couple of weeks
+
+00:05:37.390 --> 00:05:42.920
+after I got here, the Students for a Democratic Society, if
+
+00:05:42.920 --> 00:05:47.730
+anyone remembers that from the '60s, that was the campus
+
+00:05:47.730 --> 00:05:51.535
+activist organization.
+
+00:05:51.535 --> 00:05:54.690
+It took over the President's Office.
+
+00:05:54.690 --> 00:05:56.560
+And they did this great thing.
+
+00:05:56.560 --> 00:05:58.440
+They had open house at the President's Office.
+
+00:05:58.440 --> 00:06:03.090
+And they were sitting there replaying the tapes so they
+
+00:06:03.090 --> 00:06:07.050
+could see what was typed on the electric typewriters in
+
+00:06:07.050 --> 00:06:08.870
+President Howard Johnson's office.
+
+00:06:08.870 --> 00:06:09.670
+And they held open house.
+
+00:06:09.670 --> 00:06:11.830
+And I said, hey, I'm a new graduate student.
+
+00:06:11.830 --> 00:06:15.100
+I'm never in my life, ever going to be able to walk into
+
+00:06:15.100 --> 00:06:16.690
+the MIT's President's Office.
+
+00:06:16.690 --> 00:06:19.270
+So let me go sit around and see what's in
+
+00:06:19.270 --> 00:06:20.930
+the President's Office.
+
+00:06:20.930 --> 00:06:21.830
+So we walk in.
+
+00:06:21.830 --> 00:06:24.390
+And there were a bunch of students kind of sitting on
+
+00:06:24.390 --> 00:06:27.170
+the floor of the President's Office.
+
+00:06:27.170 --> 00:06:35.140
+And I see a guy that I'd been to high school with, who I
+
+00:06:35.140 --> 00:06:39.820
+knew had gone to MIT, but we'd had no contact since then.
+
+00:06:39.820 --> 00:06:41.195
+And I went up to him and said hi.
+
+00:06:41.195 --> 00:06:43.440
+Gee, hi, Ronnie.
+
+00:06:43.440 --> 00:06:45.240
+This is sort of really nice.
+
+00:06:45.240 --> 00:06:46.440
+And he says, what are you doing?
+
+00:06:46.440 --> 00:06:48.970
+And I said, I'm a new graduate student.
+
+00:06:48.970 --> 00:06:49.970
+I'm looking for what to do.
+
+00:06:49.970 --> 00:06:52.880
+What's interesting to do around here?
+
+00:06:52.880 --> 00:06:56.300
+And he said, oh, why don't you go over to the Artificial
+
+00:06:56.300 --> 00:06:58.190
+Intelligence Lab.
+
+00:06:58.190 --> 00:07:00.840
+I hear they're doing interesting stuff.
+
+00:07:00.840 --> 00:07:02.760
+So I wandered over there and talked to some people.
+
+00:07:02.760 --> 00:07:05.920
+And that's essentially how I got into computer science and
+
+00:07:05.920 --> 00:07:08.290
+AI and all the stuff I'm doing now.
+
+00:07:08.290 --> 00:07:12.510
+And I like to tell that story to students who worry about
+
+00:07:12.510 --> 00:07:14.350
+what they're going to do when they grow up.
+
+00:07:14.350 --> 00:07:16.650
+Because I like to tell them it will be random,
+
+00:07:16.650 --> 00:07:18.630
+and you have no idea.
+
+00:07:18.630 --> 00:07:21.010
+But at some point, some totally random thing will
+
+00:07:21.010 --> 00:07:22.730
+happen that will have a tremendous influence.
+
+00:07:22.730 --> 00:07:25.420
+So don't worry about it too much.
+
+00:07:25.420 --> 00:07:29.190
+INTERVIEWER: So backing up for just a moment, had you done
+
+00:07:29.190 --> 00:07:32.060
+work in computer science before that at Princeton, or
+
+00:07:32.060 --> 00:07:32.650
+even previously?
+
+00:07:32.650 --> 00:07:33.040
+How did you first--
+
+00:07:33.040 --> 00:07:33.750
+ABELSON: Yeah.
+
+00:07:33.750 --> 00:07:35.640
+At Princeton I did--
+
+00:07:35.640 --> 00:07:38.492
+well, there sort of wasn't a computer science major then.
+
+00:07:38.492 --> 00:07:40.230
+In fact, I'm not even sure there was one at MIT
+
+00:07:40.230 --> 00:07:42.040
+when I showed up.
+
+00:07:42.040 --> 00:07:45.720
+But at Princeton, a bunch of us worked in
+
+00:07:45.720 --> 00:07:48.450
+the computer center.
+
+00:07:48.450 --> 00:07:53.905
+And the Princeton Computer Center had an IBM--
+
+00:07:53.905 --> 00:07:56.110
+I think a 7.090 or 7.10.
+
+00:07:56.110 --> 00:07:59.880
+It got one of the first 3.60s.
+
+00:07:59.880 --> 00:08:03.030
+And they were working on this very weird
+
+00:08:03.030 --> 00:08:07.630
+thing called time sharing.
+
+00:08:07.630 --> 00:08:12.250
+And a bunch of us went around and messed around with that
+
+00:08:12.250 --> 00:08:18.080
+and did what most of Princeton considered to be a totally
+
+00:08:18.080 --> 00:08:21.950
+worthless, stupid thing with computers, which is actually
+
+00:08:21.950 --> 00:08:24.790
+using it for text processing.
+
+00:08:24.790 --> 00:08:28.010
+Because everyone knew that what computers were really for
+
+00:08:28.010 --> 00:08:30.940
+were solving big complicated equations.
+
+00:08:30.940 --> 00:08:34.460
+And the computer center used to take down the system a
+
+00:08:34.460 --> 00:08:39.500
+couple of hours each week and let those of us who wanted to
+
+00:08:39.500 --> 00:08:41.700
+screw around and waste time, play with this
+
+00:08:41.700 --> 00:08:42.490
+text editing thing.
+
+00:08:42.490 --> 00:08:45.570
+Get tremendous complaints from the astrophysics department
+
+00:08:45.570 --> 00:08:46.760
+because people had to stop trying to
+
+00:08:46.760 --> 00:08:48.480
+solve on science equations.
+
+00:08:48.480 --> 00:08:49.720
+So I became one of the people who were
+
+00:08:49.720 --> 00:08:50.810
+messing around with that.
+
+00:08:50.810 --> 00:08:53.710
+And I became a little bit of a consultant, an undergraduate
+
+00:08:53.710 --> 00:08:57.940
+consultant in the computer system, teaching people to
+
+00:08:57.940 --> 00:09:04.450
+migrate their programs from FORTRAN to a language that IBM
+
+00:09:04.450 --> 00:09:08.540
+and a couple of other places were pushing then called PL/1,
+
+00:09:08.540 --> 00:09:11.980
+a very modest name, Programming Language 1.
+
+00:09:11.980 --> 00:09:15.020
+And this was supposed to be the be all and end all of the
+
+00:09:15.020 --> 00:09:15.840
+new computer stuff.
+
+00:09:15.840 --> 00:09:19.610
+And there was a big move to say you should translate all
+
+00:09:19.610 --> 00:09:20.680
+your programs into PL/1.
+
+00:09:20.680 --> 00:09:25.130
+So I became one of what was called the PL/1 kids and would
+
+00:09:25.130 --> 00:09:29.680
+consult with faculty in the other departments about how to
+
+00:09:29.680 --> 00:09:31.650
+modify their programs.
+
+00:09:31.650 --> 00:09:33.920
+So I had some stuff in computing and
+
+00:09:33.920 --> 00:09:35.940
+I knew about that.
+
+00:09:35.940 --> 00:09:40.610
+I knew very little about what I actually went into at MIT.
+
+00:09:40.610 --> 00:09:43.360
+But it was a background in computers, enough to walk into
+
+00:09:43.360 --> 00:09:47.600
+the AI Lab and do interesting things.
+
+00:09:47.600 --> 00:09:50.030
+INTERVIEWER: But at the time you came to MIT, initially
+
+00:09:50.030 --> 00:09:52.850
+there was not a sense that you would be
+
+00:09:52.850 --> 00:09:53.770
+moving in that direction?
+
+00:09:53.770 --> 00:09:55.660
+ABELSON: No, I was in the math department.
+
+00:09:55.660 --> 00:10:01.880
+And I was a graduate student in the math department, became
+
+00:10:01.880 --> 00:10:05.130
+an instructor in the math department after that, and
+
+00:10:05.130 --> 00:10:09.830
+only moved into computing later on because some of the
+
+00:10:09.830 --> 00:10:14.540
+work I was doing in topology was related
+
+00:10:14.540 --> 00:10:17.020
+to distributed computing.
+
+00:10:17.020 --> 00:10:20.130
+And then sort of the topology part of it atrophied and the
+
+00:10:20.130 --> 00:10:21.640
+computing part of it grew.
+
+00:10:21.640 --> 00:10:25.110
+And eventually when into computer science.
+
+00:10:25.110 --> 00:10:27.540
+INTERVIEWER: So you mentioned the AI Lab.
+
+00:10:27.540 --> 00:10:31.810
+Talk a bit more about working there and also you worked with
+
+00:10:31.810 --> 00:10:34.150
+Seymour Papert in the Logo Lab as well, right?
+
+00:10:34.150 --> 00:10:38.830
+ABELSON: Well, that's actually how I started in the AI Lab.
+
+00:10:38.830 --> 00:10:41.420
+For some reason I went--
+
+00:10:41.420 --> 00:10:45.170
+there was an early Logo presentation called I think
+
+00:10:45.170 --> 00:10:48.780
+Teaching Children Thinking, which was in 26-100.
+
+00:10:48.780 --> 00:10:53.420
+And it was this big thing where Seymour Papert and his
+
+00:10:53.420 --> 00:10:56.260
+assistant for many years, Cynthia Solomon, talked about
+
+00:10:56.260 --> 00:10:58.650
+the Logo computer language and showed the Logo turtle.
+
+00:10:58.650 --> 00:11:01.080
+And I looked at it and it was pretty fascinating.
+
+00:11:01.080 --> 00:11:01.990
+And pretty wild.
+
+00:11:01.990 --> 00:11:06.210
+I remember later on reading a report from a journalist who's
+
+00:11:06.210 --> 00:11:07.690
+been there.
+
+00:11:07.690 --> 00:11:12.370
+And her mind was just blown about this notion that
+
+00:11:12.370 --> 00:11:14.465
+children should do these weird robot things.
+
+00:11:14.465 --> 00:11:16.870
+And I remember her saying, I looked at this thing and I
+
+00:11:16.870 --> 00:11:20.730
+thought these people were witches.
+
+00:11:20.730 --> 00:11:22.590
+But anyway, I thought they were cool, whether they were
+
+00:11:22.590 --> 00:11:24.760
+witches or not.
+
+00:11:24.760 --> 00:11:28.270
+And I walked over to the AI Lab, looking for
+
+00:11:28.270 --> 00:11:30.830
+something to do.
+
+00:11:30.830 --> 00:11:32.936
+And walked into the elevator.
+
+00:11:32.936 --> 00:11:35.070
+And then elevator stopped at one of the floors and then
+
+00:11:35.070 --> 00:11:36.660
+Seymour got in.
+
+00:11:36.660 --> 00:11:38.050
+And I said, hi, I like your stuff.
+
+00:11:38.050 --> 00:11:39.660
+I'm a new graduate student.
+
+00:11:39.660 --> 00:11:40.430
+Can I work for you?
+
+00:11:40.430 --> 00:11:41.700
+And he said, yeah.
+
+00:11:41.700 --> 00:11:43.700
+And that's how I got into this whole business.
+
+00:11:43.700 --> 00:11:45.695
+So another bunch of random events.
+
+00:11:45.695 --> 00:11:49.580
+
+
+00:11:49.580 --> 00:11:52.710
+INTERVIEWER: So you've talked a little bit about what it was
+
+00:11:52.710 --> 00:11:56.310
+like coming to MIT in the late 1960s, what your impression
+
+00:11:56.310 --> 00:11:58.360
+was of the campus.
+
+00:11:58.360 --> 00:12:02.410
+But give me a little bit more information about sort of the
+
+00:12:02.410 --> 00:12:04.470
+culture and the environment at that time.
+
+00:12:04.470 --> 00:12:08.220
+I mean obviously it differed as you've said from Princeton
+
+00:12:08.220 --> 00:12:09.910
+and was unlike other things you'd seen.
+
+00:12:09.910 --> 00:12:12.305
+ABELSON: Well to me, it was really strange.
+
+00:12:12.305 --> 00:12:18.400
+I mean MIT is such a big complicated place.
+
+00:12:18.400 --> 00:12:23.070
+I've often thought that well, after being here about 20
+
+00:12:23.070 --> 00:12:27.210
+years I finally got the ability to think of the place
+
+00:12:27.210 --> 00:12:28.920
+as a whole place.
+
+00:12:28.920 --> 00:12:31.210
+And I just don't even know how it's possible to do that
+
+00:12:31.210 --> 00:12:34.520
+because there are just so many things going on and it's so
+
+00:12:34.520 --> 00:12:37.020
+complicated.
+
+00:12:37.020 --> 00:12:39.630
+But my impression from Princeton is that it was very
+
+00:12:39.630 --> 00:12:43.850
+strange and very regimented.
+
+00:12:43.850 --> 00:12:48.780
+So I remember hearing about the Experimental Study Group.
+
+00:12:48.780 --> 00:12:53.560
+So what people told me about the Experimental Study Group
+
+00:12:53.560 --> 00:12:56.420
+was that it was a place where you could learn on your own
+
+00:12:56.420 --> 00:12:57.880
+and do stuff that's independently
+
+00:12:57.880 --> 00:12:58.980
+and it was very open.
+
+00:12:58.980 --> 00:13:02.550
+And I remember going over that, because I had some
+
+00:13:02.550 --> 00:13:04.360
+friends who were in the ESG.
+
+00:13:04.360 --> 00:13:05.840
+So what do you do here?
+
+00:13:05.840 --> 00:13:07.240
+What do you do that's independent?
+
+00:13:07.240 --> 00:13:10.390
+And they said something like, well we get to take the
+
+00:13:10.390 --> 00:13:12.200
+standard course curriculum, but we get
+
+00:13:12.200 --> 00:13:15.760
+to study it by ourselves.
+
+00:13:15.760 --> 00:13:18.670
+And I just remember breaking down laughing.
+
+00:13:18.670 --> 00:13:23.030
+I said, that's this place's idea of what independent
+
+00:13:23.030 --> 00:13:24.420
+learning is?
+
+00:13:24.420 --> 00:13:29.550
+Because I'd been in a program at Princeton, a very '60s
+
+00:13:29.550 --> 00:13:32.240
+program, I think even Princeton stop doing it, where
+
+00:13:32.240 --> 00:13:34.010
+they admitted you.
+
+00:13:34.010 --> 00:13:38.750
+And they said hey, you're a bunch of smart people.
+
+00:13:38.750 --> 00:13:41.630
+You have no requirements.
+
+00:13:41.630 --> 00:13:43.120
+You had department requirements.
+
+00:13:43.120 --> 00:13:45.570
+But the rest of the time, Princeton's a big place, take
+
+00:13:45.570 --> 00:13:46.350
+what you want.
+
+00:13:46.350 --> 00:13:49.510
+And all of the standard things you'd call distribution
+
+00:13:49.510 --> 00:13:52.790
+requirements or university requirements are just
+
+00:13:52.790 --> 00:13:55.490
+abolished for you.
+
+00:13:55.490 --> 00:13:57.010
+Some of us totally exploited it.
+
+00:13:57.010 --> 00:13:59.870
+Some of us had a great time.
+
+00:13:59.870 --> 00:14:03.100
+I ended up with a couple of friends essentially living as
+
+00:14:03.100 --> 00:14:06.590
+graduate students in the math department.
+
+00:14:06.590 --> 00:14:11.830
+But coming from there to MIT, it was this sense of being
+
+00:14:11.830 --> 00:14:13.915
+regimented and precise.
+
+00:14:13.915 --> 00:14:17.600
+
+
+00:14:17.600 --> 00:14:22.500
+Later I've come to identify that as
+
+00:14:22.500 --> 00:14:23.750
+an engineering culture.
+
+00:14:23.750 --> 00:14:26.310
+
+
+00:14:26.310 --> 00:14:28.400
+I see the same thing happening at Google, because I've been
+
+00:14:28.400 --> 00:14:29.750
+spending time at Google.
+
+00:14:29.750 --> 00:14:33.280
+So you see this culture and you love it.
+
+00:14:33.280 --> 00:14:35.710
+I mean I just love engineer's culture.
+
+00:14:35.710 --> 00:14:37.960
+I'm an engineer and I do that.
+
+00:14:37.960 --> 00:14:42.205
+But one of the characteristics of an engineer's culture is
+
+00:14:42.205 --> 00:14:46.300
+you sort of sit and you say, what's the problem, what are
+
+00:14:46.300 --> 00:14:48.060
+you're trying to do?
+
+00:14:48.060 --> 00:14:50.370
+And then about three seconds later you say
+
+00:14:50.370 --> 00:14:52.230
+okay, what's the solution?
+
+00:14:52.230 --> 00:14:54.960
+And you think for about two minutes and you
+
+00:14:54.960 --> 00:14:56.410
+figure out the solution.
+
+00:14:56.410 --> 00:15:00.010
+And then you just drive to that solution as fast you can.
+
+00:15:00.010 --> 00:15:06.610
+And looking back, I recognize that's how I reacted to MIT.
+
+00:15:06.610 --> 00:15:08.680
+So there was no sense that the requirements were
+
+00:15:08.680 --> 00:15:10.650
+wrong or any of that.
+
+00:15:10.650 --> 00:15:12.870
+It was just we figured out this is the way to do it.
+
+00:15:12.870 --> 00:15:15.060
+And now we are just going to drive to that as
+
+00:15:15.060 --> 00:15:16.320
+effectively as we can.
+
+00:15:16.320 --> 00:15:18.360
+And MIT's kind of like that.
+
+00:15:18.360 --> 00:15:21.560
+And there are wonderful parts about that.
+
+00:15:21.560 --> 00:15:25.440
+And there are sort of bad part of that.
+
+00:15:25.440 --> 00:15:26.810
+INTERVIEWER: Tell me a bit more about working with
+
+00:15:26.810 --> 00:15:27.290
+Seymour Papert.
+
+00:15:27.290 --> 00:15:28.762
+What was that like?
+
+00:15:28.762 --> 00:15:30.790
+ABELSON: Well, Seymour was, is amazing.
+
+00:15:30.790 --> 00:15:35.440
+So I guess people know that tragically he was very
+
+00:15:35.440 --> 00:15:38.280
+severely injured in Vietnam.
+
+00:15:38.280 --> 00:15:40.230
+And his brain was very affected.
+
+00:15:40.230 --> 00:15:41.860
+And he's under rehabilitation now.
+
+00:15:41.860 --> 00:15:45.065
+But Seymour was just absolutely amazing--
+
+00:15:45.065 --> 00:15:50.750
+I mean his childlike sense of wonder at learning.
+
+00:15:50.750 --> 00:15:53.800
+And what Seymour really is about is learning.
+
+00:15:53.800 --> 00:15:56.590
+So people talk about computing and people talk about math.
+
+00:15:56.590 --> 00:16:02.730
+But with Seymour you are just surrounded by this joy of
+
+00:16:02.730 --> 00:16:04.870
+being able to learn.
+
+00:16:04.870 --> 00:16:06.510
+So it's not just math and things.
+
+00:16:06.510 --> 00:16:13.010
+It's things like, he taught himself when we were there how
+
+00:16:13.010 --> 00:16:14.660
+to work on the bongo board.
+
+00:16:14.660 --> 00:16:19.070
+There's some old AI Lab historic tapes of Seymour
+
+00:16:19.070 --> 00:16:21.590
+doing the bongo board.
+
+00:16:21.590 --> 00:16:27.070
+And what he loved was to explain to people how you
+
+00:16:27.070 --> 00:16:30.810
+thought about how to balance on the bongo board.
+
+00:16:30.810 --> 00:16:32.100
+He also did it with juggling.
+
+00:16:32.100 --> 00:16:34.800
+So he sort of had a tremendous--
+
+00:16:34.800 --> 00:16:37.760
+teaching people to juggle.
+
+00:16:37.760 --> 00:16:40.490
+And his idea was that you could think about that.
+
+00:16:40.490 --> 00:16:43.800
+There was a method for thinking about how you juggle.
+
+00:16:43.800 --> 00:16:48.420
+So this thing that looked like a very complicated thing that
+
+00:16:48.420 --> 00:16:51.390
+a circus person was doing, it almost magic, you could
+
+00:16:51.390 --> 00:16:53.550
+actually teach it.
+
+00:16:53.550 --> 00:16:57.080
+And everything he did was infused with that.
+
+00:16:57.080 --> 00:17:00.660
+I remember going to visit him in Maine.
+
+00:17:00.660 --> 00:17:01.710
+And he wrote this map.
+
+00:17:01.710 --> 00:17:05.760
+And the map, you could tell that he enjoyed writing the
+
+00:17:05.760 --> 00:17:08.740
+directions on this map in a way that people would
+
+00:17:08.740 --> 00:17:09.859
+understand them.
+
+00:17:09.859 --> 00:17:11.540
+And of course that went over into math and science.
+
+00:17:11.540 --> 00:17:15.630
+So he had exactly the same philosophy that learning about
+
+00:17:15.630 --> 00:17:17.319
+math and science isn't magic.
+
+00:17:17.319 --> 00:17:23.530
+There's a deliberate, in his way, procedural way of
+
+00:17:23.530 --> 00:17:25.960
+thinking about knowledge and about learning.
+
+00:17:25.960 --> 00:17:29.160
+
+
+00:17:29.160 --> 00:17:32.340
+Another critical part of that is the notion of debugging.
+
+00:17:32.340 --> 00:17:34.000
+So there's this idea that you do something,
+
+00:17:34.000 --> 00:17:36.100
+and you make a mistake.
+
+00:17:36.100 --> 00:17:39.140
+And he would always totally emphasize that
+
+00:17:39.140 --> 00:17:40.560
+mistakes are wonderful.
+
+00:17:40.560 --> 00:17:43.930
+Bugs are just great because that allows you to go back and
+
+00:17:43.930 --> 00:17:46.170
+analyze and think about stuff.
+
+00:17:46.170 --> 00:17:52.430
+And all of that influence went not only in my own work in
+
+00:17:52.430 --> 00:17:58.270
+education, but also in the computer science work that
+
+00:17:58.270 --> 00:18:00.280
+Gerry Sussman and I did.
+
+00:18:00.280 --> 00:18:05.880
+There's this thing called the procedural
+
+00:18:05.880 --> 00:18:07.140
+explanation of knowledge.
+
+00:18:07.140 --> 00:18:12.520
+
+
+00:18:12.520 --> 00:18:16.010
+One critical thing in teaching people ideas, whether in
+
+00:18:16.010 --> 00:18:19.880
+computer science or anything, is to give them names and to
+
+00:18:19.880 --> 00:18:21.210
+use those names and things.
+
+00:18:21.210 --> 00:18:23.340
+And that goes right through all of our work in the Scheme
+
+00:18:23.340 --> 00:18:26.300
+programming language and our work in making MIT's first
+
+00:18:26.300 --> 00:18:27.260
+computer science course.
+
+00:18:27.260 --> 00:18:31.210
+It goes absolutely, directly back to Seymour.
+
+00:18:31.210 --> 00:18:34.870
+INTERVIEWER: Were there other key mentors or professors that
+
+00:18:34.870 --> 00:18:38.370
+influenced your development, your intellectual or your
+
+00:18:38.370 --> 00:18:40.440
+professional development as a graduate student.
+
+00:18:40.440 --> 00:18:41.410
+ABELSON: Oh well, sure.
+
+00:18:41.410 --> 00:18:46.220
+I mean I wasn't a graduate student in computer science.
+
+00:18:46.220 --> 00:18:52.690
+I didn't work for Seymour as a research instructor.
+
+00:18:52.690 --> 00:18:55.540
+My research was actually in mathematics under Dennis
+
+00:18:55.540 --> 00:18:59.710
+Sullivan, who is a very, very famous topologist, who was in
+
+00:18:59.710 --> 00:19:02.380
+the math department at MIT in those days.
+
+00:19:02.380 --> 00:19:04.420
+And again, he was a little bit different.
+
+00:19:04.420 --> 00:19:06.460
+Dennis was one of these
+
+00:19:06.460 --> 00:19:09.450
+mathematicians who's just magic.
+
+00:19:09.450 --> 00:19:12.100
+You look at this thing and you say how could this guy
+
+00:19:12.100 --> 00:19:15.290
+possibly have ever thought about this stuff?
+
+00:19:15.290 --> 00:19:19.200
+And he was just an enormous influence about--
+
+00:19:19.200 --> 00:19:24.550
+just sort of this intellectual excellence where the stuff
+
+00:19:24.550 --> 00:19:26.640
+springs from nowhere.
+
+00:19:26.640 --> 00:19:30.580
+And you're just inspired that way.
+
+00:19:30.580 --> 00:19:33.210
+INTERVIEWER: So tell me a little bit more about your
+
+00:19:33.210 --> 00:19:36.790
+professional path from mathematics to computer
+
+00:19:36.790 --> 00:19:40.270
+science and from getting a PhD at MIT to being a
+
+00:19:40.270 --> 00:19:41.400
+professor at MIT?
+
+00:19:41.400 --> 00:19:42.885
+ABELSON: Oh, sure.
+
+00:19:42.885 --> 00:19:44.910
+Well when I got a PhD, I was in the math
+
+00:19:44.910 --> 00:19:47.960
+department doing topology.
+
+00:19:47.960 --> 00:19:51.990
+Got an appointment as an instructor.
+
+00:19:51.990 --> 00:19:55.280
+But then because I was working in Logo, MIT started something
+
+00:19:55.280 --> 00:20:00.490
+in the mid-'70s called the Division for Study in Research
+
+00:20:00.490 --> 00:20:03.180
+and Education.
+
+00:20:03.180 --> 00:20:07.910
+And it had a couple of key pieces to it.
+
+00:20:07.910 --> 00:20:10.590
+There were three leaders.
+
+00:20:10.590 --> 00:20:14.460
+One was Ben Snyder, who wrote a very famous book at MIT
+
+00:20:14.460 --> 00:20:17.790
+called The Hidden Curriculum, which is all about how
+
+00:20:17.790 --> 00:20:22.630
+surviving at MIT is a process of constant triage.
+
+00:20:22.630 --> 00:20:25.100
+And students at MIT have to learn that.
+
+00:20:25.100 --> 00:20:29.000
+One's Don Schon, who was in the Sloan School, who was very
+
+00:20:29.000 --> 00:20:31.820
+famous for his theories of knowledge or ideas of espoused
+
+00:20:31.820 --> 00:20:34.320
+knowledge and how you do things.
+
+00:20:34.320 --> 00:20:37.030
+And the third one which was Seymour doing Logo.
+
+00:20:37.030 --> 00:20:40.125
+So I became part of the Division for Study in Research
+
+00:20:40.125 --> 00:20:42.170
+and Education.
+
+00:20:42.170 --> 00:20:47.140
+Got a joint appointment in math and DSRE.
+
+00:20:47.140 --> 00:20:51.250
+And that's where we sort of really started to do Logo work
+
+00:20:51.250 --> 00:20:56.070
+as sort of real MIT research kind of stuff.
+
+00:20:56.070 --> 00:20:57.910
+But then eventually what happens, MIT decided
+
+00:20:57.910 --> 00:20:59.270
+to close down DSRE.
+
+00:20:59.270 --> 00:21:04.730
+I was sort of too junior then to understand or even be aware
+
+00:21:04.730 --> 00:21:06.930
+of the politics behind that.
+
+00:21:06.930 --> 00:21:09.410
+But in any case, MIT decided to close it down.
+
+00:21:09.410 --> 00:21:12.110
+And then I moved into the electrical engineering
+
+00:21:12.110 --> 00:21:16.160
+computer science department, kind of on the basis of the
+
+00:21:16.160 --> 00:21:19.020
+Logo work and the basis of the fact that I was doing
+
+00:21:19.020 --> 00:21:20.590
+distributed computing.
+
+00:21:20.590 --> 00:21:24.710
+And that's sort of where I've been sitting.
+
+00:21:24.710 --> 00:21:28.210
+INTERVIEWER: So tell me a bit more about the early Logo work
+
+00:21:28.210 --> 00:21:31.710
+and your work in distributed computing and how that has
+
+00:21:31.710 --> 00:21:35.785
+sort of influenced your research path since?
+
+00:21:35.785 --> 00:21:39.750
+
+
+00:21:39.750 --> 00:21:44.000
+ABELSON: Well, I don't actually think about Logo and
+
+00:21:44.000 --> 00:21:47.650
+distributed computing together very much.
+
+00:21:47.650 --> 00:21:48.810
+INTERVIEWER: Well, we can treat it separately I suppose.
+
+00:21:48.810 --> 00:21:52.700
+ABELSON: Other than they kind of both end up being a vision
+
+00:21:52.700 --> 00:21:56.100
+of computing and being formal about it and things.
+
+00:21:56.100 --> 00:21:59.950
+The Logo work was as I said, magic.
+
+00:21:59.950 --> 00:22:04.850
+It is really hard right now to go back.
+
+00:22:04.850 --> 00:22:10.961
+We're talking a dozen years before the personal computer.
+
+00:22:10.961 --> 00:22:17.980
+What we used to say in Logo is oh my god, if a computer could
+
+00:22:17.980 --> 00:22:22.520
+just cost $10,000, that would
+
+00:22:22.520 --> 00:22:24.095
+revolutionize all of education.
+
+00:22:24.095 --> 00:22:26.680
+
+
+00:22:26.680 --> 00:22:31.870
+Because what we were doing is these were million machines, a
+
+00:22:31.870 --> 00:22:35.530
+million dollars in 1968 dollars.
+
+00:22:35.530 --> 00:22:37.690
+They were sitting in the Artificial Intelligence Lab,
+
+00:22:37.690 --> 00:22:42.070
+doing the world's very best, fanciest research an
+
+00:22:42.070 --> 00:22:43.470
+artificial intelligence.
+
+00:22:43.470 --> 00:22:47.820
+And we were hooking them up over phone lines to be used by
+
+00:22:47.820 --> 00:22:52.930
+sixth graders in Lexington, Massachusetts.
+
+00:22:52.930 --> 00:22:55.700
+And just a totally outrageous thing.
+
+00:22:55.700 --> 00:22:59.220
+One my first projects as a graduate student was working
+
+00:22:59.220 --> 00:23:03.800
+on a remote display that you could hook up that could sit
+
+00:23:03.800 --> 00:23:07.070
+in Lexington and move over a phone line.
+
+00:23:07.070 --> 00:23:10.680
+And so students could write what was effectively the first
+
+00:23:10.680 --> 00:23:14.720
+Logo turtle and draw designs on this graphics display.
+
+00:23:14.720 --> 00:23:17.530
+So that was like my first job as a graduate student,
+
+00:23:17.530 --> 00:23:19.190
+implementing that.
+
+00:23:19.190 --> 00:23:22.060
+But it was so off scale.
+
+00:23:22.060 --> 00:23:28.510
+Just the very idea that a computer would be something
+
+00:23:28.510 --> 00:23:29.780
+that a kid could use.
+
+00:23:29.780 --> 00:23:35.570
+We take it so it for granted now that it's almost
+
+00:23:35.570 --> 00:23:38.300
+impossible to put yourself in that mindset.
+
+00:23:38.300 --> 00:23:43.940
+So most people thought we were crazy, because I mean what a
+
+00:23:43.940 --> 00:23:44.440
+weird thing.
+
+00:23:44.440 --> 00:23:47.810
+Why could a computer ever be something that would be
+
+00:23:47.810 --> 00:23:52.030
+relevant to a kid, much less programming it or anything?
+
+00:23:52.030 --> 00:23:54.170
+And it was a mixture of what happened in the AI Lab.
+
+00:23:54.170 --> 00:23:57.270
+Every couple of weeks somebody would run in off the street
+
+00:23:57.270 --> 00:24:01.320
+saying, I want to see the robots.
+
+00:24:01.320 --> 00:24:02.390
+You're making robots.
+
+00:24:02.390 --> 00:24:04.480
+I want to come see them.
+
+00:24:04.480 --> 00:24:08.780
+And AI Lab was just a wonderful mixture of that.
+
+00:24:08.780 --> 00:24:12.070
+So it was run by Seymour Papert and of course Marvin
+
+00:24:12.070 --> 00:24:18.966
+Minsky, who are just two completely brilliant people
+
+00:24:18.966 --> 00:24:23.580
+with I think a real sense of faith, in that if you're
+
+00:24:23.580 --> 00:24:27.340
+surrounded by a lot of smart people and you give them a lot
+
+00:24:27.340 --> 00:24:34.660
+of freedom and your job is really to inspire people, it
+
+00:24:34.660 --> 00:24:35.500
+will do great things.
+
+00:24:35.500 --> 00:24:40.600
+And the AI Lab was just infused with that.
+
+00:24:40.600 --> 00:24:44.450
+There was just a tremendous sense of community among the
+
+00:24:44.450 --> 00:24:47.740
+AI researchers, which was partly true because it was
+
+00:24:47.740 --> 00:24:48.890
+pretty small.
+
+00:24:48.890 --> 00:24:52.570
+One of the things that's happened more recently is that
+
+00:24:52.570 --> 00:24:55.530
+merged with the Lab for Computer Science.
+
+00:24:55.530 --> 00:24:59.790
+And it doesn't have that same real sense of community and
+
+00:24:59.790 --> 00:25:01.460
+flexibility.
+
+00:25:01.460 --> 00:25:04.670
+But the original AI Lab, there have been a much of books
+
+00:25:04.670 --> 00:25:07.190
+written about it, all sorts of things emerged from that.
+
+00:25:07.190 --> 00:25:09.760
+The other thing that emerged from that, that maybe you want
+
+00:25:09.760 --> 00:25:13.940
+to talk about later is Richard Solomon and the whole free
+
+00:25:13.940 --> 00:25:17.980
+software movement, which these days is better known as the
+
+00:25:17.980 --> 00:25:18.950
+Open Source Movement.
+
+00:25:18.950 --> 00:25:22.280
+But that was a thing--
+
+00:25:22.280 --> 00:25:24.650
+I mean in a deep sense it had to do with computer science,
+
+00:25:24.650 --> 00:25:25.500
+but not obviously.
+
+00:25:25.500 --> 00:25:29.360
+But it's a whole kind of philosophy that grew out of
+
+00:25:29.360 --> 00:25:35.420
+this sense that technology is fundamentally a data community
+
+00:25:35.420 --> 00:25:39.630
+and fundamentally about a whole bunch of inspired people
+
+00:25:39.630 --> 00:25:42.290
+sharing and building on each other's work.
+
+00:25:42.290 --> 00:25:45.050
+And that of course goes way past software into things like
+
+00:25:45.050 --> 00:25:48.270
+Creative Commons and lots of the stuff that we see now.
+
+00:25:48.270 --> 00:25:52.820
+But it came out of that germ of sharing around
+
+00:25:52.820 --> 00:25:55.300
+a technology community.
+
+00:25:55.300 --> 00:25:57.810
+INTERVIEWER: Yeah, I want to definitely in a little bit
+
+00:25:57.810 --> 00:26:01.930
+explore some of these broader ideas in their current form.
+
+00:26:01.930 --> 00:26:07.520
+But let's talk a bit about that culture of sharing and of
+
+00:26:07.520 --> 00:26:13.900
+open networks within MIT at that point.
+
+00:26:13.900 --> 00:26:17.480
+I mean I've read that obviously there's a whole sort
+
+00:26:17.480 --> 00:26:20.950
+of different landscape of security and
+
+00:26:20.950 --> 00:26:23.030
+passwords or lack thereof.
+
+00:26:23.030 --> 00:26:27.370
+But just describe the environment a bit more at that
+
+00:26:27.370 --> 00:26:30.610
+time and how obviously it had effects later.
+
+00:26:30.610 --> 00:26:33.490
+ABELSON: Well remember for thinking
+
+00:26:33.490 --> 00:26:35.740
+about now, the internet--
+
+00:26:35.740 --> 00:26:40.770
+it wasn't an internet then-- the ARPANET was a small place.
+
+00:26:40.770 --> 00:26:43.780
+And it really was a very small, very,
+
+00:26:43.780 --> 00:26:45.960
+very homogeneous place.
+
+00:26:45.960 --> 00:26:50.080
+I like to tell people I've had my email address since I kind
+
+00:26:50.080 --> 00:26:53.230
+of knew all of the people that I could have send email to.
+
+00:26:53.230 --> 00:26:56.350
+
+
+00:26:56.350 --> 00:26:58.780
+I mean it's been written a lot that people who originally
+
+00:26:58.780 --> 00:27:03.620
+designed the internet said they just sort of did not
+
+00:27:03.620 --> 00:27:07.370
+design the internet architecture to think that
+
+00:27:07.370 --> 00:27:08.990
+there would be bad guys out there.
+
+00:27:08.990 --> 00:27:10.220
+Because they knew all the people.
+
+00:27:10.220 --> 00:27:12.220
+All the people were like them.
+
+00:27:12.220 --> 00:27:14.410
+And that reflected over in passwords.
+
+00:27:14.410 --> 00:27:18.610
+I remember there was one sort of dark day when the people
+
+00:27:18.610 --> 00:27:22.150
+from ARPA said, you need to put passwords on your accounts
+
+00:27:22.150 --> 00:27:24.920
+because they're on the network.
+
+00:27:24.920 --> 00:27:29.860
+And for security, you need to do that.
+
+00:27:29.860 --> 00:27:32.740
+And a whole bunch of us were just convinced this was a
+
+00:27:32.740 --> 00:27:33.760
+horrible idea.
+
+00:27:33.760 --> 00:27:36.680
+I mean what a terrible idea that you'd have to put a
+
+00:27:36.680 --> 00:27:39.260
+password in an account and people could get into it.
+
+00:27:39.260 --> 00:27:42.720
+
+
+00:27:42.720 --> 00:27:47.410
+I remember Richard Stallman reacted to this by making his
+
+00:27:47.410 --> 00:27:50.570
+password RMS, which was initials.
+
+00:27:50.570 --> 00:27:57.060
+So just jumping ahead a little bit, if you move about 10, 12
+
+00:27:57.060 --> 00:28:06.040
+years later, my daughter, when she was about oh 14,
+
+00:28:06.040 --> 00:28:11.070
+introduced me to what became known as MUDS or multiplayer
+
+00:28:11.070 --> 00:28:11.960
+games on the internet.
+
+00:28:11.960 --> 00:28:14.320
+I had no idea this thing existed.
+
+00:28:14.320 --> 00:28:18.970
+And I was introduced to this by my, what she then, she
+
+00:28:18.970 --> 00:28:22.861
+probably was maybe about 13.
+
+00:28:22.861 --> 00:28:28.390
+And I come home and she says daddy, do you know there's
+
+00:28:28.390 --> 00:28:33.740
+this thing on the computer that all kids in the whole
+
+00:28:33.740 --> 00:28:35.740
+world can use?
+
+00:28:35.740 --> 00:28:38.200
+And I say, gosh no.
+
+00:28:38.200 --> 00:28:40.180
+And she says, I'll show you.
+
+00:28:40.180 --> 00:28:43.770
+And she says you have to dial this phone number.
+
+00:28:43.770 --> 00:28:45.820
+So she starts dialing this phone number.
+
+00:28:45.820 --> 00:28:51.870
+And I say, oh my god, that's my lab at MIT.
+
+00:28:51.870 --> 00:28:55.480
+That's the terminus server to my lab at MIT.
+
+00:28:55.480 --> 00:28:56.860
+And she says yeah, you have this thing.
+
+00:28:56.860 --> 00:29:00.130
+And it types out this funny star or something.
+
+00:29:00.130 --> 00:29:06.620
+And now I'm supposed to type R-M-S. And I say, oh my god,
+
+00:29:06.620 --> 00:29:09.150
+you're typing Stallman's password to
+
+00:29:09.150 --> 00:29:10.360
+get into the system.
+
+00:29:10.360 --> 00:29:12.890
+And she goes from that and starts up playing this game.
+
+00:29:12.890 --> 00:29:13.390
+And it was great.
+
+00:29:13.390 --> 00:29:15.230
+She had no idea that this was MIT.
+
+00:29:15.230 --> 00:29:18.350
+She had no idea what RMS meant.
+
+00:29:18.350 --> 00:29:21.490
+But there were kids all over the world who were doing this.
+
+00:29:21.490 --> 00:29:25.380
+And that's a little bit of the spirit of sharing and openness
+
+00:29:25.380 --> 00:29:27.600
+and delight that comes from that.
+
+00:29:27.600 --> 00:29:29.370
+That's just really hard to do now.
+
+00:29:29.370 --> 00:29:34.520
+Because again, the network is a much less homogeneous place
+
+00:29:34.520 --> 00:29:35.690
+than it used to be.
+
+00:29:35.690 --> 00:29:39.910
+But that's a little bit of what that AI Lab kind of
+
+00:29:39.910 --> 00:29:45.870
+spirit I remember, just to give you another little
+
+00:29:45.870 --> 00:29:48.430
+anecdote about that, that's fun.
+
+00:29:48.430 --> 00:29:50.530
+I don't know if you've interviewed Joel Moses?
+
+00:29:50.530 --> 00:29:52.400
+INTERVIEWER: Not personally, but yeah.
+
+00:29:52.400 --> 00:29:57.950
+ABELSON: So Joel Moses at that time was the head of the
+
+00:29:57.950 --> 00:30:00.680
+symbolic mathematics project.
+
+00:30:00.680 --> 00:30:05.380
+That's really the great thing that he did, before becoming
+
+00:30:05.380 --> 00:30:07.890
+provost, sort of inventing symbolic mathematics.
+
+00:30:07.890 --> 00:30:11.793
+And there was a whole big dispute between him and one of
+
+00:30:11.793 --> 00:30:16.270
+his ex-students who had gone to Berkeley.
+
+00:30:16.270 --> 00:30:19.690
+And there was a dispute about who should get access to this
+
+00:30:19.690 --> 00:30:22.520
+Maxima program and should it be licensed and not licensed.
+
+00:30:22.520 --> 00:30:25.830
+And there was a fairly heated email exchange that went
+
+00:30:25.830 --> 00:30:31.370
+between Joel and Rich Fateman.
+
+00:30:31.370 --> 00:30:34.080
+And of course, everyone could read everybody else's
+
+00:30:34.080 --> 00:30:37.480
+email at that time.
+
+00:30:37.480 --> 00:30:39.900
+And they decided that people in the lab were wasting so
+
+00:30:39.900 --> 00:30:44.590
+much time reading Joel's email that they simply translated
+
+00:30:44.590 --> 00:30:47.330
+all of Joel's email to message of the day.
+
+00:30:47.330 --> 00:30:49.980
+So you all saw it when you logged on.
+
+00:30:49.980 --> 00:30:53.260
+And that's a little bit again, the sense of playfulness and
+
+00:30:53.260 --> 00:30:57.640
+openness and we're all part of this big community and the
+
+00:30:57.640 --> 00:31:02.220
+computer system is a way of empowering that.
+
+00:31:02.220 --> 00:31:05.640
+And I do believe that had a whole lot to do especially
+
+00:31:05.640 --> 00:31:08.540
+with the development of time sharing.
+
+00:31:08.540 --> 00:31:18.280
+In a sense sort of Bob Fano and Corby Corbato, when they
+
+00:31:18.280 --> 00:31:22.210
+started the time sharing project, it was sort of about
+
+00:31:22.210 --> 00:31:25.080
+technology.
+
+00:31:25.080 --> 00:31:28.530
+But pretty soon they realized really what they'd done is
+
+00:31:28.530 --> 00:31:31.950
+create a new kind of community.
+
+00:31:31.950 --> 00:31:36.110
+And to their credit they recognized that very, very
+
+00:31:36.110 --> 00:31:38.870
+early and pushed the sense of gee, there's
+
+00:31:38.870 --> 00:31:39.970
+a thing like community.
+
+00:31:39.970 --> 00:31:43.110
+There is an information community.
+
+00:31:43.110 --> 00:31:46.880
+MIT was one the first places that really did that in a
+
+00:31:46.880 --> 00:31:48.770
+conscious way.
+
+00:31:48.770 --> 00:31:50.700
+And again, this all comes out of the same kind
+
+00:31:50.700 --> 00:31:52.820
+of culture of openness.
+
+00:31:52.820 --> 00:31:54.910
+INTERVIEWER: Yeah, we'll return to the whole question
+
+00:31:54.910 --> 00:31:58.090
+of open networks, Open Source a bit later.
+
+00:31:58.090 --> 00:32:03.610
+I want to turn a little bit in a different direction and ask
+
+00:32:03.610 --> 00:32:08.160
+a bit about your interest and professional development of
+
+00:32:08.160 --> 00:32:15.910
+teaching computer science, of the development of 6.001 and
+
+00:32:15.910 --> 00:32:23.370
+also your work with Gerald Sussman and the book.
+
+00:32:23.370 --> 00:32:25.380
+And maybe, I don't know if this is a productive way of
+
+00:32:25.380 --> 00:32:27.230
+leading into it, but it's a question I'm
+
+00:32:27.230 --> 00:32:29.470
+really curious about.
+
+00:32:29.470 --> 00:32:33.040
+You mentioned very early on that when you were growing up,
+
+00:32:33.040 --> 00:32:35.815
+you were bad at arithmetic, but found out later that you
+
+00:32:35.815 --> 00:32:37.330
+were good at math.
+
+00:32:37.330 --> 00:32:38.935
+And I think that's very fascinating.
+
+00:32:38.935 --> 00:32:43.460
+
+
+00:32:43.460 --> 00:32:48.480
+How does one think about math in a way that makes that true?
+
+00:32:48.480 --> 00:32:51.720
+I mean they're impossible that could be bad at arithmetic,
+
+00:32:51.720 --> 00:32:53.200
+but good at math.
+
+00:32:53.200 --> 00:32:55.280
+ABELSON: I don't know.
+
+00:32:55.280 --> 00:32:57.460
+I don't view arithmetic as having very much to do with
+
+00:32:57.460 --> 00:32:58.870
+math in fact.
+
+00:32:58.870 --> 00:33:01.460
+And I think there are a lot of people in
+
+00:33:01.460 --> 00:33:03.520
+kind of the same boat.
+
+00:33:03.520 --> 00:33:08.000
+Again, there's theories that people who go into these
+
+00:33:08.000 --> 00:33:11.550
+developmental fields are doing it in some sense to make up
+
+00:33:11.550 --> 00:33:13.750
+for their own deficits, to try them.
+
+00:33:13.750 --> 00:33:18.140
+So I sort of view it kind of that way.
+
+00:33:18.140 --> 00:33:20.500
+But again, I've always been interested in puzzling out
+
+00:33:20.500 --> 00:33:23.940
+things and explaining things.
+
+00:33:23.940 --> 00:33:28.740
+I wasn't very much interested in teaching until I, gosh,
+
+00:33:28.740 --> 00:33:31.360
+until I got to MIT in fact.
+
+00:33:31.360 --> 00:33:36.080
+But it was mostly explaining things to myself.
+
+00:33:36.080 --> 00:33:40.390
+Being in a couple of very good summer high school programs,
+
+00:33:40.390 --> 00:33:44.980
+one at University of Notre Dame, which has since moved to
+
+00:33:44.980 --> 00:33:49.270
+Ohio State, which had a long, long, long track record of
+
+00:33:49.270 --> 00:33:52.340
+inspiring people in mathematics.
+
+00:33:52.340 --> 00:33:54.560
+One at Cornell, in physics.
+
+00:33:54.560 --> 00:33:57.810
+So that's another kind of educational link that I was
+
+00:33:57.810 --> 00:34:00.360
+exposed to.
+
+00:34:00.360 --> 00:34:06.130
+And later, my colleague Andy diSessa and I ran that kind of
+
+00:34:06.130 --> 00:34:10.760
+summer high school program at MIT around computer science
+
+00:34:10.760 --> 00:34:12.820
+and Logo and teaching things.
+
+00:34:12.820 --> 00:34:17.000
+So I've been interested in education kind of from that
+
+00:34:17.000 --> 00:34:18.250
+perspective.
+
+00:34:18.250 --> 00:34:21.710
+
+
+00:34:21.710 --> 00:34:23.590
+I've also played around with computers in education.
+
+00:34:23.590 --> 00:34:29.090
+One of the things I did in the math department was I was
+
+00:34:29.090 --> 00:34:30.074
+teaching linear algebra.
+
+00:34:30.074 --> 00:34:33.130
+And I think just for the heck of it, I did what must have
+
+00:34:33.130 --> 00:34:37.070
+been one of the very first MIT computer exercises where
+
+00:34:37.070 --> 00:34:41.630
+students used the Multics computer system in those days
+
+00:34:41.630 --> 00:34:45.460
+to do some exercise at the end of the day about matrices.
+
+00:34:45.460 --> 00:34:47.389
+Now I didn't know what I was doing.
+
+00:34:47.389 --> 00:34:49.199
+And it wasn't particularly good and wasn't particularly
+
+00:34:49.199 --> 00:34:49.780
+successful.
+
+00:34:49.780 --> 00:34:53.300
+But it was kind of foray into saying, gosh these MIT
+
+00:34:53.300 --> 00:34:57.830
+computers might actually get used in courses.
+
+00:34:57.830 --> 00:35:01.790
+Not much of that happened for a long time after that though.
+
+00:35:01.790 --> 00:35:05.900
+INTERVIEWER: Thinking about teaching computer science
+
+00:35:05.900 --> 00:35:08.640
+specifically, can you talk a bit about the Structure and
+
+00:35:08.640 --> 00:35:12.080
+Interpretation of Computer Programs and what that grew
+
+00:35:12.080 --> 00:35:16.600
+out of and what the sort of fundamental concepts are
+
+00:35:16.600 --> 00:35:18.220
+behind your approach?
+
+00:35:18.220 --> 00:35:23.160
+ABELSON: So Gerry Sussman and I, I think were really
+
+00:35:23.160 --> 00:35:29.980
+privileged in that we wrote a book that really was able to
+
+00:35:29.980 --> 00:35:38.770
+draw on that whole of a 20-year history of how MIT and
+
+00:35:38.770 --> 00:35:43.890
+that whole AI culture thought about computing.
+
+00:35:43.890 --> 00:35:47.710
+And it goes directly back to again Seymour Papert and
+
+00:35:47.710 --> 00:35:49.450
+Marvin Minsky.
+
+00:35:49.450 --> 00:35:53.600
+And it really has to do with--
+
+00:35:53.600 --> 00:35:57.500
+what's the phrase we used-- a computer program is a way of
+
+00:35:57.500 --> 00:36:02.400
+expressing ideas and communicating ideas, and only
+
+00:36:02.400 --> 00:36:06.600
+incidentally about getting a machine to do stuff.
+
+00:36:06.600 --> 00:36:09.400
+That is straight out of--
+
+00:36:09.400 --> 00:36:11.290
+I don't think Seymour used those words, but that's
+
+00:36:11.290 --> 00:36:14.480
+straight out of the Logo philosophy of
+
+00:36:14.480 --> 00:36:15.580
+we're teaching you--
+
+00:36:15.580 --> 00:36:17.930
+like I talked about juggling before.
+
+00:36:17.930 --> 00:36:22.700
+This really is, what's the procedure for how you juggle?
+
+00:36:22.700 --> 00:36:26.100
+And critical in being able to do that is having the right
+
+00:36:26.100 --> 00:36:30.580
+set of words and having the right descriptive framework
+
+00:36:30.580 --> 00:36:33.310
+for saying things like that.
+
+00:36:33.310 --> 00:36:39.700
+And so the key idea in Structure and Interpretation
+
+00:36:39.700 --> 00:36:43.160
+is what we ended up calling the linguistic approach to
+
+00:36:43.160 --> 00:36:46.810
+programming design, which says if I would like to do some
+
+00:36:46.810 --> 00:36:53.030
+very complicated thing, one of the critical tasks is picking
+
+00:36:53.030 --> 00:36:58.080
+the right descriptive framework for saying that.
+
+00:36:58.080 --> 00:37:00.990
+So there is a complete blend.
+
+00:37:00.990 --> 00:37:08.560
+I think somewhere in that book we wrote that when you make a
+
+00:37:08.560 --> 00:37:11.450
+complicated program, you're actually designing a special
+
+00:37:11.450 --> 00:37:15.320
+purpose computer language to solve a problem.
+
+00:37:15.320 --> 00:37:19.740
+And it comes through in lots and lots of ways.
+
+00:37:19.740 --> 00:37:25.190
+So it goes back I think to the AI culture, which has the
+
+00:37:25.190 --> 00:37:27.880
+property that you don't quite know what problem you're
+
+00:37:27.880 --> 00:37:31.000
+solving because these things are really complicated.
+
+00:37:31.000 --> 00:37:37.020
+It's not as if someone says compute the total payment on
+
+00:37:37.020 --> 00:37:38.610
+this mortgage where you know exactly what
+
+00:37:38.610 --> 00:37:40.340
+you're going to do.
+
+00:37:40.340 --> 00:37:44.410
+Rather it says, you want to be mucking around in this area to
+
+00:37:44.410 --> 00:37:48.200
+solve this problem and lots and lots and lots and lots of
+
+00:37:48.200 --> 00:37:50.320
+similar problems.
+
+00:37:50.320 --> 00:37:56.790
+And that permeates both the design of the book and the
+
+00:37:56.790 --> 00:37:59.380
+actual programming technology that people use.
+
+00:37:59.380 --> 00:38:04.620
+So the style of programming languages that go back to LISP
+
+00:38:04.620 --> 00:38:08.870
+is really sort of muddier.
+
+00:38:08.870 --> 00:38:10.960
+It's not a very precise kind of thing.
+
+00:38:10.960 --> 00:38:13.710
+
+
+00:38:13.710 --> 00:38:16.710
+You make ways of programming things where you're solving
+
+00:38:16.710 --> 00:38:21.270
+not just one problem but a whole family
+
+00:38:21.270 --> 00:38:23.780
+of problems in that.
+
+00:38:23.780 --> 00:38:26.310
+And again, it goes back to very, very technical things,
+
+00:38:26.310 --> 00:38:29.970
+like LISP is a very good language for creating other
+
+00:38:29.970 --> 00:38:32.070
+computer languages.
+
+00:38:32.070 --> 00:38:33.760
+Because when you're programming in LISP, you
+
+00:38:33.760 --> 00:38:37.250
+actually have the mentality of gosh, I'm actually creating
+
+00:38:37.250 --> 00:38:41.510
+some special purpose language to solve not just one problem,
+
+00:38:41.510 --> 00:38:42.850
+but lots of them.
+
+00:38:42.850 --> 00:38:46.000
+And that's the critical idea in Structure and
+
+00:38:46.000 --> 00:38:47.250
+Interpretation.
+
+00:38:47.250 --> 00:38:49.940
+
+
+00:38:49.940 --> 00:38:52.150
+I mean we can't take credit for that.
+
+00:38:52.150 --> 00:38:57.570
+We were just blessed that there was a whole tradition of
+
+00:38:57.570 --> 00:39:02.500
+20 years of really deep thinking at MIT and a couple
+
+00:39:02.500 --> 00:39:04.060
+of other similar places.
+
+00:39:04.060 --> 00:39:07.600
+And we sort of got to be the people who got to
+
+00:39:07.600 --> 00:39:09.800
+put that in the book.
+
+00:39:09.800 --> 00:39:11.830
+And it's had enormous influence, but it's not
+
+00:39:11.830 --> 00:39:14.840
+because of us, it's because the tremendous power of those
+
+00:39:14.840 --> 00:39:17.900
+ideas and the communities that they came from.
+
+00:39:17.900 --> 00:39:21.750
+INTERVIEWER: So moving beyond those communities that the
+
+00:39:21.750 --> 00:39:26.000
+book and that thought process came out of, did you encounter
+
+00:39:26.000 --> 00:39:27.680
+resistance, maybe that's not the right word, maybe
+
+00:39:27.680 --> 00:39:28.880
+misunderstanding--
+
+00:39:28.880 --> 00:39:30.735
+people who were focused on the syntax?
+
+00:39:30.735 --> 00:39:33.380
+ABELSON: So we published this with MIT Press.
+
+00:39:33.380 --> 00:39:38.280
+And MIT Press sent it out for reviews.
+
+00:39:38.280 --> 00:39:41.800
+And the first review came back.
+
+00:39:41.800 --> 00:39:42.670
+And I'll never forget.
+
+00:39:42.670 --> 00:39:49.840
+It said, quote, the question is, is in MIT Press publishing
+
+00:39:49.840 --> 00:39:56.090
+this book going to advance or set back computer science?
+
+00:39:56.090 --> 00:39:57.890
+So there was a lot of resistance to this because
+
+00:39:57.890 --> 00:39:58.780
+it's just very different.
+
+00:39:58.780 --> 00:40:02.480
+And there's a lot of people who really don't believe in
+
+00:40:02.480 --> 00:40:06.420
+that approach, who really do think it's the wrong thing.
+
+00:40:06.420 --> 00:40:10.420
+Because again, it's this notion of you don't actually
+
+00:40:10.420 --> 00:40:16.620
+focus on solving this problem very, very, very precisely.
+
+00:40:16.620 --> 00:40:19.985
+There's a whole movement in computer science, a
+
+00:40:19.985 --> 00:40:27.010
+tremendously respectable one, and it says a program is like
+
+00:40:27.010 --> 00:40:29.285
+the proof of a mathematical theorem.
+
+00:40:29.285 --> 00:40:34.170
+And there are people who do prove things about programs.
+
+00:40:34.170 --> 00:40:37.800
+That in some sense is the mainstream almost. Whereas
+
+00:40:37.800 --> 00:40:40.470
+we're saying well, a program is sort of like a language.
+
+00:40:40.470 --> 00:40:41.850
+Like you can say lots of things.
+
+00:40:41.850 --> 00:40:44.290
+And I don't imagine I'm going to prove everything
+
+00:40:44.290 --> 00:40:44.840
+I'm going to say.
+
+00:40:44.840 --> 00:40:47.220
+It's just that the great thing is I get to see all these
+
+00:40:47.220 --> 00:40:48.750
+different things.
+
+00:40:48.750 --> 00:40:52.610
+So we've had a lot of influence, but I wouldn't even
+
+00:40:52.610 --> 00:40:55.040
+say that we're mainstream, even now.
+
+00:40:55.040 --> 00:40:58.930
+
+
+00:40:58.930 --> 00:41:00.680
+INTERVIEWER: From my limited experience when I think back
+
+00:41:00.680 --> 00:41:03.070
+to my computer programming classes, it was more like the
+
+00:41:03.070 --> 00:41:05.150
+mathematical theorem approach.
+
+00:41:05.150 --> 00:41:05.570
+Yeah.
+
+00:41:05.570 --> 00:41:06.570
+ABELSON: Exactly right.
+
+00:41:06.570 --> 00:41:08.880
+It is.
+
+00:41:08.880 --> 00:41:12.790
+INTERVIEWER: So talk about 6.001 and the development of
+
+00:41:12.790 --> 00:41:16.150
+that class, which is obviously closely related
+
+00:41:16.150 --> 00:41:19.510
+to the book, right?
+
+00:41:19.510 --> 00:41:20.100
+ABELSON: Gosh.
+
+00:41:20.100 --> 00:41:25.920
+So the other person who really deserves enormous credit for
+
+00:41:25.920 --> 00:41:27.170
+this is Bob Fano.
+
+00:41:27.170 --> 00:41:29.460
+
+
+00:41:29.460 --> 00:41:34.100
+There was a tradition of, what was the first MIT computer
+
+00:41:34.100 --> 00:41:36.830
+science course?
+
+00:41:36.830 --> 00:41:38.870
+There was one taught by Mike Dertouzos and
+
+00:41:38.870 --> 00:41:40.640
+Steve Ward for awhile.
+
+00:41:40.640 --> 00:41:43.770
+But when I got involved with this, Bob Fano
+
+00:41:43.770 --> 00:41:45.532
+was teaching this.
+
+00:41:45.532 --> 00:41:48.100
+It was called 6.035.
+
+00:41:48.100 --> 00:41:51.475
+And what was it called?
+
+00:41:51.475 --> 00:41:53.040
+I think it might have been called Structure and
+
+00:41:53.040 --> 00:41:56.340
+Interpretation of Computer Languages.
+
+00:41:56.340 --> 00:42:00.066
+And it was very focused on, here's this kind of language.
+
+00:42:00.066 --> 00:42:02.830
+The language then was ALGOL people used.
+
+00:42:02.830 --> 00:42:05.940
+And then it did a little bit of LISP.
+
+00:42:05.940 --> 00:42:09.450
+And it was kind of an okay course.
+
+00:42:09.450 --> 00:42:12.300
+Mostly famous because it was the first course.
+
+00:42:12.300 --> 00:42:17.310
+But Fano did say the key thing.
+
+00:42:17.310 --> 00:42:23.220
+So I talked about what you're doing is making a language and
+
+00:42:23.220 --> 00:42:26.120
+how you make languages to make languages.
+
+00:42:26.120 --> 00:42:28.140
+The technical term for that is an interpreter.
+
+00:42:28.140 --> 00:42:31.930
+So an interpreter is something that effectively takes the
+
+00:42:31.930 --> 00:42:37.460
+description of a language and lets the computer effectively
+
+00:42:37.460 --> 00:42:39.110
+speak that language.
+
+00:42:39.110 --> 00:42:40.450
+And Fano was very--
+
+00:42:40.450 --> 00:42:42.800
+I mean he would say this in his lectures.
+
+00:42:42.800 --> 00:42:44.110
+I don't think any of the students got it.
+
+00:42:44.110 --> 00:42:46.700
+I didn't get it until like the third time through, where he
+
+00:42:46.700 --> 00:42:50.110
+sort of said the really, really key thing is that you
+
+00:42:50.110 --> 00:42:55.060
+build up complexity by constructing an interpreter.
+
+00:42:55.060 --> 00:42:58.800
+And again, that's the core idea of 6.001, said in a
+
+00:42:58.800 --> 00:43:00.670
+slightly different way.
+
+00:43:00.670 --> 00:43:04.870
+So he had an enormous, enormous influence on us, but
+
+00:43:04.870 --> 00:43:08.000
+also more directly.
+
+00:43:08.000 --> 00:43:13.130
+So about this time, there was a tradition in the electrical
+
+00:43:13.130 --> 00:43:18.090
+engineering computer science department of when the
+
+00:43:18.090 --> 00:43:22.750
+department did the transition from kind of power engineering
+
+00:43:22.750 --> 00:43:28.790
+to signals engineering in the late '50s, led by people like
+
+00:43:28.790 --> 00:43:32.280
+Ernie Guillemin and those sort legends at MIT, there was a
+
+00:43:32.280 --> 00:43:40.790
+very, very influential series of textbooks that came out, I
+
+00:43:40.790 --> 00:43:45.510
+think in the late '50s, early '60s, that almost sort of set
+
+00:43:45.510 --> 00:43:49.910
+the academic marker for the field of electrical
+
+00:43:49.910 --> 00:43:52.260
+engineering.
+
+00:43:52.260 --> 00:43:55.280
+So when we were there in the in the late '70s and very
+
+00:43:55.280 --> 00:44:00.710
+beginning of the '80s, Joel Moses and Gerry Wilson wanted
+
+00:44:00.710 --> 00:44:02.350
+to do that again.
+
+00:44:02.350 --> 00:44:05.540
+So there was this notion that there would be a series of new
+
+00:44:05.540 --> 00:44:12.030
+courses and new books that the department would put out.
+
+00:44:12.030 --> 00:44:15.610
+And then what was going to be the computing one?
+
+00:44:15.610 --> 00:44:22.200
+So Fano basically backed that Gerry and I would do the
+
+00:44:22.200 --> 00:44:23.960
+computing one and do the computing course.
+
+00:44:23.960 --> 00:44:26.520
+And again, there was a lot of a lot of controversy there
+
+00:44:26.520 --> 00:44:29.340
+because people didn't believe it.
+
+00:44:29.340 --> 00:44:32.540
+Fano was sort of the power in the department who really made
+
+00:44:32.540 --> 00:44:34.250
+it possible for us to do that.
+
+00:44:34.250 --> 00:44:38.030
+
+
+00:44:38.030 --> 00:44:41.660
+Gerry and I sort of happened into this.
+
+00:44:41.660 --> 00:44:43.980
+So we were sort of lucky.
+
+00:44:43.980 --> 00:44:46.230
+And just very, very fortunate that there were some smart
+
+00:44:46.230 --> 00:44:47.480
+people backing us.
+
+00:44:47.480 --> 00:44:49.760
+
+
+00:44:49.760 --> 00:44:54.800
+INTERVIEWER: How has introductory curriculum in ECS
+
+00:44:54.800 --> 00:44:56.720
+changed since that time?
+
+00:44:56.720 --> 00:44:57.590
+I mean clearly it's--
+
+00:44:57.590 --> 00:44:58.930
+ABELSON: Oh, it's changed a lot.
+
+00:44:58.930 --> 00:45:00.430
+INTERVIEWER: Yeah.
+
+00:45:00.430 --> 00:45:01.230
+ABELSON: I don't know.
+
+00:45:01.230 --> 00:45:06.890
+People keep using the phrase bittersweet.
+
+00:45:06.890 --> 00:45:09.860
+It's changed in style.
+
+00:45:09.860 --> 00:45:13.310
+So what happened in the department is the department
+
+00:45:13.310 --> 00:45:20.350
+kind of decided that the way students get introduced into
+
+00:45:20.350 --> 00:45:25.010
+the department should become more horizontal and less
+
+00:45:25.010 --> 00:45:30.040
+vertical, by which I mean when you go into the department
+
+00:45:30.040 --> 00:45:35.880
+before the new curriculum, there were a bunch of very
+
+00:45:35.880 --> 00:45:38.060
+intellectually deep courses.
+
+00:45:38.060 --> 00:45:41.530
+So 6.001 really is a deep course in software
+
+00:45:41.530 --> 00:45:43.700
+engineering.
+
+00:45:43.700 --> 00:45:45.970
+And then the idea was well, you shouldn't actually do that
+
+00:45:45.970 --> 00:45:49.860
+because if students want to think about what they want to
+
+00:45:49.860 --> 00:45:52.470
+major in, they ought to get an experience
+
+00:45:52.470 --> 00:45:55.380
+that's a lot more broad.
+
+00:45:55.380 --> 00:45:58.630
+So they should learn not only about software, but something
+
+00:45:58.630 --> 00:46:00.240
+about circuits and something about signal
+
+00:46:00.240 --> 00:46:01.300
+processing and all that.
+
+00:46:01.300 --> 00:46:05.115
+So 6.001 sort of didn't fit into that world.
+
+00:46:05.115 --> 00:46:07.740
+
+
+00:46:07.740 --> 00:46:08.820
+I sort was on the committee.
+
+00:46:08.820 --> 00:46:10.860
+I had this funny feeling.
+
+00:46:10.860 --> 00:46:12.060
+I sort of loved the course.
+
+00:46:12.060 --> 00:46:15.930
+But I also had this feeling that the
+
+00:46:15.930 --> 00:46:18.380
+course needed to change.
+
+00:46:18.380 --> 00:46:23.460
+And both Gerry and I felt that as long as we were part of it,
+
+00:46:23.460 --> 00:46:26.120
+it wasn't going to change.
+
+00:46:26.120 --> 00:46:29.190
+And in fact we consciously got out of it.
+
+00:46:29.190 --> 00:46:39.100
+We had an official, what you call passing of the baton
+
+00:46:39.100 --> 00:46:42.750
+ceremony in one of the lectures where Bob Fano was
+
+00:46:42.750 --> 00:46:47.250
+there as the originator of this, who let us do 6.001.
+
+00:46:47.250 --> 00:46:50.020
+And then Eric Grimson and Duane Boning were there.
+
+00:46:50.020 --> 00:46:50.770
+They were going to take it over.
+
+00:46:50.770 --> 00:46:52.620
+And we kind of officially passed the baton.
+
+00:46:52.620 --> 00:46:55.030
+And we said we now did this in front
+
+00:46:55.030 --> 00:46:57.130
+of 350 student witnesses.
+
+00:46:57.130 --> 00:46:58.770
+We are never going to teach this course again.
+
+00:46:58.770 --> 00:47:00.860
+The department can't ask us.
+
+00:47:00.860 --> 00:47:04.430
+But then what happened is even after we got out of it, the
+
+00:47:04.430 --> 00:47:06.550
+course didn't change as much.
+
+00:47:06.550 --> 00:47:09.330
+And we can flatter ourselves and say well, the ideas were
+
+00:47:09.330 --> 00:47:10.530
+just really great.
+
+00:47:10.530 --> 00:47:13.290
+But sometimes you just need a kick in the pants to go
+
+00:47:13.290 --> 00:47:15.150
+someplace else.
+
+00:47:15.150 --> 00:47:17.530
+So this new department curriculum structure turned
+
+00:47:17.530 --> 00:47:19.950
+out to be the kick in the pants.
+
+00:47:19.950 --> 00:47:23.200
+And so I was part of the group, along with Leslie
+
+00:47:23.200 --> 00:47:27.465
+Kaelbling and Jacob White and Tomas Lozano-Perez, who sort
+
+00:47:27.465 --> 00:47:33.610
+of designed sort of the new course, which consciously was
+
+00:47:33.610 --> 00:47:36.550
+not about 6.001.
+
+00:47:36.550 --> 00:47:41.320
+But a lot of the biggest themes of 6.001 about
+
+00:47:41.320 --> 00:47:44.500
+extraction and modularity and the way you express things,
+
+00:47:44.500 --> 00:47:47.170
+they carry over into the new course.
+
+00:47:47.170 --> 00:47:49.210
+But the new course is also doing robotics.
+
+00:47:49.210 --> 00:47:51.850
+And it's thinking that signal processing.
+
+00:47:51.850 --> 00:47:54.220
+And there's even some stuff about circuits.
+
+00:47:54.220 --> 00:47:56.400
+So it's not a deep course in that sense.
+
+00:47:56.400 --> 00:47:59.430
+And there's a lot of people who have come through MIT--
+
+00:47:59.430 --> 00:48:02.550
+
+
+00:48:02.550 --> 00:48:05.140
+I don't want to take credit for 6.001 and that, but I want
+
+00:48:05.140 --> 00:48:08.550
+to say it was a very deep experience in how
+
+00:48:08.550 --> 00:48:11.110
+you think of software--
+
+00:48:11.110 --> 00:48:13.522
+who criticized what we did.
+
+00:48:13.522 --> 00:48:15.650
+And they say they really miss it.
+
+00:48:15.650 --> 00:48:18.530
+They talk about their own intellectual development as
+
+00:48:18.530 --> 00:48:20.400
+programmers.
+
+00:48:20.400 --> 00:48:22.500
+It was just profoundly influenced by
+
+00:48:22.500 --> 00:48:24.370
+that kind of very--
+
+00:48:24.370 --> 00:48:25.730
+we would sit in that class and talk about
+
+00:48:25.730 --> 00:48:26.980
+the philosophy sometimes.
+
+00:48:26.980 --> 00:48:30.180
+
+
+00:48:30.180 --> 00:48:33.580
+The new course does not do that in the same way.
+
+00:48:33.580 --> 00:48:36.290
+On the other hand, you have to sort of ask what's the
+
+00:48:36.290 --> 00:48:37.590
+population you're serving?
+
+00:48:37.590 --> 00:48:42.030
+And the fact that you talk to the minority of students who
+
+00:48:42.030 --> 00:48:45.280
+really, really glommed on to our way of thinking and they
+
+00:48:45.280 --> 00:48:48.040
+say, gee, we really wish MIT were still doing that.
+
+00:48:48.040 --> 00:48:51.070
+I don't know what the right way of serving the most
+
+00:48:51.070 --> 00:48:52.150
+students are.
+
+00:48:52.150 --> 00:48:55.160
+But in any case we're just doing something rather
+
+00:48:55.160 --> 00:48:57.260
+different in motivation now.
+
+00:48:57.260 --> 00:49:01.045
+INTERVIEWER: So it's broader, but less deep.
+
+00:49:01.045 --> 00:49:02.980
+ABELSON: And very consciously less deep.
+
+00:49:02.980 --> 00:49:05.660
+INTERVIEWER: Right.
+
+00:49:05.660 --> 00:49:07.780
+What are MIT students like?
+
+00:49:07.780 --> 00:49:12.950
+I mean how do they respond to the deep dive on the one hand
+
+00:49:12.950 --> 00:49:17.670
+or the sort of broad fire hose on the other of having to deal
+
+00:49:17.670 --> 00:49:19.240
+with all of these different things?
+
+00:49:19.240 --> 00:49:21.050
+ABELSON: I think you can't generalize.
+
+00:49:21.050 --> 00:49:21.580
+Right.
+
+00:49:21.580 --> 00:49:25.250
+There are certainly some, I'm going to say kind of the
+
+00:49:25.250 --> 00:49:26.790
+mathematical ones.
+
+00:49:26.790 --> 00:49:29.490
+So even though it's not mathematics, that kind of deep
+
+00:49:29.490 --> 00:49:34.660
+thing is a math kind of experience.
+
+00:49:34.660 --> 00:49:39.160
+And they really would rather have something that's more
+
+00:49:39.160 --> 00:49:42.440
+like the original 6.001.
+
+00:49:42.440 --> 00:49:43.700
+But then there are a whole bunch of others
+
+00:49:43.700 --> 00:49:45.480
+who just want to--
+
+00:49:45.480 --> 00:49:47.650
+I just want to understand the breath of this field I'm
+
+00:49:47.650 --> 00:49:50.450
+getting into.
+
+00:49:50.450 --> 00:49:53.100
+I don't want to just because I'm going to major in
+
+00:49:53.100 --> 00:49:56.500
+electrical engineering, have to take a whole semester of
+
+00:49:56.500 --> 00:49:59.260
+this other stuff, most of which is kind of
+
+00:49:59.260 --> 00:50:00.510
+irrelevant to me.
+
+00:50:00.510 --> 00:50:03.170
+
+
+00:50:03.170 --> 00:50:08.080
+So again, I don't have a good sense of how the students are
+
+00:50:08.080 --> 00:50:09.920
+feeling about the population it's serving.
+
+00:50:09.920 --> 00:50:14.200
+Because we did this other thing at the same time, which
+
+00:50:14.200 --> 00:50:18.550
+as far as students I think has a much bigger impact.
+
+00:50:18.550 --> 00:50:20.920
+So there's a whole other stream which we haven't talked
+
+00:50:20.920 --> 00:50:25.210
+about at MIT and active learning, which comes from the
+
+00:50:25.210 --> 00:50:26.120
+stuff I've been doing with the
+
+00:50:26.120 --> 00:50:28.380
+Educational Technology Council.
+
+00:50:28.380 --> 00:50:34.600
+But we made a radical, radical change in the style of the
+
+00:50:34.600 --> 00:50:40.970
+course, which was removing most of the lectures.
+
+00:50:40.970 --> 00:50:46.250
+So in the new course, the main thing you do with your time is
+
+00:50:46.250 --> 00:50:48.470
+you work on a project.
+
+00:50:48.470 --> 00:50:51.880
+And there's a big giant open lab.
+
+00:50:51.880 --> 00:50:55.660
+And the entire teaching staff of the course is present in
+
+00:50:55.660 --> 00:50:57.090
+this open lab.
+
+00:50:57.090 --> 00:51:00.110
+And there's kind of a pyramidal structure where
+
+00:51:00.110 --> 00:51:04.200
+there are undergraduate laboratory assistants, and
+
+00:51:04.200 --> 00:51:06.880
+each group of them is kind of supervised by a graduate
+
+00:51:06.880 --> 00:51:10.380
+student TA, and each group of graduate student TA's are
+
+00:51:10.380 --> 00:51:12.460
+supervised by the actual course faculty.
+
+00:51:12.460 --> 00:51:16.160
+And we're all sort of mixing it up in the course and
+
+00:51:16.160 --> 00:51:19.980
+sitting there talking to individual students.
+
+00:51:19.980 --> 00:51:23.710
+So rather than sitting in lecture, it's this very kind
+
+00:51:23.710 --> 00:51:28.650
+of open, interactive project-based thing.
+
+00:51:28.650 --> 00:51:32.760
+And that's such an enormous change in style, that when you
+
+00:51:32.760 --> 00:51:35.810
+kind of ask the students well, do you like it more, how you
+
+00:51:35.810 --> 00:51:39.300
+react to it more, that's got to dominate what we were doing
+
+00:51:39.300 --> 00:51:41.680
+in terms of content.
+
+00:51:41.680 --> 00:51:42.670
+INTERVIEWER: Yeah.
+
+00:51:42.670 --> 00:51:44.950
+I want to actually ask a whole set of questions on
+
+00:51:44.950 --> 00:51:48.040
+educational technology and the developments you've been
+
+00:51:48.040 --> 00:51:49.030
+involved in.
+
+00:51:49.030 --> 00:51:52.730
+Before turning to that, at the risk of asking to generalize
+
+00:51:52.730 --> 00:51:58.540
+again about MIT students, is there any way of talking about
+
+00:51:58.540 --> 00:52:01.570
+how or whether MIT students have changed over the course
+
+00:52:01.570 --> 00:52:03.391
+of your career?
+
+00:52:03.391 --> 00:52:06.080
+ABELSON: Oh, god.
+
+00:52:06.080 --> 00:52:08.130
+You get the feeling that about every three years there's a
+
+00:52:08.130 --> 00:52:09.380
+new generation.
+
+00:52:09.380 --> 00:52:17.900
+
+
+00:52:17.900 --> 00:52:22.540
+So the main way MIT students have changed I think is that
+
+00:52:22.540 --> 00:52:28.770
+they're more docile, as much as I hate to say.
+
+00:52:28.770 --> 00:52:30.890
+Marilee Jones, who was admissions director, actually
+
+00:52:30.890 --> 00:52:32.525
+thought about this a lot.
+
+00:52:32.525 --> 00:52:37.295
+
+
+00:52:37.295 --> 00:52:39.570
+Remember in the '60s, MIT took half of its applicants.
+
+00:52:39.570 --> 00:52:42.100
+
+
+00:52:42.100 --> 00:52:47.670
+And now it takes what, 10 percent, under 10 percent?
+
+00:52:47.670 --> 00:52:53.510
+And the students who end up getting into MIT are coming
+
+00:52:53.510 --> 00:52:59.920
+from a way more competitive environment.
+
+00:52:59.920 --> 00:53:05.650
+And in general, and in tremendous exceptions, they
+
+00:53:05.650 --> 00:53:10.390
+have been successful by kind of listening to their parents
+
+00:53:10.390 --> 00:53:13.900
+and listening to adults.
+
+00:53:13.900 --> 00:53:18.240
+And that's led to a tendency that students I think have too
+
+00:53:18.240 --> 00:53:23.110
+much respect for what adults or like faculty or something
+
+00:53:23.110 --> 00:53:24.340
+are saying.
+
+00:53:24.340 --> 00:53:29.220
+So there's really a sense of just kind of well they sort of
+
+00:53:29.220 --> 00:53:30.520
+know better and they have good things.
+
+00:53:30.520 --> 00:53:31.210
+And they go along it.
+
+00:53:31.210 --> 00:53:35.450
+And there's not as much a sense of really challenging
+
+00:53:35.450 --> 00:53:37.710
+the system.
+
+00:53:37.710 --> 00:53:41.760
+Now I don't know whether that's a generational thing or
+
+00:53:41.760 --> 00:53:43.990
+whether it's this particular kind of influence at the top
+
+00:53:43.990 --> 00:53:45.240
+schools like MIT.
+
+00:53:45.240 --> 00:53:48.050
+
+
+00:53:48.050 --> 00:53:49.665
+When's the last time you saw students take over
+
+00:53:49.665 --> 00:53:50.915
+a building at MIT?
+
+00:53:50.915 --> 00:53:54.750
+
+
+00:53:54.750 --> 00:53:57.920
+Like I said, when I showed up at MIT when I saw that happen,
+
+00:53:57.920 --> 00:54:02.070
+I said what incredibly an healthy thing to happen.
+
+00:54:02.070 --> 00:54:04.550
+And now we get upset if students
+
+00:54:04.550 --> 00:54:06.730
+crack into an elevator.
+
+00:54:06.730 --> 00:54:11.050
+So there's really this sense of the students becoming--
+
+00:54:11.050 --> 00:54:13.270
+I mean docile may be not quite-- the wrong word--
+
+00:54:13.270 --> 00:54:16.280
+but sort of too much respect for what the
+
+00:54:16.280 --> 00:54:18.360
+Institution is doing.
+
+00:54:18.360 --> 00:54:21.430
+And I sort of wish that would change.
+
+00:54:21.430 --> 00:54:24.290
+So that's sort of the big change that I see.
+
+00:54:24.290 --> 00:54:30.820
+INTERVIEWER: What price do we pay if the students are more
+
+00:54:30.820 --> 00:54:35.920
+sort of quick to fall in line or to do what's expected,
+
+00:54:35.920 --> 00:54:38.930
+rather than to push boundaries, I mean if any?
+
+00:54:38.930 --> 00:54:41.160
+ABELSON: I think its brilliance, its creativity,
+
+00:54:41.160 --> 00:54:42.410
+its achievement.
+
+00:54:42.410 --> 00:54:47.310
+
+
+00:54:47.310 --> 00:54:51.590
+When you think about any place or MIT, you sort of think in
+
+00:54:51.590 --> 00:54:54.610
+terms of the characters.
+
+00:54:54.610 --> 00:54:57.710
+Who are the characters around this place who give it
+
+00:54:57.710 --> 00:54:58.660
+tremendous flavor?
+
+00:54:58.660 --> 00:55:01.490
+Maybe they're not the smartest people or doing
+
+00:55:01.490 --> 00:55:02.140
+the greatest things.
+
+00:55:02.140 --> 00:55:04.930
+But they add spice to it.
+
+00:55:04.930 --> 00:55:10.610
+And you have to make room and just really venerate those
+
+00:55:10.610 --> 00:55:11.520
+kind of people.
+
+00:55:11.520 --> 00:55:15.780
+And the more we worry about those people are going to be
+
+00:55:15.780 --> 00:55:18.385
+doing something destructive or they'll be wasting time or
+
+00:55:18.385 --> 00:55:21.720
+they'll be wasting resources or something, the more you
+
+00:55:21.720 --> 00:55:24.430
+lose that kind of spice.
+
+00:55:24.430 --> 00:55:29.260
+And I sort of hope MIT never loses that, although there's
+
+00:55:29.260 --> 00:55:33.580
+just a lot of I don't quite want to say regimentation, but
+
+00:55:33.580 --> 00:55:36.610
+it's just I'd say a little lack of
+
+00:55:36.610 --> 00:55:38.880
+tolerance for the oddballs.
+
+00:55:38.880 --> 00:55:42.520
+And we have to just treasure the oddballs more.
+
+00:55:42.520 --> 00:55:46.130
+INTERVIEWER: So turning to educational technology, you've
+
+00:55:46.130 --> 00:55:50.460
+been deeply involved in any number of initiatives and
+
+00:55:50.460 --> 00:55:54.460
+deployment of programs since you've been at MIT.
+
+00:55:54.460 --> 00:55:55.940
+ABELSON: Since 1969.
+
+00:55:55.940 --> 00:55:57.100
+INTERVIEWER: Yes.
+
+00:55:57.100 --> 00:56:00.800
+Tell me first of all where does that interest come from?
+
+00:56:00.800 --> 00:56:05.180
+Why is it something that you have spent so much time and
+
+00:56:05.180 --> 00:56:06.994
+energy and effort on?
+
+00:56:06.994 --> 00:56:09.960
+ABELSON: So part of it quite frankly was this accident
+
+00:56:09.960 --> 00:56:13.250
+about going over to the AI Lab, meeting
+
+00:56:13.250 --> 00:56:14.980
+Papert in the elevator.
+
+00:56:14.980 --> 00:56:20.250
+But again, also the sense that I think a lot of people have
+
+00:56:20.250 --> 00:56:23.210
+of the joy of explaining things.
+
+00:56:23.210 --> 00:56:26.350
+And then the particular thing about--
+
+00:56:26.350 --> 00:56:29.760
+well, for me it's computers and educational technology.
+
+00:56:29.760 --> 00:56:32.140
+It's not just explaining things.
+
+00:56:32.140 --> 00:56:36.310
+It's empowering people to do them.
+
+00:56:36.310 --> 00:56:41.160
+So even going back to the original sort of Logo turtle,
+
+00:56:41.160 --> 00:56:43.980
+which is the first thing I worked on, it's not that oh,
+
+00:56:43.980 --> 00:56:44.990
+it's sort of cool.
+
+00:56:44.990 --> 00:56:46.980
+You might think about geometric designs.
+
+00:56:46.980 --> 00:56:52.720
+But I can make this world where students can kind of
+
+00:56:52.720 --> 00:56:56.870
+explore and do things that are both unexpected and
+
+00:56:56.870 --> 00:56:58.720
+explainable.
+
+00:56:58.720 --> 00:57:05.030
+And that's sort of the root of how I think about educational
+
+00:57:05.030 --> 00:57:06.740
+technology.
+
+00:57:06.740 --> 00:57:12.000
+But then there was a shift.
+
+00:57:12.000 --> 00:57:14.216
+I guess for me it came--
+
+00:57:14.216 --> 00:57:17.840
+oh, it didn't come until the late '80s or even the
+
+00:57:17.840 --> 00:57:22.330
+mid-'90s, where I started thinking about the institution
+
+00:57:22.330 --> 00:57:23.580
+in educational technology.
+
+00:57:23.580 --> 00:57:28.430
+
+
+00:57:28.430 --> 00:57:32.020
+There's this whole other ethic which is how should an
+
+00:57:32.020 --> 00:57:34.530
+institution behave in that world?
+
+00:57:34.530 --> 00:57:39.940
+So it's not only about how you effectively transmit things to
+
+00:57:39.940 --> 00:57:41.250
+students or do them.
+
+00:57:41.250 --> 00:57:44.790
+It's what what's it mean for an institution to actually
+
+00:57:44.790 --> 00:57:50.540
+live in the world as a responsible citizen?
+
+00:57:50.540 --> 00:57:54.600
+And I became really interested in that.
+
+00:57:54.600 --> 00:57:59.190
+The person who for me embodies that and still embodies that
+
+00:57:59.190 --> 00:58:04.950
+is Chuck Vest. His whole presidency was this sense of
+
+00:58:04.950 --> 00:58:11.140
+is MIT acting as a responsible, ethical being in
+
+00:58:11.140 --> 00:58:11.990
+what it can do?
+
+00:58:11.990 --> 00:58:17.890
+So I think about educational technology in that way.
+
+00:58:17.890 --> 00:58:21.980
+It's not only how do we behave towards our own student body,
+
+00:58:21.980 --> 00:58:24.890
+it's how do we behave towards the world?
+
+00:58:24.890 --> 00:58:29.190
+So there is the sense that you often here of MIT, this sense
+
+00:58:29.190 --> 00:58:35.470
+that MIT is a precious world resource.
+
+00:58:35.470 --> 00:58:38.250
+And I certainly believe that's true.
+
+00:58:38.250 --> 00:58:41.510
+And then the question is, with terms of education and
+
+00:58:41.510 --> 00:58:47.850
+educational technology, how do you sort of step up to that
+
+00:58:47.850 --> 00:58:49.470
+obligation?
+
+00:58:49.470 --> 00:58:52.010
+And part of it is how you behave as a
+
+00:58:52.010 --> 00:58:54.510
+model for other places.
+
+00:58:54.510 --> 00:58:58.560
+So even going back to like the book that Gerry Sussman and I
+
+00:58:58.560 --> 00:59:03.170
+wrote, there was always this sense that when you're writing
+
+00:59:03.170 --> 00:59:06.050
+a textbook at MIT, it's not really that they're going to
+
+00:59:06.050 --> 00:59:10.700
+be big sales about it, because in our case it was gosh, we're
+
+00:59:10.700 --> 00:59:12.740
+teaching computer programming and it's got calculus in
+
+00:59:12.740 --> 00:59:14.170
+chapter one.
+
+00:59:14.170 --> 00:59:15.410
+How could you use that?
+
+00:59:15.410 --> 00:59:18.560
+But it's the sense of you're sort of writing it for the
+
+00:59:18.560 --> 00:59:21.330
+people who are going to write the next round of books for
+
+00:59:21.330 --> 00:59:22.360
+everybody else.
+
+00:59:22.360 --> 00:59:26.990
+So a sense of people are watching and it
+
+00:59:26.990 --> 00:59:30.170
+matters what you do.
+
+00:59:30.170 --> 00:59:32.780
+And that's kind of a little bit what's behind
+
+00:59:32.780 --> 00:59:33.440
+OpenCourseWare.
+
+00:59:33.440 --> 00:59:34.840
+It's not just me.
+
+00:59:34.840 --> 00:59:40.750
+The original notion about OpenCourseWare is we thought
+
+00:59:40.750 --> 00:59:43.900
+that our audience in
+
+00:59:43.900 --> 00:59:48.040
+OpenCourseWare were other educators.
+
+00:59:48.040 --> 00:59:53.450
+And the way that whole initiative was crafted where
+
+00:59:53.450 --> 00:59:59.370
+we said it's really important that we show all MIT courses
+
+00:59:59.370 --> 01:00:01.030
+because what you're trying to exhibit
+
+01:00:01.030 --> 01:00:06.080
+there, your model was--
+
+01:00:06.080 --> 01:00:07.060
+I'm very consciously--
+
+01:00:07.060 --> 01:00:11.780
+the education minister in some third-world country would like
+
+01:00:11.780 --> 01:00:16.060
+to understand what that country should be doing about
+
+01:00:16.060 --> 01:00:18.280
+chemical engineering.
+
+01:00:18.280 --> 01:00:23.310
+And then you sort of see displayed out before you is
+
+01:00:23.310 --> 01:00:27.520
+what MIT, the top institution in the world, thinks is
+
+01:00:27.520 --> 01:00:28.700
+chemical engineering.
+
+01:00:28.700 --> 01:00:32.070
+And this is what was in our heads when we made
+
+01:00:32.070 --> 01:00:32.850
+OpenCourseWare.
+
+01:00:32.850 --> 01:00:36.260
+Of course it didn't quite work that way because what we say,
+
+01:00:36.260 --> 01:00:38.980
+oh my god, they're all these people who actually want to
+
+01:00:38.980 --> 01:00:43.400
+learn chemical engineering, who look at this stuff.
+
+01:00:43.400 --> 01:00:47.610
+And that should have been obvious in hindsight because
+
+01:00:47.610 --> 01:00:51.640
+there are many more students in the world than educators.
+
+01:00:51.640 --> 01:00:54.150
+But we were surprised by that.
+
+01:00:54.150 --> 01:00:57.100
+But to get back to the original ethos of that, is
+
+01:00:57.100 --> 01:01:01.310
+you're setting yourself up as a model and you're trying to
+
+01:01:01.310 --> 01:01:03.850
+influence the influencers.
+
+01:01:03.850 --> 01:01:06.060
+And what you do matters.
+
+01:01:06.060 --> 01:01:09.760
+And that's not only a technical obligation, it's an
+
+01:01:09.760 --> 01:01:13.660
+ethical obligation for how you behave and how
+
+01:01:13.660 --> 01:01:14.500
+you think about it.
+
+01:01:14.500 --> 01:01:17.170
+And that's kind of how I think about educational
+
+01:01:17.170 --> 01:01:18.000
+technologies.
+
+01:01:18.000 --> 01:01:21.540
+It's with that sense of you're creating a model.
+
+01:01:21.540 --> 01:01:26.230
+You have an obligation to sort of see that it works out right
+
+01:01:26.230 --> 01:01:28.650
+with respect to how you think the world is evolving and how
+
+01:01:28.650 --> 01:01:31.370
+you think the internet is evolving.
+
+01:01:31.370 --> 01:01:34.440
+But much, much of MIT is like that.
+
+01:01:34.440 --> 01:01:39.020
+It's a whole ethos of service that's really integral to how
+
+01:01:39.020 --> 01:01:41.650
+much of this community works.
+
+01:01:41.650 --> 01:01:43.850
+INTERVIEWER: Tell me a bit more about the genesis of
+
+01:01:43.850 --> 01:01:45.340
+OpenCourseWare.
+
+01:01:45.340 --> 01:01:49.480
+I know that when I first heard about it at the time it was
+
+01:01:49.480 --> 01:01:53.210
+first announced, I guess certainly not before then, it
+
+01:01:53.210 --> 01:01:56.890
+was somewhat from my very limited perspective it seemed
+
+01:01:56.890 --> 01:01:59.750
+very shocking that MIT would do that.
+
+01:01:59.750 --> 01:02:03.470
+And I'm just really interested in the genesis, the thought
+
+01:02:03.470 --> 01:02:07.985
+process institutionally, and also for you personally?
+
+01:02:07.985 --> 01:02:08.430
+ABELSON: Yeah.
+
+01:02:08.430 --> 01:02:11.110
+The only disappointment I have about OpenCourseWare is that
+
+01:02:11.110 --> 01:02:16.370
+we announced it after the internet bubble had peaked.
+
+01:02:16.370 --> 01:02:26.040
+Again, if you go back to the late '90s, right, 1998, 1999,
+
+01:02:26.040 --> 01:02:31.410
+2000, there was this sense, if you read in the educational
+
+01:02:31.410 --> 01:02:34.410
+technology press or the education news, that
+
+01:02:34.410 --> 01:02:36.980
+universities were sitting on a gold mine.
+
+01:02:36.980 --> 01:02:44.170
+People talked about literally a $2 trillion economy coming
+
+01:02:44.170 --> 01:02:47.670
+out of universities, taking their course materials and
+
+01:02:47.670 --> 01:02:50.500
+putting them on the network.
+
+01:02:50.500 --> 01:02:57.670
+And I just loved it that in that climate, MIT said hey,
+
+01:02:57.670 --> 01:03:00.350
+we're giving it away.
+
+01:03:00.350 --> 01:03:05.790
+Education is being part of the community of interacting and
+
+01:03:05.790 --> 01:03:08.410
+doing research and being part of it.
+
+01:03:08.410 --> 01:03:09.410
+That's why you come to MIT.
+
+01:03:09.410 --> 01:03:13.980
+That stuff you can watch on television, we
+
+01:03:13.980 --> 01:03:15.210
+just give that away.
+
+01:03:15.210 --> 01:03:18.070
+So I just loved saying that.
+
+01:03:18.070 --> 01:03:22.640
+Now that came from kind of a different place.
+
+01:03:22.640 --> 01:03:27.250
+That was a wonderfully well-crafted story that fit
+
+01:03:27.250 --> 01:03:28.670
+where we wanted to be in that place.
+
+01:03:28.670 --> 01:03:35.850
+But in fact what happened is Bob Brown, who was provost
+
+01:03:35.850 --> 01:03:44.270
+then, formed the Council on Educational Technology, which
+
+01:03:44.270 --> 01:03:48.220
+he and I ran together for a couple years.
+
+01:03:48.220 --> 01:03:53.440
+And that came from a prior thing, where as Chuck Vest
+
+01:03:53.440 --> 01:03:57.050
+would say, he'd go around the country around 1997 and give
+
+01:03:57.050 --> 01:03:57.710
+these talks.
+
+01:03:57.710 --> 01:04:01.150
+And people would say, there's this internet.
+
+01:04:01.150 --> 01:04:05.820
+What's MIT's going to do about it, quite literally?
+
+01:04:05.820 --> 01:04:07.690
+And so was a sense of what MIT should do.
+
+01:04:07.690 --> 01:04:14.260
+And a bunch of councils and groups met.
+
+01:04:14.260 --> 01:04:16.050
+There was a thing--
+
+01:04:16.050 --> 01:04:18.050
+I forget with the name was, but there was a council that
+
+01:04:18.050 --> 01:04:21.940
+sort of talked about MIT's agenda going ahead and talked
+
+01:04:21.940 --> 01:04:23.610
+about all sorts of stuff.
+
+01:04:23.610 --> 01:04:28.830
+And they barely mentioned that there was an internet.
+
+01:04:28.830 --> 01:04:31.940
+There was a phrase that said--
+
+01:04:31.940 --> 01:04:32.740
+literal phrase--
+
+01:04:32.740 --> 01:04:35.810
+MIT should focus 02139.
+
+01:04:35.810 --> 01:04:39.640
+And there was this grudging idea that there was something
+
+01:04:39.640 --> 01:04:43.030
+outside in terms of the opportunities for MIT going
+
+01:04:43.030 --> 01:04:44.600
+forward in the future.
+
+01:04:44.600 --> 01:04:47.310
+And then there was another committee which said the
+
+01:04:47.310 --> 01:04:52.240
+opposite, that was run by Nick Negroponte and Mike Dertouzos,
+
+01:04:52.240 --> 01:04:54.390
+that basically said, gosh, MIT is the most wonderful
+
+01:04:54.390 --> 01:04:54.870
+place in the world.
+
+01:04:54.870 --> 01:04:55.860
+We should be expansive.
+
+01:04:55.860 --> 01:04:58.990
+And we should just take millions of dollars and invest
+
+01:04:58.990 --> 01:05:01.380
+this in all sorts of technology things.
+
+01:05:01.380 --> 01:05:06.540
+And these two committees were kind of at loggerheads.
+
+01:05:06.540 --> 01:05:09.420
+What kind of happened is the technology committee got
+
+01:05:09.420 --> 01:05:12.720
+saddled with, you guys are just a bunch of technological
+
+01:05:12.720 --> 01:05:13.950
+determinism.
+
+01:05:13.950 --> 01:05:16.240
+In this place, we don't have to think about it.
+
+01:05:16.240 --> 01:05:18.860
+The other committee said wow, this is really about the
+
+01:05:18.860 --> 01:05:19.810
+spirit of MIT.
+
+01:05:19.810 --> 01:05:24.070
+But there was tremendous dissatisfaction because it was
+
+01:05:24.070 --> 01:05:26.720
+just ignoring the way the world was going.
+
+01:05:26.720 --> 01:05:30.250
+And so Bob Brown sort of wanted to find a way to
+
+01:05:30.250 --> 01:05:33.600
+mediate this stuff, to think about what's the way forward,
+
+01:05:33.600 --> 01:05:34.380
+looking at these things.
+
+01:05:34.380 --> 01:05:39.280
+And he formed the Council on Educational Technology, which
+
+01:05:39.280 --> 01:05:43.460
+it's kind of hidden agenda was to do that, find a path.
+
+01:05:43.460 --> 01:05:52.020
+So one of the things we did is we actually got McKinsey in to
+
+01:05:52.020 --> 01:05:53.210
+do a consulting--
+
+01:05:53.210 --> 01:05:55.980
+their standard kind of strategic consulting, saying
+
+01:05:55.980 --> 01:05:58.460
+where we are we going, what are the opportunities?
+
+01:05:58.460 --> 01:06:01.170
+And we kind of said MIT is doing a whole bunch of
+
+01:06:01.170 --> 01:06:04.180
+disjointed things.
+
+01:06:04.180 --> 01:06:07.680
+One of the consultant's had a really nice graphic he made
+
+01:06:07.680 --> 01:06:08.650
+with a whole bunch of sailboats
+
+01:06:08.650 --> 01:06:10.000
+that were MIT things.
+
+01:06:10.000 --> 01:06:12.190
+And all the sailboats were going off in all kinds of
+
+01:06:12.190 --> 01:06:13.440
+different directions.
+
+01:06:13.440 --> 01:06:15.630
+
+
+01:06:15.630 --> 01:06:19.040
+And we did a survey of the MIT community
+
+01:06:19.040 --> 01:06:21.460
+about what's important.
+
+01:06:21.460 --> 01:06:27.460
+And what was interesting is not coming from us on this ed
+
+01:06:27.460 --> 01:06:34.690
+tech council, but as said back to us by the consultants, it
+
+01:06:34.690 --> 01:06:38.050
+said, gee, what's really important at MIT is the
+
+01:06:38.050 --> 01:06:42.430
+integration of research and education.
+
+01:06:42.430 --> 01:06:43.270
+And now what's that say?
+
+01:06:43.270 --> 01:06:46.170
+That says if you're thinking about distance learning in
+
+01:06:46.170 --> 01:06:54.890
+this sense, if somehow that is just curriculum material and
+
+01:06:54.890 --> 01:06:57.560
+it's not infused with the notion of research, that's
+
+01:06:57.560 --> 01:06:59.450
+kind of not an MIT education.
+
+01:06:59.450 --> 01:07:02.630
+So that one kind of fundamental they heard.
+
+01:07:02.630 --> 01:07:04.470
+Another one they heard which this notion of
+
+01:07:04.470 --> 01:07:06.770
+an integrated faculty.
+
+01:07:06.770 --> 01:07:09.780
+So MIT, unlike lots of other places, has this
+
+01:07:09.780 --> 01:07:11.020
+notion of one faculty.
+
+01:07:11.020 --> 01:07:14.470
+We don't have graduate faculty or we don't have teaching
+
+01:07:14.470 --> 01:07:16.120
+faculty and research faculty.
+
+01:07:16.120 --> 01:07:17.800
+We have faculty.
+
+01:07:17.800 --> 01:07:19.470
+And there's the sense if you're on the faculty, you're
+
+01:07:19.470 --> 01:07:21.730
+supposed to do all of these things.
+
+01:07:21.730 --> 01:07:27.610
+So there's this notion of if we really went and like oh,
+
+01:07:27.610 --> 01:07:30.760
+the Harvard Extension School, had a whole bunch of people
+
+01:07:30.760 --> 01:07:33.590
+who are not actual Harvard faculty who were teaching this
+
+01:07:33.590 --> 01:07:38.610
+thing, ahh, that's not the sort of thing MIT does.
+
+01:07:38.610 --> 01:07:42.080
+So there were a bunch of principles like that.
+
+01:07:42.080 --> 01:07:45.410
+And eventually we were sort of saying as MIT goes forward, do
+
+01:07:45.410 --> 01:07:48.830
+we think about expanding to new communities?
+
+01:07:48.830 --> 01:07:55.280
+
+
+01:07:55.280 --> 01:07:59.160
+Right now we think of our potential student body as the
+
+01:07:59.160 --> 01:08:03.350
+top whatever it is, two percent, three percent of
+
+01:08:03.350 --> 01:08:05.200
+students in the world.
+
+01:08:05.200 --> 01:08:08.590
+Should we be the top 10 percent?
+
+01:08:08.590 --> 01:08:13.490
+So there was this notion of who we actually talk to?
+
+01:08:13.490 --> 01:08:16.819
+And we kind of strategically said we actually want to stay
+
+01:08:16.819 --> 01:08:20.000
+with the communities of people that we know.
+
+01:08:20.000 --> 01:08:25.170
+And we want to stay with an MIT of kind of style thing.
+
+01:08:25.170 --> 01:08:29.300
+And that morphed into a thing that said we really want to
+
+01:08:29.300 --> 01:08:36.910
+change the dynamic of how a student interacts with MIT to
+
+01:08:36.910 --> 01:08:39.270
+something that can be lifelong.
+
+01:08:39.270 --> 01:08:42.529
+So there was this idea that right now you graduate MIT,
+
+01:08:42.529 --> 01:08:46.020
+and what it means basically means to be an alum is that
+
+01:08:46.020 --> 01:08:50.090
+every year the Institute sends you requests for money.
+
+01:08:50.090 --> 01:08:54.240
+And we're saying shouldn't there be a different kind of
+
+01:08:54.240 --> 01:08:57.490
+thing with that where you can participate in this community
+
+01:08:57.490 --> 01:08:58.970
+intellectually for a long time?
+
+01:08:58.970 --> 01:09:00.853
+So that was one of these things
+
+01:09:00.853 --> 01:09:02.103
+called lifelong education.
+
+01:09:02.103 --> 01:09:04.729
+
+
+01:09:04.729 --> 01:09:09.300
+And so out of that strategic thing, there came another
+
+01:09:09.300 --> 01:09:10.890
+thing, saying well, we kind of decided
+
+01:09:10.890 --> 01:09:13.149
+on that as the direction.
+
+01:09:13.149 --> 01:09:16.149
+Let's mush out this lifelong learning thing.
+
+01:09:16.149 --> 01:09:17.229
+Let's figure out what it is.
+
+01:09:17.229 --> 01:09:19.460
+We actually did another consulting engagement with
+
+01:09:19.460 --> 01:09:23.130
+Booz Allen, who came in as very analytical, saying is
+
+01:09:23.130 --> 01:09:25.149
+this going to work?
+
+01:09:25.149 --> 01:09:30.630
+And basically after long drawn-out things and analyses
+
+01:09:30.630 --> 01:09:34.620
+and talking to possible clients and competitors and
+
+01:09:34.620 --> 01:09:36.609
+offices at MIT about everything, they found it
+
+01:09:36.609 --> 01:09:38.520
+wasn't going to work.
+
+01:09:38.520 --> 01:09:44.040
+So they called in one of their spreadsheet ninjas, who made
+
+01:09:44.040 --> 01:09:48.340
+this giant thing with every possible parameter you could
+
+01:09:48.340 --> 01:09:50.710
+imagine, what are the production values, how long is
+
+01:09:50.710 --> 01:09:52.350
+the course, what's the client thing.
+
+01:09:52.350 --> 01:09:56.600
+And basically it turned out that, I forget, if you've got
+
+01:09:56.600 --> 01:10:01.980
+20,000 doing a course, you could kind of
+
+01:10:01.980 --> 01:10:05.740
+a break-even, maybe.
+
+01:10:05.740 --> 01:10:08.570
+So this whole committee was actually pretty-- oh my god,
+
+01:10:08.570 --> 01:10:11.620
+what are we going to do?
+
+01:10:11.620 --> 01:10:13.430
+And finally, I think it was Dick Yue,
+
+01:10:13.430 --> 01:10:14.600
+there's some famous story--
+
+01:10:14.600 --> 01:10:15.590
+I don't know if you talked to him.
+
+01:10:15.590 --> 01:10:17.480
+There's this famous story about he was
+
+01:10:17.480 --> 01:10:19.490
+exercising or something.
+
+01:10:19.490 --> 01:10:21.550
+And it sort of came to him about well, why don't we take
+
+01:10:21.550 --> 01:10:23.780
+this stuff and give it away.
+
+01:10:23.780 --> 01:10:25.520
+And that sounds like a crazy idea.
+
+01:10:25.520 --> 01:10:28.270
+But then you sort of think well you know, if we're not
+
+01:10:28.270 --> 01:10:33.080
+going to make money charging alumni and other people to do
+
+01:10:33.080 --> 01:10:36.340
+this, maybe we can get foundations to pay for this.
+
+01:10:36.340 --> 01:10:39.900
+So it wasn't a totally crazy idea.
+
+01:10:39.900 --> 01:10:46.100
+And then at the end of the summer what happened was the
+
+01:10:46.100 --> 01:10:49.410
+committee produced this report.
+
+01:10:49.410 --> 01:10:51.630
+So that was the other thing that Dick did.
+
+01:10:51.630 --> 01:10:53.320
+MIT believes in data.
+
+01:10:53.320 --> 01:10:56.210
+And he did this amazing thing, which is whenever the
+
+01:10:56.210 --> 01:10:59.630
+consultants would do anything, they'd interview somebody, and
+
+01:10:59.630 --> 01:11:01.020
+he'd sort of xerox the sheet.
+
+01:11:01.020 --> 01:11:03.210
+And he put it in this big notebook.
+
+01:11:03.210 --> 01:11:07.790
+And he had a notebook which was literally this high.
+
+01:11:07.790 --> 01:11:10.680
+And when he'd come in to make a presentation, he'd put the
+
+01:11:10.680 --> 01:11:13.690
+notebook on the desk, saying the committee has done this
+
+01:11:13.690 --> 01:11:16.300
+research for its conclusions.
+
+01:11:16.300 --> 01:11:19.430
+And nobody would dare challenge him on that, despite
+
+01:11:19.430 --> 01:11:21.570
+the fact that nothing in the notebook was relevant to what
+
+01:11:21.570 --> 01:11:22.132
+he was saying.
+
+01:11:22.132 --> 01:11:23.710
+It was just a great, great ploy.
+
+01:11:23.710 --> 01:11:26.210
+But it's again, engineer's culture.
+
+01:11:26.210 --> 01:11:28.810
+We like data.
+
+01:11:28.810 --> 01:11:33.300
+But the committee's report was this incredibly precise
+
+01:11:33.300 --> 01:11:36.430
+reasoned out, spreadsheet-backed, financial
+
+01:11:36.430 --> 01:11:41.710
+model thing about how we could do some for pay lifelong
+
+01:11:41.710 --> 01:11:44.780
+learning things with careful analysis.
+
+01:11:44.780 --> 01:11:47.530
+And then at the end, there was about two pages.
+
+01:11:47.530 --> 01:11:49.180
+It said, and by the way, we have this other idea that we
+
+01:11:49.180 --> 01:11:50.830
+should just give it away.
+
+01:11:50.830 --> 01:11:52.620
+And we'll call it OpenCourseWare.
+
+01:11:52.620 --> 01:11:54.770
+With no analysis or anything.
+
+01:11:54.770 --> 01:12:00.680
+And then to its tremendous credit, Chuck Bastian, Bob and
+
+01:12:00.680 --> 01:12:04.030
+Tom Magnanti got inspired by this and said yeah, this one
+
+01:12:04.030 --> 01:12:05.230
+seems right.
+
+01:12:05.230 --> 01:12:09.210
+And that's what actually started the path towards
+
+01:12:09.210 --> 01:12:10.870
+OpenCourseWare.
+
+01:12:10.870 --> 01:12:13.690
+And then there were a lot of talks with--
+
+01:12:13.690 --> 01:12:15.570
+Chuck went and got money from the Hewlett and Mellon
+
+01:12:15.570 --> 01:12:16.940
+foundations.
+
+01:12:16.940 --> 01:12:18.820
+And we did a bunch of things, talked with the
+
+01:12:18.820 --> 01:12:20.230
+faculty over the year.
+
+01:12:20.230 --> 01:12:22.810
+But that's kind of how it started.
+
+01:12:22.810 --> 01:12:27.540
+And again, it started in this world of MIT is going to be
+
+01:12:27.540 --> 01:12:29.480
+the exemplar.
+
+01:12:29.480 --> 01:12:33.690
+So we weren't talking really about distance education.
+
+01:12:33.690 --> 01:12:36.203
+We weren't even thinking about the students who
+
+01:12:36.203 --> 01:12:36.390
+were going to do it.
+
+01:12:36.390 --> 01:12:38.800
+We were thinking about here MIT is
+
+01:12:38.800 --> 01:12:41.110
+exhibiting itself as a model.
+
+01:12:41.110 --> 01:12:44.800
+
+
+01:12:44.800 --> 01:12:47.600
+It was right for 2000.
+
+01:12:47.600 --> 01:12:50.600
+And it sort of grabbed everybody's imagination.
+
+01:12:50.600 --> 01:12:54.520
+And then it happened as you said, at exactly the time that
+
+01:12:54.520 --> 01:12:57.650
+lots of these other universities were saying wow,
+
+01:12:57.650 --> 01:12:59.340
+we're going to make tremendous money for this.
+
+01:12:59.340 --> 01:13:00.650
+There were lots of start-ups.
+
+01:13:00.650 --> 01:13:02.630
+I don't know if people noticed.
+
+01:13:02.630 --> 01:13:04.670
+I once went back and looked.
+
+01:13:04.670 --> 01:13:07.740
+And there were lots and lots of places that when we did the
+
+01:13:07.740 --> 01:13:11.520
+original McKinsey analysis, were saying, oh god, these
+
+01:13:11.520 --> 01:13:12.280
+people are starting.
+
+01:13:12.280 --> 01:13:13.110
+Their company is starting.
+
+01:13:13.110 --> 01:13:14.570
+Their university is doing stuff.
+
+01:13:14.570 --> 01:13:17.470
+None of them are in business anymore.
+
+01:13:17.470 --> 01:13:19.670
+And it was just great that we can be so
+
+01:13:19.670 --> 01:13:20.960
+counter-intuitive as MIT.
+
+01:13:20.960 --> 01:13:24.570
+A very MIT thing.
+
+01:13:24.570 --> 01:13:28.290
+INTERVIEWER: Can you talk a bit about the faculty reaction
+
+01:13:28.290 --> 01:13:33.160
+when OCW was first floated as a concept.
+
+01:13:33.160 --> 01:13:36.290
+Supportive, not supportive, what was the response?
+
+01:13:36.290 --> 01:13:38.630
+ABELSON: It was surprisingly supportive.
+
+01:13:38.630 --> 01:13:41.730
+And in fact Larry Bacow, who was chancellor then, basically
+
+01:13:41.730 --> 01:13:45.440
+said, look, you cannot go ahead with this unless you
+
+01:13:45.440 --> 01:13:48.110
+really go, really talk to the faculty.
+
+01:13:48.110 --> 01:13:50.700
+So there was a group of about four or five of us who made
+
+01:13:50.700 --> 01:13:54.110
+presentations to every single MIT department.
+
+01:13:54.110 --> 01:13:56.200
+And we listened to a lot of stuff.
+
+01:13:56.200 --> 01:13:59.670
+
+
+01:13:59.670 --> 01:14:04.490
+I'd say the predominant negative reaction was oh my
+
+01:14:04.490 --> 01:14:09.500
+god, you want to take my class notes and put them out on the
+
+01:14:09.500 --> 01:14:11.210
+internet for everybody to look at.
+
+01:14:11.210 --> 01:14:12.450
+They're not good enough.
+
+01:14:12.450 --> 01:14:16.630
+And we got really good it saying hey, you're willing to
+
+01:14:16.630 --> 01:14:19.270
+give this to MIT students who are paying $40,000 dollars a
+
+01:14:19.270 --> 01:14:20.630
+year to listen to you.
+
+01:14:20.630 --> 01:14:22.790
+And you don't think they're good enough to put out for
+
+01:14:22.790 --> 01:14:24.940
+free to other people to look at?
+
+01:14:24.940 --> 01:14:27.300
+So we learned to make interesting
+
+01:14:27.300 --> 01:14:28.370
+answers to those things.
+
+01:14:28.370 --> 01:14:31.770
+But it was to me surprisingly positive.
+
+01:14:31.770 --> 01:14:36.650
+What everyone was expecting was, oh my god, you're giving
+
+01:14:36.650 --> 01:14:38.190
+away my intellectual property.
+
+01:14:38.190 --> 01:14:40.930
+
+
+01:14:40.930 --> 01:14:43.880
+I mean there might have been five people who said that.
+
+01:14:43.880 --> 01:14:45.050
+But it was almost unheard of.
+
+01:14:45.050 --> 01:14:47.410
+It was much more than the other reaction I said: well
+
+01:14:47.410 --> 01:14:51.910
+god, you're showing my stuff in other than its pristine
+
+01:14:51.910 --> 01:14:54.370
+state after I've worked on the publication
+
+01:14:54.370 --> 01:14:56.530
+manuscript for a long time.
+
+01:14:56.530 --> 01:14:58.170
+But it was just very, very popular.
+
+01:14:58.170 --> 01:15:01.050
+And it certainly helped that the administration was so
+
+01:15:01.050 --> 01:15:03.420
+incredibly visibly positive about this.
+
+01:15:03.420 --> 01:15:06.770
+
+
+01:15:06.770 --> 01:15:10.030
+But again OpenCourseWare got positioned.
+
+01:15:10.030 --> 01:15:12.400
+We made some adjustments, some tweaks in the way we told the
+
+01:15:12.400 --> 01:15:13.260
+story and what we did.
+
+01:15:13.260 --> 01:15:15.560
+I frankly don't remember what they were.
+
+01:15:15.560 --> 01:15:19.520
+But it was really very important to us that this came
+
+01:15:19.520 --> 01:15:22.480
+out as an expression of the MIT community.
+
+01:15:22.480 --> 01:15:25.560
+So it wasn't a administration driven,
+
+01:15:25.560 --> 01:15:27.080
+something, something, something.
+
+01:15:27.080 --> 01:15:31.030
+It really was an expression of what the faculty wanted to do.
+
+01:15:31.030 --> 01:15:34.460
+INTERVIEWER: So you talked about OpenCourseWare as one
+
+01:15:34.460 --> 01:15:38.310
+example of MIT or what MIT does being an exemplar.
+
+01:15:38.310 --> 01:15:43.150
+Ten plus years out, what has OCW's impact been on the
+
+01:15:43.150 --> 01:15:44.900
+broader world?
+
+01:15:44.900 --> 01:15:47.300
+ABELSON: Oh, well OCW created what's called
+
+01:15:47.300 --> 01:15:49.800
+Open Educational Resources.
+
+01:15:49.800 --> 01:15:58.130
+So there is now an enormous I want to say movement that's
+
+01:15:58.130 --> 01:16:01.080
+called OER, Open Educational Resources.
+
+01:16:01.080 --> 01:16:07.690
+That word started at a UN conference which was talking
+
+01:16:07.690 --> 01:16:10.110
+about OpenCourseWare and some more things.
+
+01:16:10.110 --> 01:16:12.370
+That's where the word got coined.
+
+01:16:12.370 --> 01:16:15.200
+And it got elevated to--
+
+01:16:15.200 --> 01:16:18.040
+I forget what the phrase is-- how do you think about
+
+01:16:18.040 --> 01:16:23.930
+education and the internet to improve the state of humanity?
+
+01:16:23.930 --> 01:16:26.070
+And really a very long thing.
+
+01:16:26.070 --> 01:16:29.840
+But now there's an enormous, enormous whole open
+
+01:16:29.840 --> 01:16:31.640
+educational resources movement.
+
+01:16:31.640 --> 01:16:36.830
+You've got to remember when OpenCourseWare started, there
+
+01:16:36.830 --> 01:16:42.900
+was not the idea that universities at scale would
+
+01:16:42.900 --> 01:16:46.130
+put educational material on the internet for free.
+
+01:16:46.130 --> 01:16:48.840
+And now that's, well sure, ho hum.
+
+01:16:48.840 --> 01:16:52.430
+So it caused just a major change in the
+
+01:16:52.430 --> 01:16:53.120
+way people did it.
+
+01:16:53.120 --> 01:16:57.990
+And it was a combination of that the time was kind of
+
+01:16:57.990 --> 01:17:00.210
+right for it, the technology was right for it.
+
+01:17:00.210 --> 01:17:03.750
+But also MIT put its institutional
+
+01:17:03.750 --> 01:17:06.260
+imprimatur on that idea.
+
+01:17:06.260 --> 01:17:09.620
+So it's been enormous.
+
+01:17:09.620 --> 01:17:13.730
+And not all of it identifies itself as universities.
+
+01:17:13.730 --> 01:17:18.640
+And not all of it identifies itself as
+
+01:17:18.640 --> 01:17:20.850
+certainly MIT or something.
+
+01:17:20.850 --> 01:17:26.100
+But just the idea that you can now go to the internet and
+
+01:17:26.100 --> 01:17:28.710
+find a lot of educational material, that's what
+
+01:17:28.710 --> 01:17:30.910
+OpenCourseWare started.
+
+01:17:30.910 --> 01:17:32.730
+INTERVIEWER: What do you see as the
+
+01:17:32.730 --> 01:17:34.910
+future for that movement?
+
+01:17:34.910 --> 01:17:40.100
+ABELSON: So this is something that we think about a lot with
+
+01:17:40.100 --> 01:17:46.020
+OpenCourseWare and a lot from places like Creative Commons.
+
+01:17:46.020 --> 01:17:47.280
+I kind of want to say it's done.
+
+01:17:47.280 --> 01:17:50.930
+
+
+01:17:50.930 --> 01:17:54.260
+Again, I have to say there really was a question, right,
+
+01:17:54.260 --> 01:17:57.260
+in 2000, about whether there could be a lot of free
+
+01:17:57.260 --> 01:17:58.840
+educational material on the internet.
+
+01:17:58.840 --> 01:18:00.020
+It really was a question.
+
+01:18:00.020 --> 01:18:01.570
+Now it's not.
+
+01:18:01.570 --> 01:18:04.830
+And in a sense that's kind of happened.
+
+01:18:04.830 --> 01:18:07.250
+So the real future now is how do you make
+
+01:18:07.250 --> 01:18:08.980
+that stuff more usable?
+
+01:18:08.980 --> 01:18:11.490
+
+
+01:18:11.490 --> 01:18:13.930
+There's no sense of all the quality of it.
+
+01:18:13.930 --> 01:18:17.760
+There's no sense that I can really get certification that
+
+01:18:17.760 --> 01:18:18.850
+comes from it.
+
+01:18:18.850 --> 01:18:20.910
+There's no real sense of how it fits together.
+
+01:18:20.910 --> 01:18:24.480
+There's no sense of gosh, here are three different
+
+01:18:24.480 --> 01:18:28.530
+presentations of diffraction.
+
+01:18:28.530 --> 01:18:29.330
+How do they compare?
+
+01:18:29.330 --> 01:18:31.870
+Which one should I use?
+
+01:18:31.870 --> 01:18:35.140
+So at the moment what's happening it's a tremendous
+
+01:18:35.140 --> 01:18:39.830
+amount of raw material that has not very
+
+01:18:39.830 --> 01:18:42.610
+effectively been mined.
+
+01:18:42.610 --> 01:18:44.690
+And what's happening now is there are lots and lots of
+
+01:18:44.690 --> 01:18:49.090
+both nonprofit companies and for profit start-ups that are
+
+01:18:49.090 --> 01:18:51.140
+trying to mine that in some effective way.
+
+01:18:51.140 --> 01:18:52.580
+Nobody's cracked it yet.
+
+01:18:52.580 --> 01:18:54.250
+But that's where it needs to go.
+
+01:18:54.250 --> 01:18:59.550
+And it's kind of hard problem because it's one thing to
+
+01:18:59.550 --> 01:19:01.350
+publish a lot of material on the network.
+
+01:19:01.350 --> 01:19:04.200
+But when you start talking about real education, you're
+
+01:19:04.200 --> 01:19:08.410
+talking about interaction with people and empowering groups
+
+01:19:08.410 --> 01:19:13.000
+to do stuff, thinking about did people actually learn the
+
+01:19:13.000 --> 01:19:14.660
+stuff, do you certify it, how do you certify it,
+
+01:19:14.660 --> 01:19:16.000
+how do you use it?
+
+01:19:16.000 --> 01:19:18.260
+So it's a lot harder work.
+
+01:19:18.260 --> 01:19:20.610
+And that's where the movement has to go.
+
+01:19:20.610 --> 01:19:22.590
+INTERVIEWER: So you mentioned that a lot of that's
+
+01:19:22.590 --> 01:19:23.980
+unresolved.
+
+01:19:23.980 --> 01:19:28.310
+But are there directions or ideas that you have in terms
+
+01:19:28.310 --> 01:19:32.090
+of making this material more usable or things that need to
+
+01:19:32.090 --> 01:19:32.200
+be addressed?
+
+01:19:32.200 --> 01:19:32.910
+ABELSON: Oh sure.
+
+01:19:32.910 --> 01:19:38.130
+I mean me and a thousand other people.
+
+01:19:38.130 --> 01:19:39.460
+They're all sorts of elements to it.
+
+01:19:39.460 --> 01:19:41.860
+Can I find something?
+
+01:19:41.860 --> 01:19:44.930
+If I want to go find an explanation of magnetism
+
+01:19:44.930 --> 01:19:50.260
+that's really good for eighth graders, can I find that?
+
+01:19:50.260 --> 01:19:52.920
+There are lots of places that are working on that.
+
+01:19:52.920 --> 01:19:53.980
+Google is working on that.
+
+01:19:53.980 --> 01:19:55.730
+Creative Commons is working on that.
+
+01:19:55.730 --> 01:19:58.720
+Lots and lots of places doing that.
+
+01:19:58.720 --> 01:20:03.720
+The other one is how do you bridge the gap between even
+
+01:20:03.720 --> 01:20:08.450
+for profit textbooks and this open stuff?
+
+01:20:08.450 --> 01:20:12.730
+Or to say it another way, if there's a lot of open stuff,
+
+01:20:12.730 --> 01:20:14.920
+there are a lot of people who are starting companies that
+
+01:20:14.920 --> 01:20:20.670
+say well, what's the missing piece in that, that I can add
+
+01:20:20.670 --> 01:20:22.540
+that'll be a sustainable business.
+
+01:20:22.540 --> 01:20:24.760
+And sometimes it's certification and sometimes
+
+01:20:24.760 --> 01:20:28.030
+it's editing of the things and sometimes it's organization
+
+01:20:28.030 --> 01:20:31.660
+and sometimes it's adding some special videos or
+
+01:20:31.660 --> 01:20:33.030
+something to it.
+
+01:20:33.030 --> 01:20:36.280
+People just exploring that all over the map.
+
+01:20:36.280 --> 01:20:38.010
+That really is the big thing in educational
+
+01:20:38.010 --> 01:20:39.750
+technology right now.
+
+01:20:39.750 --> 01:20:43.680
+There are textbook companies that say how do I make a
+
+01:20:43.680 --> 01:20:47.300
+mixture of the stuff I hire people to write things, but
+
+01:20:47.300 --> 01:20:50.590
+also back on to all of this open stuff?
+
+01:20:50.590 --> 01:20:53.630
+So there's not going to be one answer.
+
+01:20:53.630 --> 01:20:56.770
+And I think there's going to be an explosion over the next
+
+01:20:56.770 --> 01:20:59.170
+oh five years, of people trying lots and lots of
+
+01:20:59.170 --> 01:21:00.180
+different things.
+
+01:21:00.180 --> 01:21:00.630
+And who knows?
+
+01:21:00.630 --> 01:21:04.580
+It might converge on something after a while.
+
+01:21:04.580 --> 01:21:07.570
+INTERVIEWER: So you've been involved in obviously other
+
+01:21:07.570 --> 01:21:11.600
+initiatives as well that are very, very significant,
+
+01:21:11.600 --> 01:21:13.870
+iCampus being one, DSpace.
+
+01:21:13.870 --> 01:21:17.030
+
+
+01:21:17.030 --> 01:21:19.890
+Talk a bit about those.
+
+01:21:19.890 --> 01:21:21.970
+And I'm kind of lumping them together, just part in the
+
+01:21:21.970 --> 01:21:22.890
+interest of time.
+
+01:21:22.890 --> 01:21:25.930
+But I'm going to let you sort of tell me what you think are
+
+01:21:25.930 --> 01:21:28.350
+the most significant?
+
+01:21:28.350 --> 01:21:31.620
+And maybe just sort of wrapping it in the larger
+
+01:21:31.620 --> 01:21:36.390
+question of how technology has changed and continues to
+
+01:21:36.390 --> 01:21:39.660
+change the classroom experience?
+
+01:21:39.660 --> 01:21:43.720
+ABELSON: So sort of big area.
+
+01:21:43.720 --> 01:21:44.810
+INTERVIEWER: Yeah.
+
+01:21:44.810 --> 01:21:47.950
+And we can take it in pieces, if that's easy.
+
+01:21:47.950 --> 01:21:52.120
+ABELSON: So DSpace is kind of not
+
+01:21:52.120 --> 01:21:53.330
+really about the classroom.
+
+01:21:53.330 --> 01:21:55.620
+But it's one I like to talk about because that one's
+
+01:21:55.620 --> 01:21:56.800
+actually strategic.
+
+01:21:56.800 --> 01:21:59.590
+That was actually--
+
+01:21:59.590 --> 01:22:02.855
+I almost want to say crafted by Ann Wolpert, who's the head
+
+01:22:02.855 --> 01:22:10.430
+of libraries, and me, having to do with the issue of, will
+
+01:22:10.430 --> 01:22:17.160
+the public be able to get access to university research?
+
+01:22:17.160 --> 01:22:21.970
+So OpenCourseWare is about this vision of the educational
+
+01:22:21.970 --> 01:22:24.550
+materials of the world's greatest institutions are
+
+01:22:24.550 --> 01:22:26.860
+available to all of humanity.
+
+01:22:26.860 --> 01:22:32.690
+DSpace is about the vision of are the research let's say
+
+01:22:32.690 --> 01:22:38.540
+products of the top research enterprises in the world
+
+01:22:38.540 --> 01:22:40.110
+available to all of humanity?
+
+01:22:40.110 --> 01:22:42.200
+It's that vision.
+
+01:22:42.200 --> 01:22:44.450
+And then you sort of want to say well okay, well it's easy.
+
+01:22:44.450 --> 01:22:48.200
+
+
+01:22:48.200 --> 01:22:51.300
+In fact, we should just post this on the internet.
+
+01:22:51.300 --> 01:22:54.200
+And then you say why not?
+
+01:22:54.200 --> 01:22:56.930
+And then you find that there's no sense of gosh, what's it's
+
+01:22:56.930 --> 01:22:58.740
+mean to post it on the internet?
+
+01:22:58.740 --> 01:23:03.710
+Is there a trusted place that has a pedigree in putting my
+
+01:23:03.710 --> 01:23:08.380
+research materials out in a way that they're going to be
+
+01:23:08.380 --> 01:23:11.000
+proper stewardship of those?
+
+01:23:11.000 --> 01:23:16.320
+And so we said one place to do that is
+
+01:23:16.320 --> 01:23:18.820
+the research libraries.
+
+01:23:18.820 --> 01:23:22.060
+So the libraries of the top research institutions could
+
+01:23:22.060 --> 01:23:23.700
+fulfill that role.
+
+01:23:23.700 --> 01:23:25.480
+And DSpace was really about that.
+
+01:23:25.480 --> 01:23:28.830
+
+
+01:23:28.830 --> 01:23:29.870
+This was very early.
+
+01:23:29.870 --> 01:23:33.370
+And it was kind of saying well look, we see-- when was this,
+
+01:23:33.370 --> 01:23:35.170
+1999 or something?
+
+01:23:35.170 --> 01:23:38.240
+We kind of see this thing brewing with the ability to
+
+01:23:38.240 --> 01:23:40.530
+put stuff on the internet.
+
+01:23:40.530 --> 01:23:43.680
+And we see this is going to be coming more and more of a
+
+01:23:43.680 --> 01:23:45.370
+controversial flash point thing.
+
+01:23:45.370 --> 01:23:47.570
+We were absolutely right about that.
+
+01:23:47.570 --> 01:23:52.080
+And we said what's missing from that is the notion that a
+
+01:23:52.080 --> 01:23:58.660
+university research library could be a place that a
+
+01:23:58.660 --> 01:24:02.296
+research scientist would trust as a place to
+
+01:24:02.296 --> 01:24:03.060
+look around the internet.
+
+01:24:03.060 --> 01:24:05.090
+So DSpace was about creating that.
+
+01:24:05.090 --> 01:24:08.120
+And that's happened to a large extent.
+
+01:24:08.120 --> 01:24:10.330
+It needs to happen a lot more.
+
+01:24:10.330 --> 01:24:14.170
+We're now in the interesting stage of that where the
+
+01:24:14.170 --> 01:24:16.990
+publishers and journals are fighting back.
+
+01:24:16.990 --> 01:24:21.960
+So you know the famous Gandhi thing.
+
+01:24:21.960 --> 01:24:22.760
+First, they ignore you.
+
+01:24:22.760 --> 01:24:23.570
+Then they laugh at you.
+
+01:24:23.570 --> 01:24:24.830
+Then they fight you.
+
+01:24:24.830 --> 01:24:26.700
+Then they lose.
+
+01:24:26.700 --> 01:24:30.240
+So we're sort of starting to get into then
+
+01:24:30.240 --> 01:24:32.600
+they fight us stage.
+
+01:24:32.600 --> 01:24:36.700
+But I have a lot of optimism that'll work out.
+
+01:24:36.700 --> 01:24:41.800
+So DSpace is not particularly about the classroom.
+
+01:24:41.800 --> 01:24:46.630
+But the classroom stuff is a very, very complicated mix
+
+01:24:46.630 --> 01:24:50.580
+because part of what you want to think about is making it
+
+01:24:50.580 --> 01:24:55.070
+expansive, making this world of sharing, making this world
+
+01:24:55.070 --> 01:24:57.480
+where stuff is very possible.
+
+01:24:57.480 --> 01:25:01.500
+But at the same time, you want to think about what's really
+
+01:25:01.500 --> 01:25:04.080
+special about MIT.
+
+01:25:04.080 --> 01:25:08.650
+What's the stuff that I want to do in my class that I
+
+01:25:08.650 --> 01:25:11.660
+really don't want to share, because I want to say to these
+
+01:25:11.660 --> 01:25:13.930
+students, my god, you're not just in any place.
+
+01:25:13.930 --> 01:25:15.480
+You're at MIT.
+
+01:25:15.480 --> 01:25:17.240
+And this thing that's happening in this classroom
+
+01:25:17.240 --> 01:25:20.800
+now is really about our small group.
+
+01:25:20.800 --> 01:25:22.020
+And it's personal things.
+
+01:25:22.020 --> 01:25:24.480
+And I don't know where that ends out.
+
+01:25:24.480 --> 01:25:27.610
+But I think both of those things are
+
+01:25:27.610 --> 01:25:30.050
+happening at the same time.
+
+01:25:30.050 --> 01:25:35.320
+And so that ends up being a whole bunch of different kinds
+
+01:25:35.320 --> 01:25:39.230
+of initiatives that look at that in different ways.
+
+01:25:39.230 --> 01:25:43.630
+So one of them is the thing we funded under the Microsoft
+
+01:25:43.630 --> 01:25:47.700
+iCampus Alliance, which is the notion of remote laboratories,
+
+01:25:47.700 --> 01:25:52.900
+the iLabs thing that initially started with Jesus del Alamo
+
+01:25:52.900 --> 01:25:56.370
+in electronic engineering that said, gosh, I'm doing these
+
+01:25:56.370 --> 01:26:02.290
+labs for MIT students who are taking this thing.
+
+01:26:02.290 --> 01:26:03.910
+And just think about what it takes to a lab.
+
+01:26:03.910 --> 01:26:07.650
+You come in, and you have to spend 30 minutes setting it
+
+01:26:07.650 --> 01:26:09.440
+up, and the equipment's broken, and you have to go
+
+01:26:09.440 --> 01:26:11.940
+through the safety class to make sure you don't do things.
+
+01:26:11.940 --> 01:26:16.010
+When the reality is, you're just doing a three minute
+
+01:26:16.010 --> 01:26:17.550
+experiment.
+
+01:26:17.550 --> 01:26:19.500
+Wouldn't it be nice if you could do that from your dorm
+
+01:26:19.500 --> 01:26:21.180
+room over the internet?
+
+01:26:21.180 --> 01:26:24.710
+And that was sort of where Jesus's his vision of that
+
+01:26:24.710 --> 01:26:27.170
+started in the circuits course.
+
+01:26:27.170 --> 01:26:29.760
+And then we sort of said yeah, once you do that, once you can
+
+01:26:29.760 --> 01:26:32.030
+be across the campus, hey it's on the web.
+
+01:26:32.030 --> 01:26:33.810
+It could be across the world.
+
+01:26:33.810 --> 01:26:37.850
+So there's this view of can you take those real laboratory
+
+01:26:37.850 --> 01:26:42.860
+experiences and in a sense make them accessed remotely?
+
+01:26:42.860 --> 01:26:44.950
+So that's a little bit of trying to bridge this, hey,
+
+01:26:44.950 --> 01:26:49.360
+it's special, but it's also accessible kind of thing.
+
+01:26:49.360 --> 01:26:53.230
+
+
+01:26:53.230 --> 01:26:58.440
+The stuff that I'd love to be playing with now is how you do
+
+01:26:58.440 --> 01:27:00.050
+like remote tutoring?
+
+01:27:00.050 --> 01:27:05.130
+How do I make it so if I'm in some kind of laboratory or
+
+01:27:05.130 --> 01:27:08.400
+some kind of classroom session where I'm getting individual
+
+01:27:08.400 --> 01:27:12.070
+instruction, you could also imagine doing that
+
+01:27:12.070 --> 01:27:14.760
+from across the world?
+
+01:27:14.760 --> 01:27:17.370
+Those are some of the things that I'm trying to think about
+
+01:27:17.370 --> 01:27:21.420
+with the ed tech council right now.
+
+01:27:21.420 --> 01:27:24.180
+And then at the same time there's the evolution of
+
+01:27:24.180 --> 01:27:28.250
+OpenCourseWare like things.
+
+01:27:28.250 --> 01:27:32.280
+We're sort of moving to a new stage in that where the idea
+
+01:27:32.280 --> 01:27:36.490
+that there's effectively a book on the internet, well
+
+01:27:36.490 --> 01:27:37.070
+that's good.
+
+01:27:37.070 --> 01:27:38.620
+But people want more.
+
+01:27:38.620 --> 01:27:42.140
+And we have to think about what the next stuff is.
+
+01:27:42.140 --> 01:27:46.540
+INTERVIEWER: So given that so much of this revolves around
+
+01:27:46.540 --> 01:27:48.730
+remote learning--
+
+01:27:48.730 --> 01:27:51.460
+iLab or OpenCourseWare--
+
+01:27:51.460 --> 01:27:55.890
+what is the actual role of the physical location of the
+
+01:27:55.890 --> 01:27:59.380
+classroom and the class that gets together with a faculty
+
+01:27:59.380 --> 01:28:02.990
+member or an instructor going forward?
+
+01:28:02.990 --> 01:28:03.330
+ABELSON: Yeah.
+
+01:28:03.330 --> 01:28:08.190
+What an incredibly good question.
+
+01:28:08.190 --> 01:28:08.600
+Right.
+
+01:28:08.600 --> 01:28:15.860
+Because again on the one hand, there are some places in
+
+01:28:15.860 --> 01:28:19.470
+education, not the large lecture or anything, where you
+
+01:28:19.470 --> 01:28:23.090
+really, really, really want the sense of intimacy.
+
+01:28:23.090 --> 01:28:27.850
+I mean as much as you could ever want, you really have to
+
+01:28:27.850 --> 01:28:30.780
+be, I'm here for you.
+
+01:28:30.780 --> 01:28:33.730
+I'm here for you students and we're doing this thing.
+
+01:28:33.730 --> 01:28:35.830
+And we're engaged in this discussion right now.
+
+01:28:35.830 --> 01:28:41.200
+And I don't want this stuff going outside the classroom
+
+01:28:41.200 --> 01:28:47.030
+because what's happening with us right now is very special.
+
+01:28:47.030 --> 01:28:50.890
+I'm telling you things that we just don't--
+
+01:28:50.890 --> 01:28:54.150
+this is about us right now.
+
+01:28:54.150 --> 01:28:56.150
+And that's really, really important and will be
+
+01:28:56.150 --> 01:28:58.410
+important forever.
+
+01:28:58.410 --> 01:29:03.250
+The hard part is you have to ask yourself how much of that
+
+01:29:03.250 --> 01:29:06.380
+sense of intimacy is technology now going to be
+
+01:29:06.380 --> 01:29:09.130
+able to supply?
+
+01:29:09.130 --> 01:29:11.170
+And we're going to be figuring this.
+
+01:29:11.170 --> 01:29:15.220
+Three years ago, it was a big deal to get on a video
+
+01:29:15.220 --> 01:29:16.950
+conference with somebody.
+
+01:29:16.950 --> 01:29:20.610
+And I do that with people across the world from my
+
+01:29:20.610 --> 01:29:24.380
+office and it's no more than sending a note saying hey, are
+
+01:29:24.380 --> 01:29:25.340
+you on Skype now?
+
+01:29:25.340 --> 01:29:25.970
+Let's connect.
+
+01:29:25.970 --> 01:29:29.980
+And we have a conversation.
+
+01:29:29.980 --> 01:29:35.310
+You have to ask yourself well, what are you losing by not
+
+01:29:35.310 --> 01:29:38.230
+being physically present there?
+
+01:29:38.230 --> 01:29:40.670
+And there's just a lot of research on that.
+
+01:29:40.670 --> 01:29:42.140
+They're all these shared
+
+01:29:42.140 --> 01:29:44.950
+conference spaces or something.
+
+01:29:44.950 --> 01:29:49.160
+I don't think people have done enough of thinking about that
+
+01:29:49.160 --> 01:29:51.590
+with respect to education and seminars and things.
+
+01:29:51.590 --> 01:29:53.660
+But sure, people are going to try it.
+
+01:29:53.660 --> 01:29:56.620
+And we're going to find out.
+
+01:29:56.620 --> 01:29:58.850
+A lot of people feel like they're a little scared to go
+
+01:29:58.850 --> 01:30:03.530
+there because the implications of that is that maybe the
+
+01:30:03.530 --> 01:30:08.690
+physical thing doesn't matter for that.
+
+01:30:08.690 --> 01:30:12.300
+And then you say well, that wasn't the important part
+
+01:30:12.300 --> 01:30:13.410
+about the physical location.
+
+01:30:13.410 --> 01:30:16.110
+The important part about the physical location is that
+
+01:30:16.110 --> 01:30:17.360
+you're hanging around in the same place.
+
+01:30:17.360 --> 01:30:18.860
+There are all these serendipitous things that
+
+01:30:18.860 --> 01:30:22.270
+happen, what do they call it, the water cooler effect.
+
+01:30:22.270 --> 01:30:25.520
+And that's the really important thing about having a
+
+01:30:25.520 --> 01:30:27.360
+physical location.
+
+01:30:27.360 --> 01:30:29.770
+And then you sort of say, well you know there are these
+
+01:30:29.770 --> 01:30:31.370
+people who are working on that too.
+
+01:30:31.370 --> 01:30:34.780
+And you have some stuff and you can counter people.
+
+01:30:34.780 --> 01:30:36.340
+There have been all these experiments with virtual
+
+01:30:36.340 --> 01:30:40.100
+worlds, which seem to had a lot more pizazz three years
+
+01:30:40.100 --> 01:30:41.740
+ago than they do now.
+
+01:30:41.740 --> 01:30:43.820
+But you're going to find technology being able to do
+
+01:30:43.820 --> 01:30:46.130
+pieces of that.
+
+01:30:46.130 --> 01:30:49.010
+And I don't know, we're going to find out which versions of
+
+01:30:49.010 --> 01:30:50.050
+that were important.
+
+01:30:50.050 --> 01:30:54.260
+We can all make up science fiction stories about how
+
+01:30:54.260 --> 01:30:55.780
+physical presence doesn't matter.
+
+01:30:55.780 --> 01:30:58.760
+But the point is for at least right now, physical presence
+
+01:30:58.760 --> 01:31:00.930
+matters a whole hell of a lot.
+
+01:31:00.930 --> 01:31:04.600
+And we'll sort of piece together the things that make
+
+01:31:04.600 --> 01:31:08.250
+it work and are necessary and which can be supplanted.
+
+01:31:08.250 --> 01:31:10.870
+INTERVIEWER: So I want to return too to something that
+
+01:31:10.870 --> 01:31:14.160
+you said not too long ago about sort of that point when
+
+01:31:14.160 --> 01:31:17.670
+you started thinking about how MIT as an institution deals
+
+01:31:17.670 --> 01:31:19.380
+with these kinds of questions.
+
+01:31:19.380 --> 01:31:23.580
+And I guess my question is, given this very thorny
+
+01:31:23.580 --> 01:31:28.070
+question that we were just discussing, how should MIT
+
+01:31:28.070 --> 01:31:28.720
+deal with that?
+
+01:31:28.720 --> 01:31:31.970
+How should MIT going forward, thinking about the next five,
+
+01:31:31.970 --> 01:31:36.910
+10, whatever years, deal with this very, very important
+
+01:31:36.910 --> 01:31:41.380
+question of the classroom versus remote learning?
+
+01:31:41.380 --> 01:31:46.600
+And is it technology driven, is it policy driven, is it a
+
+01:31:46.600 --> 01:31:47.850
+combination?
+
+01:31:47.850 --> 01:31:49.930
+
+
+01:31:49.930 --> 01:31:51.860
+ABELSON: I kind of want to say it's ethically driven.
+
+01:31:51.860 --> 01:31:59.580
+I really do feel that MIT has an almost ethical obligation
+
+01:31:59.580 --> 01:32:03.430
+to say look, we are a precious resource.
+
+01:32:03.430 --> 01:32:08.145
+We understand about learning and technology and things.
+
+01:32:08.145 --> 01:32:11.536
+
+
+01:32:11.536 --> 01:32:13.080
+I hate to sound maudlin.
+
+01:32:13.080 --> 01:32:17.450
+We have an obligation to humanity to make that better.
+
+01:32:17.450 --> 01:32:22.260
+And what's the way in which MIT can be an exemplar of that
+
+01:32:22.260 --> 01:32:24.950
+and a model of that?
+
+01:32:24.950 --> 01:32:30.530
+And it means that when you think about what we should do
+
+01:32:30.530 --> 01:32:35.830
+in educational technology at MIT, you really are thinking
+
+01:32:35.830 --> 01:32:39.340
+that you're a model for the rest of the world.
+
+01:32:39.340 --> 01:32:43.280
+And how would you like that to happen?
+
+01:32:43.280 --> 01:32:45.820
+How would you like to play out?
+
+01:32:45.820 --> 01:32:53.130
+When we do something great in a classroom, we are obligated
+
+01:32:53.130 --> 01:32:56.770
+to say how can other people follow that or how could other
+
+01:32:56.770 --> 01:32:59.260
+people think about whether it's a good thing to do.
+
+01:32:59.260 --> 01:33:02.720
+It's not just about MIT.
+
+01:33:02.720 --> 01:33:06.930
+It's a world resource that those of us who are teaching
+
+01:33:06.930 --> 01:33:09.050
+are just privileged to be part of.
+
+01:33:09.050 --> 01:33:13.500
+And that privilege is not only about MIT undergraduate body.
+
+01:33:13.500 --> 01:33:16.730
+It's about how the world is going to look at it.
+
+01:33:16.730 --> 01:33:22.720
+So that doesn't tell you what to do but it's the sense of
+
+01:33:22.720 --> 01:33:27.720
+obligation that you feel in doing that, that it's not just
+
+01:33:27.720 --> 01:33:28.460
+looking inward.
+
+01:33:28.460 --> 01:33:33.070
+There are places that are not like that at all.
+
+01:33:33.070 --> 01:33:36.650
+I mean Harvard by and large is not like that.
+
+01:33:36.650 --> 01:33:40.070
+But MIT is the sense of god, we're doing it for the world.
+
+01:33:40.070 --> 01:33:43.560
+And that's how I think about the institutional thing when
+
+01:33:43.560 --> 01:33:44.810
+we do educational technology.
+
+01:33:44.810 --> 01:33:48.350
+
+
+01:33:48.350 --> 01:33:51.270
+INTERVIEWER: This isn't about the classroom specifically,
+
+01:33:51.270 --> 01:33:53.510
+but it very much relates to what you just said.
+
+01:33:53.510 --> 01:33:57.420
+I wanted to ask you about the open access policy.
+
+01:33:57.420 --> 01:33:58.670
+ABELSON: Oh, right.
+
+01:33:58.670 --> 01:34:00.910
+
+
+01:34:00.910 --> 01:34:04.130
+That threads through lots and lots and lots of this.
+
+01:34:04.130 --> 01:34:05.450
+I talked before about DSpace.
+
+01:34:05.450 --> 01:34:10.060
+So that's open access.
+
+01:34:10.060 --> 01:34:11.710
+I'm also one of the founding directors for the Free
+
+01:34:11.710 --> 01:34:14.990
+Software Foundation, which is--
+
+01:34:14.990 --> 01:34:19.190
+again growth, we talked before about the AI Lab culture.
+
+01:34:19.190 --> 01:34:20.520
+It grows right out of that.
+
+01:34:20.520 --> 01:34:23.524
+That it's about a community thing.
+
+01:34:23.524 --> 01:34:32.170
+And the precious thing is that you allow people to build on
+
+01:34:32.170 --> 01:34:34.470
+each other's work.
+
+01:34:34.470 --> 01:34:37.420
+So a lot of times when people talk about open access, they
+
+01:34:37.420 --> 01:34:41.000
+say gee, I ought to be able to read some stuff on the
+
+01:34:41.000 --> 01:34:43.790
+internet or be able to do stuff or it's locked away and
+
+01:34:43.790 --> 01:34:47.110
+I shouldn't have to pay to get it.
+
+01:34:47.110 --> 01:34:50.600
+That's not the spirit, that's not the soul of it.
+
+01:34:50.600 --> 01:34:55.750
+The soul of it is that we can build a shared thing together.
+
+01:34:55.750 --> 01:34:59.430
+I always use the metaphor of there was this thing that
+
+01:34:59.430 --> 01:35:03.090
+happened in the Middle Ages where the whole town together
+
+01:35:03.090 --> 01:35:06.100
+got and built the cathedral.
+
+01:35:06.100 --> 01:35:10.800
+And I sort of think about the information environment as the
+
+01:35:10.800 --> 01:35:14.080
+opportunity to make that kind of cathedral.
+
+01:35:14.080 --> 01:35:20.170
+That humanity as a whole gets smarter because we can rebuild
+
+01:35:20.170 --> 01:35:21.270
+what each others are doing.
+
+01:35:21.270 --> 01:35:22.170
+And we can build on it.
+
+01:35:22.170 --> 01:35:24.430
+So that's for me, what open access is about.
+
+01:35:24.430 --> 01:35:25.730
+That's what OpenCourseWare is about.
+
+01:35:25.730 --> 01:35:30.280
+So it's critical if you look at the license behind
+
+01:35:30.280 --> 01:35:35.490
+OpenCourseWare or free software, any of it.
+
+01:35:35.490 --> 01:35:40.130
+One of it is that people get to use it how they want.
+
+01:35:40.130 --> 01:35:45.440
+But the other is that people get to modify and we republish
+
+01:35:45.440 --> 01:35:48.480
+it and make it better and improve.
+
+01:35:48.480 --> 01:35:50.980
+So for me that's just central to what
+
+01:35:50.980 --> 01:35:52.030
+people call open access.
+
+01:35:52.030 --> 01:35:59.480
+Open access is in some sense a bad word because it doesn't
+
+01:35:59.480 --> 01:36:01.610
+have this sense of building on each other's work.
+
+01:36:01.610 --> 01:36:04.470
+I'm sort of playing with this new slogan that I want to call
+
+01:36:04.470 --> 01:36:07.450
+the remixed university.
+
+01:36:07.450 --> 01:36:09.520
+That's the stage after just the open university.
+
+01:36:09.520 --> 01:36:10.800
+It's not so interesting.
+
+01:36:10.800 --> 01:36:14.300
+I can go look at the classes that MIT teaches.
+
+01:36:14.300 --> 01:36:17.660
+It's can that be a thing from which I can build even better
+
+01:36:17.660 --> 01:36:19.870
+stuff than MIT is doing.
+
+01:36:19.870 --> 01:36:25.150
+And that to me is just a central meme in how I hope the
+
+01:36:25.150 --> 01:36:26.560
+internet continues to go.
+
+01:36:26.560 --> 01:36:28.900
+The internet started a lot of that.
+
+01:36:28.900 --> 01:36:30.160
+Much of it's being threatened.
+
+01:36:30.160 --> 01:36:33.477
+But I think part of it is demonstrating to people the
+
+01:36:33.477 --> 01:36:36.150
+value of that.
+
+01:36:36.150 --> 01:36:40.110
+INTERVIEWER: So in talking or thinking a bit about your work
+
+01:36:40.110 --> 01:36:45.550
+in protecting the intellectual commons, you mentioned the
+
+01:36:45.550 --> 01:36:47.430
+Free Software Foundation, which is definitely something
+
+01:36:47.430 --> 01:36:50.030
+that I wanted to talk to you about.
+
+01:36:50.030 --> 01:36:53.720
+Tell me about Creative Commons, another I think
+
+01:36:53.720 --> 01:36:54.860
+important part of this.
+
+01:36:54.860 --> 01:36:56.530
+ABELSON: Right.
+
+01:36:56.530 --> 01:37:01.000
+There was this magical couple years where we started DSpace,
+
+01:37:01.000 --> 01:37:04.360
+we started OpenCourseWare, we showed Creative Commons, right
+
+01:37:04.360 --> 01:37:10.160
+around 2000.
+
+01:37:10.160 --> 01:37:14.630
+So I had the tremendous fortune of actually working
+
+01:37:14.630 --> 01:37:15.320
+with Larry Lessig.
+
+01:37:15.320 --> 01:37:19.090
+We tried a joint course between Harvard and MIT when
+
+01:37:19.090 --> 01:37:23.340
+he was formulating these ideas about open culture and things.
+
+01:37:23.340 --> 01:37:28.210
+And Creative Commons kind of started in a couple of
+
+01:37:28.210 --> 01:37:31.600
+discussions, the sense of should there be something
+
+01:37:31.600 --> 01:37:34.430
+about sharing and commons that could happen in
+
+01:37:34.430 --> 01:37:36.550
+terms of law or policy?
+
+01:37:36.550 --> 01:37:39.910
+
+
+01:37:39.910 --> 01:37:45.590
+Larry had just recently unsuccessfully argued Eldred
+
+01:37:45.590 --> 01:37:47.540
+v. Ashcroft before the Supreme Court.
+
+01:37:47.540 --> 01:37:50.680
+So that was when Congress extended copyright
+
+01:37:50.680 --> 01:37:52.135
+by another 20 years.
+
+01:37:52.135 --> 01:37:53.850
+And that came up to the Supreme Court.
+
+01:37:53.850 --> 01:37:59.380
+And Larry argued at the Supreme Court and he lost.
+
+01:37:59.380 --> 01:38:02.250
+The Supreme Court basically said well, you may have shown that
+
+01:38:02.250 --> 01:38:04.020
+this is a bad idea to extend copyright.
+
+01:38:04.020 --> 01:38:05.530
+But by the way, it's Congress that makes the
+
+01:38:05.530 --> 01:38:07.270
+copyright law, not us.
+
+01:38:07.270 --> 01:38:13.460
+And Larry was looking for some constructive reaction to that.
+
+01:38:13.460 --> 01:38:18.550
+I was thinking about some kind of way of rewarding people
+
+01:38:18.550 --> 01:38:21.170
+effectively for putting things into the public domain.
+
+01:38:21.170 --> 01:38:25.240
+What could you do by policy to stimulate
+
+01:38:25.240 --> 01:38:26.320
+that kind of sharing?
+
+01:38:26.320 --> 01:38:27.570
+We talked about that.
+
+01:38:27.570 --> 01:38:30.340
+
+
+01:38:30.340 --> 01:38:31.810
+Larry found some funding.
+
+01:38:31.810 --> 01:38:35.370
+And we got this idea of Creative Commons.
+
+01:38:35.370 --> 01:38:37.710
+There were small group of about, I want to
+
+01:38:37.710 --> 01:38:40.520
+say about 10 of us.
+
+01:38:40.520 --> 01:38:45.280
+And sort of said gee, what we want to do is in the phrase,
+
+01:38:45.280 --> 01:38:47.530
+brand the public domain.
+
+01:38:47.530 --> 01:38:51.410
+We wanted people to be aware that the shared stuff that you
+
+01:38:51.410 --> 01:38:56.080
+can use and reuse was not sort of the detritus.
+
+01:38:56.080 --> 01:38:58.990
+The law in the US talks about abandoning something to the
+
+01:38:58.990 --> 01:38:59.910
+public domain.
+
+01:38:59.910 --> 01:39:02.310
+It was not sort of this invisible stuff.
+
+01:39:02.310 --> 01:39:04.790
+One of the things you can do on the internet is you can
+
+01:39:04.790 --> 01:39:08.910
+actually give that an identity and make people aware of it.
+
+01:39:08.910 --> 01:39:11.530
+That was the soul of Creative Commons.
+
+01:39:11.530 --> 01:39:15.290
+And then it kind of linked into some stuff that I'd been
+
+01:39:15.290 --> 01:39:19.040
+doing with the Web Consortium that said oh by the way, one
+
+01:39:19.040 --> 01:39:22.290
+of the things you might want to do if you're going to make
+
+01:39:22.290 --> 01:39:25.610
+licenses crafted to that, you want to make those licenses
+
+01:39:25.610 --> 01:39:29.280
+machine readable so machines can
+
+01:39:29.280 --> 01:39:31.120
+identify that on the internet.
+
+01:39:31.120 --> 01:39:32.550
+So that's the start of Creative Commons.
+
+01:39:32.550 --> 01:39:34.830
+And that program is sort of still going ahead.
+
+01:39:34.830 --> 01:39:36.340
+It's got a long, long, long way to go.
+
+01:39:36.340 --> 01:39:40.490
+
+
+01:39:40.490 --> 01:39:44.310
+I remember we were sitting around and saying well, what
+
+01:39:44.310 --> 01:39:45.560
+would be success?
+
+01:39:45.560 --> 01:39:47.680
+
+
+01:39:47.680 --> 01:39:50.640
+How many things do you think should have these licenses?
+
+01:39:50.640 --> 01:39:53.805
+So I'm always the poor non-visionary.
+
+01:39:53.805 --> 01:39:54.490
+Right.
+
+01:39:54.490 --> 01:39:57.530
+And I said, gosh if we got a couple of million of things on
+
+01:39:57.530 --> 01:39:59.000
+the net with the Creative Commons, that
+
+01:39:59.000 --> 01:39:59.820
+would be really good.
+
+01:39:59.820 --> 01:40:02.520
+And Larry said well, I actually think all of it
+
+01:40:02.520 --> 01:40:04.360
+should be Creative Commons.
+
+01:40:04.360 --> 01:40:06.220
+And then we seem to have compromised.
+
+01:40:06.220 --> 01:40:09.540
+Now there's about 200 million Creative Commons
+
+01:40:09.540 --> 01:40:11.130
+documents on the net.
+
+01:40:11.130 --> 01:40:13.310
+So it will also hit a meme and expand it.
+
+01:40:13.310 --> 01:40:16.840
+And by the way, had a lot to do with OpenCourseWare.
+
+01:40:16.840 --> 01:40:22.690
+So I was very active in the start up of both of those.
+
+01:40:22.690 --> 01:40:28.340
+And from the point of view of Creative Commons, MIT was the
+
+01:40:28.340 --> 01:40:32.180
+first sort of big, important place to adopt Creative
+
+01:40:32.180 --> 01:40:34.140
+Commons licenses.
+
+01:40:34.140 --> 01:40:38.520
+And from the point of view of OpenCourseWare, we wanted
+
+01:40:38.520 --> 01:40:42.760
+there to be a lot of freely licensed stuff on the web.
+
+01:40:42.760 --> 01:40:49.300
+So in particular when I put up my lectures on OpenCourseWare
+
+01:40:49.300 --> 01:40:51.790
+and I want to put some illustrations into my lecture,
+
+01:40:51.790 --> 01:40:53.870
+there's a lot of Creative Commons licensed stuff that I
+
+01:40:53.870 --> 01:40:55.350
+could just use.
+
+01:40:55.350 --> 01:40:58.895
+So that program still hasn't unfolded a lot.
+
+01:40:58.895 --> 01:41:00.010
+But it was very consciously--
+
+01:41:00.010 --> 01:41:01.390
+at least I thought about it.
+
+01:41:01.390 --> 01:41:04.620
+I was working on those two things together.
+
+01:41:04.620 --> 01:41:08.450
+INTERVIEWER: You mentioned that open access or the
+
+01:41:08.450 --> 01:41:10.660
+intellectual commons is under threat.
+
+01:41:10.660 --> 01:41:15.740
+Can you talk a bit about that, the current environment now as
+
+01:41:15.740 --> 01:41:18.790
+opposed to when you were pioneering all of this?
+
+01:41:18.790 --> 01:41:21.420
+ABELSON: Well like I said, we've gone from the stage of
+
+01:41:21.420 --> 01:41:23.940
+they ignore us to the stage where they laugh at us to the
+
+01:41:23.940 --> 01:41:26.600
+stage where they are actually fighting us.
+
+01:41:26.600 --> 01:41:32.290
+
+
+01:41:32.290 --> 01:41:35.820
+The rhetoric in Congress now is we're
+
+01:41:35.820 --> 01:41:38.000
+stealing all of this stuff.
+
+01:41:38.000 --> 01:41:41.550
+Everybody is stealing stuff on the internet, that why don't
+
+01:41:41.550 --> 01:41:44.700
+you pay for it?
+
+01:41:44.700 --> 01:41:49.560
+Gosh, the US economy depend so much on intellectual property
+
+01:41:49.560 --> 01:41:51.980
+and exporting that, we have to protect the
+
+01:41:51.980 --> 01:41:53.720
+stuff on the network.
+
+01:41:53.720 --> 01:41:58.790
+And the whole rhetoric is completely dominated by that.
+
+01:41:58.790 --> 01:42:02.060
+I mean part of the problem is that Creative Common sounds a
+
+01:42:02.060 --> 01:42:05.680
+lot like communist. So everyone says gosh, you guys
+
+01:42:05.680 --> 01:42:07.420
+are a bunch of communists.
+
+01:42:07.420 --> 01:42:08.810
+You want to steal our stuff.
+
+01:42:08.810 --> 01:42:11.770
+
+
+01:42:11.770 --> 01:42:15.880
+Oh my god, there was an article when Creative Commons
+
+01:42:15.880 --> 01:42:22.030
+was first starting up, in was it Billboard, which talked
+
+01:42:22.030 --> 01:42:27.050
+about gosh, there is this young composer who puts his
+
+01:42:27.050 --> 01:42:29.910
+music up on a Creative Commons thing.
+
+01:42:29.910 --> 01:42:32.580
+And this turned out to be a great hit.
+
+01:42:32.580 --> 01:42:35.710
+And now he can't get any monetary value to it because
+
+01:42:35.710 --> 01:42:36.530
+he gave it away.
+
+01:42:36.530 --> 01:42:40.990
+And he's dying of AIDS and can't pay for the medication
+
+01:42:40.990 --> 01:42:41.880
+that he needs.
+
+01:42:41.880 --> 01:42:44.940
+And you Creative Commons people are the ones who is
+
+01:42:44.940 --> 01:42:48.810
+responsible for this guy dying of AIDS.
+
+01:42:48.810 --> 01:42:52.940
+And there's this whole rhetoric that's around it,
+
+01:42:52.940 --> 01:42:57.201
+because people are starting to see that it's getting serious.
+
+01:42:57.201 --> 01:43:02.770
+And you have a lot of business models that are simply based
+
+01:43:02.770 --> 01:43:05.080
+on the fact that you could control the
+
+01:43:05.080 --> 01:43:06.330
+distribution channels.
+
+01:43:06.330 --> 01:43:10.430
+
+
+01:43:10.430 --> 01:43:14.560
+So a lot of people think that those of us in Creative
+
+01:43:14.560 --> 01:43:20.170
+Commons are against copyright and against commercialism.
+
+01:43:20.170 --> 01:43:22.070
+And that's just not true.
+
+01:43:22.070 --> 01:43:25.200
+I mean Creative Commons is built in copyright.
+
+01:43:25.200 --> 01:43:29.680
+And the thing that I think is bad is not that people are
+
+01:43:29.680 --> 01:43:34.340
+making money, it's that they're exerting over-control.
+
+01:43:34.340 --> 01:43:38.630
+So if there is a way to, without exerting that kind of
+
+01:43:38.630 --> 01:43:43.400
+control, realize money from this stuff, well great.
+
+01:43:43.400 --> 01:43:47.745
+I mean I love it if people say gee, we've got a business and
+
+01:43:47.745 --> 01:43:49.140
+it's working on Creative Commons stuff.
+
+01:43:49.140 --> 01:43:51.760
+But maybe it's a service business.
+
+01:43:51.760 --> 01:43:56.880
+Or maybe it's an advising kind of business or maybe it's some
+
+01:43:56.880 --> 01:44:02.250
+other spin where you use the free material to bolster the
+
+01:44:02.250 --> 01:44:05.280
+fact that you're providing other stuff of value.
+
+01:44:05.280 --> 01:44:08.560
+And I think that's where this stuff needs to go.
+
+01:44:08.560 --> 01:44:13.890
+But the particular thing that works is very sensitive to the
+
+01:44:13.890 --> 01:44:16.320
+state of technology of the web.
+
+01:44:16.320 --> 01:44:20.530
+And that's evolving very, very fast. And it's just sort of
+
+01:44:20.530 --> 01:44:23.470
+exploring more, exploring more business models.
+
+01:44:23.470 --> 01:44:25.870
+But when I said people are fighting it, by and large
+
+01:44:25.870 --> 01:44:28.990
+you're seeing people in the old business models who of
+
+01:44:28.990 --> 01:44:33.540
+course are established, who of course have stories that
+
+01:44:33.540 --> 01:44:36.350
+Congress understands.
+
+01:44:36.350 --> 01:44:39.930
+So it's always hard when you're trying to make policy
+
+01:44:39.930 --> 01:44:41.770
+and you have a vision of what could be.
+
+01:44:41.770 --> 01:44:44.380
+
+
+01:44:44.380 --> 01:44:47.820
+A vision of what could be is never powerful compared to a
+
+01:44:47.820 --> 01:44:49.380
+vision of what is.
+
+01:44:49.380 --> 01:44:53.270
+And it just takes a long time.
+
+01:44:53.270 --> 01:44:57.550
+INTERVIEWER: So in moving towards wrapping up just a
+
+01:44:57.550 --> 01:45:04.710
+bit, in these two related but somewhat differing areas of
+
+01:45:04.710 --> 01:45:08.110
+open networks, open access, and educational technology
+
+01:45:08.110 --> 01:45:12.770
+with a focus on this whole question of the remoteness or
+
+01:45:12.770 --> 01:45:18.220
+the locality of education, MIT has been obviously
+
+01:45:18.220 --> 01:45:22.630
+historically a leader in both of those areas, if you think
+
+01:45:22.630 --> 01:45:26.370
+about OpenCourseWare as one example of many.
+
+01:45:26.370 --> 01:45:31.360
+What should MIT be doing looking ahead to continue to
+
+01:45:31.360 --> 01:45:37.030
+lead and be ethical as you said?
+
+01:45:37.030 --> 01:45:38.940
+I mean are there things that MIT is not doing that it
+
+01:45:38.940 --> 01:45:41.160
+should be doing or that it is doing that it
+
+01:45:41.160 --> 01:45:42.410
+should continue to do?
+
+01:45:42.410 --> 01:45:44.910
+
+
+01:45:44.910 --> 01:45:48.000
+ABELSON: So one of the things that MIT is not doing, and I'm
+
+01:45:48.000 --> 01:45:55.360
+not sure why not, is we are currently making a lot of
+
+01:45:55.360 --> 01:45:58.420
+partnerships with institutions around the world, which I
+
+01:45:58.420 --> 01:46:00.430
+think is fantastic.
+
+01:46:00.430 --> 01:46:04.520
+But too often there is no educational piece in those
+
+01:46:04.520 --> 01:46:07.050
+partnerships.
+
+01:46:07.050 --> 01:46:11.430
+So we talk about MIT's association with some research
+
+01:46:11.430 --> 01:46:16.290
+institute and partly because of what these other places
+
+01:46:16.290 --> 01:46:20.030
+want from MIT and whether they view MIT, they sort of say
+
+01:46:20.030 --> 01:46:23.550
+this is a great research partnership.
+
+01:46:23.550 --> 01:46:27.410
+And one of the things MIT needs to be insisting on is
+
+01:46:27.410 --> 01:46:31.330
+what's the place of students and undergraduates in that
+
+01:46:31.330 --> 01:46:32.390
+kind of partnership?
+
+01:46:32.390 --> 01:46:38.340
+MIT needs to say as part of leading the world, we deeply
+
+01:46:38.340 --> 01:46:44.170
+believe that what makes an institution like MIT work is
+
+01:46:44.170 --> 01:46:47.200
+the integration of research and education.
+
+01:46:47.200 --> 01:46:49.840
+MIT is not saying that strongly enough.
+
+01:46:49.840 --> 01:46:53.580
+And I think that's another place where MIT needs to lead.
+
+01:46:53.580 --> 01:46:56.870
+It's saying how do you become a great institution?
+
+01:46:56.870 --> 01:47:00.180
+
+
+01:47:00.180 --> 01:47:03.660
+It's not only a good idea to be involved in education, but
+
+01:47:03.660 --> 01:47:07.300
+it's integral to what makes the place successful.
+
+01:47:07.300 --> 01:47:09.590
+So there's a thing MIT is not doing right now, that I really
+
+01:47:09.590 --> 01:47:12.780
+wish it were going more.
+
+01:47:12.780 --> 01:47:17.680
+The other thing that I'm personally working on with the
+
+01:47:17.680 --> 01:47:24.430
+Educational Technology Council and with the provosts is this
+
+01:47:24.430 --> 01:47:30.200
+notion of opening the walls of the university in the sense
+
+01:47:30.200 --> 01:47:37.060
+that it's not merely let's say the OpenCourseWare vision or
+
+01:47:37.060 --> 01:47:41.655
+the DSpace vision that says MIT puts stuff out that allows
+
+01:47:41.655 --> 01:47:44.480
+the world to participate.
+
+01:47:44.480 --> 01:47:48.610
+It's that there's a way of taking stuff in.
+
+01:47:48.610 --> 01:47:53.000
+What role in terms of educational resources do our
+
+01:47:53.000 --> 01:47:54.662
+alumni play?
+
+01:47:54.662 --> 01:48:00.550
+If you take the combined MIT alumni, which are what now,
+
+01:48:00.550 --> 01:48:06.740
+80,000, 90,000, you have a considerable fraction of the
+
+01:48:06.740 --> 01:48:10.580
+technological power of the world.
+
+01:48:10.580 --> 01:48:14.020
+How does MIT use that as a research for improving our
+
+01:48:14.020 --> 01:48:19.630
+education and again creating a model of how top technology
+
+01:48:19.630 --> 01:48:22.760
+people can contribute to institutions in the world.
+
+01:48:22.760 --> 01:48:25.020
+MIT is not doing that enough.
+
+01:48:25.020 --> 01:48:29.220
+That's a little bit of what we're trying to work on now.
+
+01:48:29.220 --> 01:48:34.100
+In a world where, oh some university I want to mention
+
+01:48:34.100 --> 01:48:41.150
+and say we could teach calculus to 50,000 people in
+
+01:48:41.150 --> 01:48:47.660
+some foreign country, how do we use technology to allow our
+
+01:48:47.660 --> 01:48:50.300
+undergraduates to have tremendously good
+
+01:48:50.300 --> 01:48:52.930
+international experiences, while
+
+01:48:52.930 --> 01:48:55.025
+taking some MIT calculus?
+
+01:48:55.025 --> 01:48:59.730
+Are there ways we can translate little pieces of MIT
+
+01:48:59.730 --> 01:49:04.170
+so that MIT students can have some of these experiences
+
+01:49:04.170 --> 01:49:08.360
+without feeling that they have to blow off
+
+01:49:08.360 --> 01:49:10.040
+courses for a semester?
+
+01:49:10.040 --> 01:49:12.370
+The mechanical engineering department talks about
+
+01:49:12.370 --> 01:49:15.820
+wouldn't it be great if students in mechanical
+
+01:49:15.820 --> 01:49:18.300
+engineering could take two weeks off and go build cars
+
+01:49:18.300 --> 01:49:21.000
+and race them on the Isle of White.
+
+01:49:21.000 --> 01:49:24.400
+How do we make that possible?
+
+01:49:24.400 --> 01:49:29.580
+So that's a direction where I think MIT needs to go.
+
+01:49:29.580 --> 01:49:33.370
+I said there's this buzz word, the remixed university.
+
+01:49:33.370 --> 01:49:36.870
+How do we make that possible and how does MIT lead in
+
+01:49:36.870 --> 01:49:38.310
+showing how you can make that possible?
+
+01:49:38.310 --> 01:49:41.940
+
+
+01:49:41.940 --> 01:49:43.580
+INTERVIEWER: I mean MIT obviously is a place with
+
+01:49:43.580 --> 01:49:48.440
+tremendous technical technological expertise.
+
+01:49:48.440 --> 01:49:51.030
+But our conversation has ranged over all sorts of
+
+01:49:51.030 --> 01:49:55.520
+topics that go beyond simple technology, policy issues,
+
+01:49:55.520 --> 01:49:57.690
+just how we live our lives in the world.
+
+01:49:57.690 --> 01:50:02.560
+And I'm wondering if you could talk a bit about what special
+
+01:50:02.560 --> 01:50:06.430
+or particular role technologists, engineers
+
+01:50:06.430 --> 01:50:11.410
+should or could play in those broader ethical,
+
+01:50:11.410 --> 01:50:13.510
+philosophical, policy kinds of questions?
+
+01:50:13.510 --> 01:50:17.540
+
+
+01:50:17.540 --> 01:50:22.830
+ABELSON: Well, part is the easy thing about just knowing
+
+01:50:22.830 --> 01:50:26.460
+the consequences or the likely consequences of certain kinds
+
+01:50:26.460 --> 01:50:28.580
+of investments or policies.
+
+01:50:28.580 --> 01:50:33.170
+And I don't think anybody will argue that engineers and
+
+01:50:33.170 --> 01:50:37.360
+scientists should speak up about that.
+
+01:50:37.360 --> 01:50:41.960
+But I think beyond that there's this sense of actually
+
+01:50:41.960 --> 01:50:45.970
+making things, which I do think is very special to
+
+01:50:45.970 --> 01:50:47.220
+engineering.
+
+01:50:47.220 --> 01:50:51.110
+
+
+01:50:51.110 --> 01:50:54.010
+It's really find to talk about things and to discuss, and
+
+01:50:54.010 --> 01:50:57.770
+discuss, and discuss, but at the end of the day you have to
+
+01:50:57.770 --> 01:51:01.720
+have some effect and some kind of impact.
+
+01:51:01.720 --> 01:51:06.380
+And engineers are great in doing things.
+
+01:51:06.380 --> 01:51:08.650
+It's not always right.
+
+01:51:08.650 --> 01:51:12.410
+But there's this notion of you kind of have to put it on the
+
+01:51:12.410 --> 01:51:15.330
+line and make something.
+
+01:51:15.330 --> 01:51:21.550
+And that's part of what it means to, I want to say
+
+01:51:21.550 --> 01:51:24.350
+participate in the discussion of how the world should be.
+
+01:51:24.350 --> 01:51:27.190
+You come in and you actually think about how to make it.
+
+01:51:27.190 --> 01:51:27.680
+And you try it.
+
+01:51:27.680 --> 01:51:29.090
+And you never get it right the first time.
+
+01:51:29.090 --> 01:51:30.660
+And then you make it better.
+
+01:51:30.660 --> 01:51:37.150
+And there needs to be that sense of instrumentality.
+
+01:51:37.150 --> 01:51:39.330
+And that's what I think a place like MIT and a place
+
+01:51:39.330 --> 01:51:42.850
+like engineering cultures can add to these discussions.
+
+01:51:42.850 --> 01:51:46.070
+And there needs to be a whole lot more of that.
+
+01:51:46.070 --> 01:51:47.620
+INTERVIEWER: Is there anything that you haven't had a chance
+
+01:51:47.620 --> 01:51:52.880
+to talk about that we should have touched on as we're
+
+01:51:52.880 --> 01:51:55.690
+wrapping up.
+
+01:51:55.690 --> 01:52:05.270
+ABELSON: Well no, other than I'm constantly humbled and
+
+01:52:05.270 --> 01:52:07.835
+amazed and charged by just the privilege of being in
+
+01:52:07.835 --> 01:52:09.730
+a place like MIT.
+
+01:52:09.730 --> 01:52:13.030
+I mean everybody talks about what a unique place it is.
+
+01:52:13.030 --> 01:52:17.220
+But there's just this personal sense of how in hell did I
+
+01:52:17.220 --> 01:52:20.660
+ever end up here, interacting with this group of people?
+
+01:52:20.660 --> 01:52:23.180
+So I drive in from Newton every morning.
+
+01:52:23.180 --> 01:52:25.475
+And there's this place where you drive up Commonwealth
+
+01:52:25.475 --> 01:52:28.640
+Avenue and then you sort of turn and
+
+01:52:28.640 --> 01:52:29.595
+go over the BU Bridge.
+
+01:52:29.595 --> 01:52:31.640
+And the BU Bridge sort of looks like this gateway thing.
+
+01:52:31.640 --> 01:52:34.300
+And I say, I can't believe it.
+
+01:52:34.300 --> 01:52:37.525
+It's almost every day, after so many years, I say oh my
+
+01:52:37.525 --> 01:52:41.360
+god, I'm coming to MIT.
+
+01:52:41.360 --> 01:52:43.790
+How did I manage to do this?
+
+01:52:43.790 --> 01:52:48.350
+How did I get so lucky as to be in a place like this, just
+
+01:52:48.350 --> 01:52:50.590
+surrounded by all of these brilliant people and all of
+
+01:52:50.590 --> 01:52:51.840
+these incredible students?
+
+01:52:51.840 --> 01:52:54.845
+
+
+01:52:54.845 --> 01:52:55.290
+INTERVIEWER: Okay.
+
+01:52:55.290 --> 01:52:56.370
+Well, thanks so much Hal.
+
+01:52:56.370 --> 01:52:58.350
+I really appreciate you taking the time to talk to us.
+
+01:52:58.350 --> 01:52:58.460
+ABELSON: Sure.
+
+01:52:58.460 --> 01:52:58.625
+INTERVIEWER: It was wonderful.
+
+01:52:58.625 --> 01:52:59.930
+Thank you.
+
+01:52:59.930 --> 01:53:03.918
+
+
