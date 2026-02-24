@@ -8,13 +8,25 @@
     {{- else -}}
         {{- if (eq .context.Kind "term") -}}
             {{- $posts = .context.Data.Pages -}}
-	{{- else -}}
-            {{- $posts = site.RegularPages }}
-	{{- end -}}
+    {{- else -}}
+            {{- $posts = site.RegularPages -}}
+    {{- end -}}
     {{- end -}}
 {{- end -}}
 
-{{- $posts = (sort $posts "Date" "asc") -}}
+{{- $sortedPosts := slice -}}
+{{- range $post := $posts -}}
+    {{- $sortDate := $post.Date -}}
+    {{- if $post.Params.original_publish_date -}}
+        {{- $sortDate = $post.Params.original_publish_date -}}
+    {{- end -}}
+    {{- $sortedPosts = $sortedPosts | append (dict "page" $post "sortDate" $sortDate) -}}
+{{- end -}}
+{{- $sortedPosts = (sort $sortedPosts "sortDate" "asc") -}}
+{{- $posts = slice -}}
+{{- range $sortedPosts -}}
+    {{- $posts = $posts | append .page -}}
+{{- end -}}
 
 {{- $limit_exceeded:= "" -}}
 {{- if (and .limit (gt (len $posts) .limit)) -}}
