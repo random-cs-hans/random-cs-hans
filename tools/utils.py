@@ -12,6 +12,7 @@ SENTENCE_ENDINGS = frozenset([".", "?", "!", "。", "？", "！", "-", "—", "�
 # Also see
 # https://steam.oxxostudio.tw/category/python/example/remove-blank.html
 RANGE_CN = (
+    ("\u3000", "\u303f"),  # CJK Symbols and Punctuation
     ("\u3400", "\u4db5"),  # CJK Unified Ideographs Extension A
     ("\u4e00", "\u9fef"),  # CJK Unified Ideographs
     ("\uf900", "\ufaff"),  # CJK Compatibility Ideographs
@@ -21,6 +22,7 @@ RANGE_CN = (
     ("\U0002b820", "\U0002cea1"),  # CJK Unified Ideographs Extension E
     ("\U0002ceb0", "\U0002ebe0"),  # CJK Unified Ideographs Extension F
     ("\U0002f800", "\U0002fa1f"),  # CJK Compatibility Ideographs Supplement
+    ("\uff00", "\uffee"),  # Halfwidth and Fullwidth Forms
 )
 
 WORD_REGEX = re.compile(

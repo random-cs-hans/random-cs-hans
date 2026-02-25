@@ -22,8 +22,8 @@ video:
 
 All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) belong to the original author(s) (InfiniteHistoryProject MIT). This translation work includes its own copyright disclaimer at the end.
 
-译者注：每次看到这个视频里 Abelson 教授所展现出的对教育和开放资源事业的热忱，以
-及他的国际主义胸怀，我都会十分感动。他和他的导师、同僚和学生们对世界的贡献，是一
+译者注：每次看到这个视频里 Abelson 教授所展现出的对教育与开放资源事业的热忱、还
+有他的国际主义胸怀，我都会十分感动。他和他的导师、同僚和学生们对世界的贡献，是一
 份来自全球化进程蒸蒸日上、技术乐观主义盛行的时代的馈赠，这份馈赠我们受益至今。
 
 {{< bilibili_fallback bvid="BV1rK4y1v7V1" >}}
@@ -37,7 +37,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:00:05.280" end="00:00:06.500" >}}
 {{< styled-paragraph class="lang-en" >}}I'm Chris Boebel.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是 Chris Boebel。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是 Chris Boebel 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:06.500" end="00:00:09.430" >}}
@@ -47,7 +47,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:00:11.610" end="00:00:14.430" >}}
 {{< styled-paragraph class="lang-en" >}}Professor Abelson is the Class of 1922 professor of electrical engineering and computer science at MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}Abelson 教授是麻省理工学院（MIT）1922 （原文如此）届电气工程与计算机科学教授。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}Abelson 教授是麻省理工学院（ MIT ） 1922 （原文如此）届电气工程与计算机科学教授。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:17.430" end="00:00:21.140" >}}
@@ -57,7 +57,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:00:23.860" end="00:00:27.320" >}}
 {{< styled-paragraph class="lang-en" >}}In 1992, Abelson was designated as one of MIT's six inaugural MacVicar Faculty Fellows.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}1992 年，Abelson 被任命为麻省理工学院首批六位 MacVicar 教师研究员之一。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}1992 年， Abelson 被任命为麻省理工学院首批六位 MacVicar 教师研究员之一。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:30.150" end="00:00:32.259" >}}
@@ -67,27 +67,27 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:00:36.450" end="00:00:39.130" >}}
 {{< styled-paragraph class="lang-en" >}}He's co-chair of the MIT Council on Educational Technology.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他是麻省理工学院教育技术委员会（MIT Council on Educational Technology） 的共同主席。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他是麻省理工学院教育技术委员会（ MIT Council on Educational Technology ）的共同主席。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:39.830" end="00:00:41.820" >}}
 {{< styled-paragraph class="lang-en" >}}And he serves on the steering committee of the HP-MIT Alliance.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}同时也在惠普-麻省理工学院（HP-MIT） 联盟的指导委员会任职。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}同时也在惠普-麻省理工学院（ HP-MIT ）联盟的指导委员会任职。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:43.705" end="00:00:46.950" >}}
 {{< styled-paragraph class="lang-en" >}}He has played key roles in fostering MIT institutional initiatives such as MIT OpenCourseWare and DSpace.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他在推动麻省理工学院的院校倡议中发挥了关键作用，例如 MIT OpenCourseWare 和 DSpace。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他在推动麻省理工学院的院校倡议中发挥了关键作用，例如 MIT OpenCourseWare 和 DSpace 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:50.690" end="00:00:52.600" >}}
 {{< styled-paragraph class="lang-en" >}}Hal, thanks very much for taking the time--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}Hal，非常感谢您能抽出时间——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}Hal ，非常感谢您能抽出时间——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:52.600" end="00:00:52.730" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Sure.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：没问题。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：没问题。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:52.730" end="00:00:54.900" >}}
@@ -102,7 +102,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:00:57.320" end="00:00:58.310" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: The beginning?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：从头开始？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：从头开始？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:00:58.310" end="00:01:00.185" >}}
@@ -112,12 +112,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:01:00.185" end="00:01:03.120" >}}
 {{< styled-paragraph class="lang-en" >}}Just start by telling me a little bit about where you grew up and the early years?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}请先跟我聊聊您是在哪里长大的， 以及早年的生活？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}请先跟我聊聊您是在哪里长大的，以及早年的生活？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:01:07.950" end="00:01:10.470" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So the real early years, I grew up on a chicken farm in central New Jersey.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：真正的早年时期，我是在新泽西州中部的一个养鸡场长大的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：真正的早年时期，我是在新泽西州中部的一个养鸡场长大的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:01:13.160" end="00:01:16.370" >}}
@@ -132,7 +132,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:01:22.660" end="00:01:25.810" >}}
 {{< styled-paragraph class="lang-en" >}}I was the first one in my family to go to college, although my parents were always very, very interested in education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是家里第一个上大学的人， 但是我的父母一直对教育非常、非常感兴趣。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是家里第一个上大学的人，但是我的父母一直对教育非常、非常感兴趣。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:01:31.300" end="00:01:33.415" >}}
@@ -142,7 +142,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:01:33.415" end="00:01:38.220" >}}
 {{< styled-paragraph class="lang-en" >}}I had an uncle who sort of was the college person, who worked for Exxon and had a high level position there.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我有一位叔叔算是家里读过大学的人，他在 Exxon（埃克森公司）工作并担任高管。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我有一位叔叔算是家里读过大学的人，他在 Exxon （埃克森公司）工作并担任高管。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:01:41.210" end="00:01:44.250" >}}
@@ -172,7 +172,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:02:04.500" end="00:02:07.440" >}}
 {{< styled-paragraph class="lang-en" >}}When I talk to kids these days, I remind them that when I was their age in seventh or eighth grade, I was getting D's in mathematics.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}如今我和孩子们交谈时，会提醒他们，当我像他们那么大，读七八年级的时候，我的数学成绩是 D。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}如今我和孩子们交谈时，会提醒他们，当我像他们那么大，读七八年级的时候，我的数学成绩是 D 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:02:14.130" end="00:02:16.190" >}}
@@ -217,7 +217,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:03:01.990" end="00:03:08.050" >}}
 {{< styled-paragraph class="lang-en" >}}And then I got into Princeton on a scholarship, which was nice because my family could never have afforded anything like that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}后来我拿了奖学金进入普林斯顿大学，那样很好， 因为我的家庭根本负担不起那样的事情。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}后来我拿了奖学金进入普林斯顿大学，那样很好，因为我的家庭根本负担不起那样的事情。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:03:13.100" end="00:03:15.020" >}}
@@ -227,7 +227,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:03:15.020" end="00:03:17.840" >}}
 {{< styled-paragraph class="lang-en" >}}Started getting interested in a subject called algebraic topology.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我开始对一门叫作代数拓扑（algebraic topology）的学科产生兴趣。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我开始对一门叫作代数拓扑（ algebraic topology ）的学科产生兴趣。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:03:21.730" end="00:03:25.390" >}}
@@ -247,12 +247,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:03:42.990" end="00:03:44.700" >}}
 {{< styled-paragraph class="lang-en" >}}She got into BU's School of Social Work.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}她去了 BU（波士顿大学）的社会工作学院。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}她去了 BU （波士顿大学）的社会工作学院。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:03:44.700" end="00:03:46.800" >}}
 {{< styled-paragraph class="lang-en" >}}I got into MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我去了 MIT。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我去了 MIT 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:03:46.800" end="00:03:49.350" >}}
@@ -267,7 +267,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:04:05.930" end="00:04:08.040" >}}
 {{< styled-paragraph class="lang-en" >}}So we ended up coming to MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以我们最终来到了 MIT。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以我们最终来到了 MIT 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:04:08.040" end="00:04:13.280" >}}
@@ -277,12 +277,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:04:13.280" end="00:04:18.290" >}}
 {{< styled-paragraph class="lang-en" >}}One of the nicest things, when I first showed up at MIT, we lived in Westgate.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}最美好的事情之一是，当我刚来到 MIT 时，我们住在 Westgate。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}最美好的事情之一是，当我刚来到 MIT 时，我们住在 Westgate 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:04:19.930" end="00:04:23.620" >}}
 {{< styled-paragraph class="lang-en" >}}And one of the great memories that we had of being in Westgate was looking down over the field and at the other end of the field, seeing the tear gas on Mass Ave. Because that was the time when even MIT students were protesting stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}在 Westgate 最棒的回忆之一就是俯瞰球场，在另一端，看到麻省大道（Mass Ave.）上的催泪瓦斯。因为那是连 MIT 的学生都在抗议的时代。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}在 Westgate 最棒的回忆之一就是俯瞰球场，在另一端，看到麻省大道（ Mass Ave.）上的催泪瓦斯。因为那是连 MIT 的学生都在抗议的时代。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:04:37.160" end="00:04:40.530" >}}
@@ -292,7 +292,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:04:43.370" end="00:04:47.060" >}}
 {{< styled-paragraph class="lang-en" >}}And there was a protest about how is it that on the MIT campus, there was classified research related to the Vietnam War?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}抗议的内容是，为什么 MIT 的校园里， 会有与越南战争相关的机密研究？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}抗议的内容是，为什么 MIT 的校园里，会有与越南战争相关的机密研究？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:04:53.280" end="00:04:54.280" >}}
@@ -312,12 +312,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:04:59.970" end="00:05:05.080" >}}
 {{< styled-paragraph class="lang-en" >}}I remember going up to the door on 77 Mass Ave. And gosh, they were automatic doors.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得走到麻省大道 77 号的大门前。天哪， 那是自动门。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得走到麻省大道 77 号的大门前。天哪，那是自动门。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:05:07.960" end="00:05:11.540" >}}
 {{< styled-paragraph class="lang-en" >}}And coming from Princeton, which is an ivy covered--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是从普林斯顿来的， 那里是常春藤覆盖的——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是从普林斯顿来的，那里是常春藤覆盖的——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:05:11.540" end="00:05:13.690" >}}
@@ -332,7 +332,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:05:17.190" end="00:05:20.920" >}}
 {{< styled-paragraph class="lang-en" >}}And I always had these visions of getting on roller skates and going down the halls these automatic doors.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我总是幻想穿着旱冰鞋滑过长廊、 穿过那些自动门的画面。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我总是幻想穿着旱冰鞋滑过长廊、穿过那些自动门的画面。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:05:23.990" end="00:05:26.370" >}}
@@ -352,7 +352,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:05:30.240" end="00:05:33.580" >}}
 {{< styled-paragraph class="lang-en" >}}But then early on, it could have been a couple of weeks after I got here, the Students for a Democratic Society, if anyone remembers that from the '60s, that was the campus activist organization.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但是不久之后，可能是我到这里几周后，学生争取民主社会组织（Students for a Democratic Society），如果还有人记得 60 年代那会，那是当时的校园激进组织。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但是不久之后，可能是我到这里几周后，学生争取民主社会组织（ Students for a Democratic Society ），如果还有人记得 60 年代那会，那是当时的校园激进组织。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:05:51.535" end="00:05:54.690" >}}
@@ -407,7 +407,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:06:27.170" end="00:06:35.140" >}}
 {{< styled-paragraph class="lang-en" >}}And I see a guy that I'd been to high school with, who I knew had gone to MIT, but we'd had no contact since then.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我看到一个以前一起上高中的人，我知道他去了 MIT，但后来就没有联系过了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我看到一个以前一起上高中的人，我知道他去了 MIT ，但后来就没有联系过了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:06:39.820" end="00:06:41.195" >}}
@@ -417,7 +417,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:06:41.195" end="00:06:43.440" >}}
 {{< styled-paragraph class="lang-en" >}}Gee, hi, Ronnie.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}哎呀，嗨，Ronnie。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}哎呀，嗨， Ronnie 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:06:43.440" end="00:06:45.240" >}}
@@ -447,7 +447,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:06:52.880" end="00:06:56.300" >}}
 {{< styled-paragraph class="lang-en" >}}And he said, oh, why don't you go over to the Artificial Intelligence Lab.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他说，哦，你不去人工智能实验室（Artificial Intelligence Lab） 看看吗？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他说，哦，你不去人工智能实验室（ Artificial Intelligence Lab ）看看吗？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:06:58.190" end="00:07:00.840" >}}
@@ -462,7 +462,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:02.760" end="00:07:05.920" >}}
 {{< styled-paragraph class="lang-en" >}}And that's essentially how I got into computer science and AI and all the stuff I'm doing now.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}基本上，这就是我如何进入计算机科学、人工智能（AI）领域， 以及我现在所做的一切的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}基本上，这就是我如何进入计算机科学、人工智能（ AI ）领域，以及我现在所做的一切的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:07:08.290" end="00:07:12.510" >}}
@@ -472,7 +472,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:14.350" end="00:07:16.650" >}}
 {{< styled-paragraph class="lang-en" >}}Because I like to tell them it will be random, and you have no idea.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}因为我想告诉他们，一切都是随机的， 你根本无法预料。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}因为我想告诉他们，一切都是随机的，你根本无法预料。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:07:18.630" end="00:07:21.010" >}}
@@ -487,7 +487,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:25.420" end="00:07:29.190" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So backing up for just a moment, had you done work in computer science before that at Princeton, or even previously?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：那么稍微回溯一下，你在那之前在普林斯顿， 甚至更早之前，做过计算机科学方面的工作吗？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：那么稍微回溯一下，你在那之前在普林斯顿，甚至更早之前，做过计算机科学方面的工作吗？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:07:32.650" end="00:07:33.040" >}}
@@ -497,7 +497,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:33.040" end="00:07:33.750" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Yeah.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：对的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：对的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:07:33.750" end="00:07:35.640" >}}
@@ -527,7 +527,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:53.905" end="00:07:56.110" >}}
 {{< styled-paragraph class="lang-en" >}}I think a 7.090 or 7.10.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}应该是 7.090 或 7.10。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}应该是 7.090 或 7.10 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:07:56.110" end="00:07:59.880" >}}
@@ -537,7 +537,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:07:59.880" end="00:08:03.030" >}}
 {{< styled-paragraph class="lang-en" >}}And they were working on this very weird thing called time sharing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他们当时在研究一种非常奇怪的东西， 叫作分时系统（time sharing）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他们当时在研究一种非常奇怪的东西，叫作分时系统（ time sharing ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:08:07.630" end="00:08:12.250" >}}
@@ -552,12 +552,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:08:30.940" end="00:08:34.460" >}}
 {{< styled-paragraph class="lang-en" >}}And the computer center used to take down the system a couple of hours each week and let those of us who wanted to screw around and waste time, play with this text editing thing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}计算机中心以前每周会停机几个小时， 让我们那些想要瞎胡闹、浪费时间的家伙去摆弄这种文本编辑玩意儿。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}计算机中心以前每周会停机几个小时，让我们那些想要瞎胡闹、浪费时间的家伙去摆弄这种文本编辑玩意儿。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:08:42.490" end="00:08:45.570" >}}
 {{< styled-paragraph class="lang-en" >}}Get tremendous complaints from the astrophysics department because people had to stop trying to solve on science equations.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}结果受到了天体物理学系的巨量投诉， 因为他们被迫停下来对科学方程式的求解尝试。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}结果受到了天体物理学系的巨量投诉，因为他们被迫停下来对科学方程式的求解尝试。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:08:48.480" end="00:08:49.720" >}}
@@ -567,27 +567,27 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:08:50.810" end="00:08:53.710" >}}
 {{< styled-paragraph class="lang-en" >}}And I became a little bit of a consultant, an undergraduate consultant in the computer system, teaching people to migrate their programs from FORTRAN to a language that IBM and a couple of other places were pushing then called PL/1, a very modest name, Programming Language 1.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我后来有点像顾问，读本科的计算机系统顾问， 教人们把他们的程序从 FORTRAN 迁移到 IBM 和其他一些地方当时推崇的语言， 叫作 PL/1，一个非常谦虚的名字， “编程语言 1”。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我后来有点像顾问，读本科的计算机系统顾问，教人们把他们的程序从 FORTRAN 迁移到 IBM 和其他一些地方当时推崇的语言，叫作 PL/1 ，一个非常谦虚的名字， “编程语言 1”。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:11.980" end="00:09:15.020" >}}
 {{< styled-paragraph class="lang-en" >}}And this was supposed to be the be all and end all of the new computer stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}在设想中，它应该是一个终极解决方案， 不再需要其它的计算机创新了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}在设想中，它应该是一个终极解决方案，不再需要其它的计算机创新了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:15.840" end="00:09:19.610" >}}
 {{< styled-paragraph class="lang-en" >}}And there was a big move to say you should translate all your programs into PL/1.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当时有一种趋势，主张你应该将所有的程序都转换成 PL/1。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当时有一种趋势，主张你应该将所有的程序都转换成 PL/1 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:20.680" end="00:09:25.130" >}}
 {{< styled-paragraph class="lang-en" >}}So I became one of what was called the PL/1 kids and would consult with faculty in the other departments about how to modify their programs.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以我成了所谓的“PL/1 小子”之一， 为其他部门的教职员工提供咨询，看怎么修改他们的程序。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以我成了所谓的“PL/1 小子”之一，为其他部门的教职员工提供咨询，看怎么修改他们的程序。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:31.650" end="00:09:33.920" >}}
 {{< styled-paragraph class="lang-en" >}}So I had some stuff in computing and I knew about that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以我确实接触过一些计算方面的东西， 也有所自知。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以我确实接触过一些计算方面的东西，也有所自知。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:35.940" end="00:09:40.610" >}}
@@ -602,22 +602,22 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:09:47.600" end="00:09:50.030" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: But at the time you came to MIT, initially there was not a sense that you would be moving in that direction?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：但你来 MIT 的时候， 最初并没有感觉到你会朝那个方向发展？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：但你来 MIT 的时候，最初并没有感觉到你会朝那个方向发展？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:53.770" end="00:09:55.660" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: No, I was in the math department.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：没有，我当时在数学系。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：没有，我当时在数学系。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:09:55.660" end="00:10:01.880" >}}
 {{< styled-paragraph class="lang-en" >}}And I was a graduate student in the math department, became an instructor in the math department after that, and only moved into computing later on because some of the work I was doing in topology was related to distributed computing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是数学系的研究生，之后在数学系担任讲师，后来才转向计算领域， 因为我当时从事的一部分拓扑学（topology）工作与分布式计算有关。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是数学系的研究生，之后在数学系担任讲师，后来才转向计算领域，因为我当时从事的一部分拓扑学（ topology ）工作与分布式计算有关。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:10:17.020" end="00:10:20.130" >}}
 {{< styled-paragraph class="lang-en" >}}And then sort of the topology part of it atrophied and the computing part of it grew.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}后来，拓扑学的部分逐渐退化， 计算的部分不断增长。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}后来，拓扑学的部分逐渐退化，计算的部分不断增长。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:10:21.640" end="00:10:25.110" >}}
@@ -637,7 +637,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:10:34.150" end="00:10:38.830" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well, that's actually how I started in the AI Lab.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：噢，那其实是我在 AI Lab 的起点。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：噢，那其实是我在 AI Lab 的起点。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:10:38.830" end="00:10:41.420" >}}
@@ -647,12 +647,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:10:41.420" end="00:10:45.170" >}}
 {{< styled-paragraph class="lang-en" >}}there was an early Logo presentation called I think Teaching Children Thinking, which was in 26-100.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当时有一场早期的 Logo 演示，我记得题目是《教孩子思考》 （Teaching Children Thinking），在 26-100 教室举行。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当时有一场早期的 Logo 演示，我记得题目是《教孩子思考》（ Teaching Children Thinking ），在 26-100 教室举行。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:10:48.780" end="00:10:53.420" >}}
 {{< styled-paragraph class="lang-en" >}}And it was this big thing where Seymour Papert and his assistant for many years, Cynthia Solomon, talked about the Logo computer language and showed the Logo turtle.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那是一场盛会，Seymour Papert 和他多年的助手 Cynthia Solomon 讲解 Logo 计算机语言，并展示了 Logo 海龟。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那是一场盛会， Seymour Papert 和他多年的助手 Cynthia Solomon 讲解 Logo 计算机语言，并展示了 Logo 海龟。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:10:58.650" end="00:11:01.080" >}}
@@ -687,7 +687,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:11:24.760" end="00:11:28.270" >}}
 {{< styled-paragraph class="lang-en" >}}And I walked over to the AI Lab, looking for something to do.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}于是我走到 AI 实验室， 找点事情做。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}于是我走到 AI 实验室，找点事情做。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:11:30.830" end="00:11:32.936" >}}
@@ -697,7 +697,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:11:32.936" end="00:11:35.070" >}}
 {{< styled-paragraph class="lang-en" >}}And then elevator stopped at one of the floors and then Seymour got in.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}电梯停在了某一层，Seymour 走了进来。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}电梯停在了某一层， Seymour 走了进来。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:11:36.660" end="00:11:38.050" >}}
@@ -742,17 +742,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:12:04.470" end="00:12:08.220" >}}
 {{< styled-paragraph class="lang-en" >}}I mean obviously it differed as you've said from Princeton and was unlike other things you'd seen.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的意思是，正如您所说显然它与普林斯顿不同， 也与您见过的其他事物都不同。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的意思是，正如您所说显然它与普林斯顿不同，也与您见过的其他事物都不同。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:09.910" end="00:12:12.305" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well to me, it was really strange.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，对我来说，这真的很奇怪。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯，对我来说，这真的很奇怪。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:12.305" end="00:12:18.400" >}}
 {{< styled-paragraph class="lang-en" >}}I mean MIT is such a big complicated place.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是说，MIT 是一个如此庞大且复杂的地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是说， MIT 是一个如此庞大且复杂的地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:18.400" end="00:12:23.070" >}}
@@ -762,7 +762,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:12:28.920" end="00:12:31.210" >}}
 {{< styled-paragraph class="lang-en" >}}And I just don't even know how it's possible to do that because there are just so many things going on and it's so complicated.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我甚至不知道如何才能做到这一点， 因为同时发生的事太多， 太复杂了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我甚至不知道如何才能做到这一点，因为同时发生的事太多，太复杂了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:37.020" end="00:12:39.630" >}}
@@ -772,12 +772,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:12:43.850" end="00:12:48.780" >}}
 {{< styled-paragraph class="lang-en" >}}So I remember hearing about the Experimental Study Group.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得听人说“实验学习小组” （Experimental Study Group，ESG）的时候。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得听人说“实验学习小组” （ Experimental Study Group ， ESG ）的时候。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:48.780" end="00:12:53.560" >}}
 {{< styled-paragraph class="lang-en" >}}So what people told me about the Experimental Study Group was that it was a place where you could learn on your own and do stuff that's independently and it was very open.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他们告诉我，实验学习小组是一个你可以自学、 独立做事的地方， 非常开放。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他们告诉我，实验学习小组是一个你可以自学、独立做事的地方，非常开放。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:12:58.980" end="00:13:02.550" >}}
@@ -812,7 +812,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:13:24.420" end="00:13:29.550" >}}
 {{< styled-paragraph class="lang-en" >}}Because I'd been in a program at Princeton, a very '60s program, I think even Princeton stop doing it, where they admitted you.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}因为我曾参加过普林斯顿的一个项目，一个非常有 60 年代特殊的项目，哪怕是普林斯顿也不这么干了， 他们录取你。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}因为我曾参加过普林斯顿的一个项目，一个非常有 60 年代特殊的项目，哪怕是普林斯顿也不这么干了，他们录取你。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:13:34.010" end="00:13:38.750" >}}
@@ -832,12 +832,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:13:43.120" end="00:13:45.570" >}}
 {{< styled-paragraph class="lang-en" >}}But the rest of the time, Princeton's a big place, take what you want.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但剩下的时间里，普林斯顿是个大地方， 想学什么就学什么吧。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但剩下的时间里，普林斯顿是个大地方，想学什么就学什么吧。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:13:46.350" end="00:13:49.510" >}}
 {{< styled-paragraph class="lang-en" >}}And all of the standard things you'd call distribution requirements or university requirements are just abolished for you.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所有那些所谓标准，比如通识要求、 学校必修要求，对你们都取消了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所有那些所谓标准，比如通识要求、学校必修要求，对你们都取消了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:13:55.490" end="00:13:57.010" >}}
@@ -857,7 +857,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:14:06.590" end="00:14:11.830" >}}
 {{< styled-paragraph class="lang-en" >}}But coming from there to MIT, it was this sense of being regimented and precise.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但从那里来到 MIT，感受到的是严格管理、精确规范。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但从那里来到 MIT ，感受到的是严格管理、精确规范。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:14:13.915" end="00:14:17.600" >}}
@@ -887,12 +887,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:14:37.960" end="00:14:42.205" >}}
 {{< styled-paragraph class="lang-en" >}}But one of the characteristics of an engineer's culture is you sort of sit and you say, what's the problem, what are you're trying to do?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但工程文化有个特点：你会坐下来说，问题是什么， 你要做什么？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但工程文化有个特点：你会坐下来说，问题是什么，你要做什么？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:14:48.060" end="00:14:50.370" >}}
 {{< styled-paragraph class="lang-en" >}}And then about three seconds later you say okay, what's the solution?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后大约三秒钟后你会说： 好吧，解决方案是什么？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后大约三秒钟后你会说：好吧，解决方案是什么？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:14:52.230" end="00:14:54.960" >}}
@@ -952,7 +952,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:15:28.762" end="00:15:30.790" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well, Seymour was, is amazing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，Seymour 过去是、现在依然是，非常了不起的人。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯， Seymour 过去是、现在依然是，非常了不起的人。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:15:30.790" end="00:15:35.440" >}}
@@ -1002,7 +1002,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:16:06.510" end="00:16:13.010" >}}
 {{< styled-paragraph class="lang-en" >}}It's things like, he taught himself when we were there how to work on the bongo board.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}比如，我们在的时候，他自学了如何玩平衡板（bongo board）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}比如，我们在的时候，他自学了如何玩平衡板（ bongo board ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:16:14.660" end="00:16:19.070" >}}
@@ -1042,7 +1042,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:16:43.800" end="00:16:48.420" >}}
 {{< styled-paragraph class="lang-en" >}}So this thing that looked like a very complicated thing that a circus person was doing, it almost magic, you could actually teach it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以这件看起来非常复杂、仿佛马戏团演员似的、 几乎像魔法一样的事情，实际上是可以教授的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以这件看起来非常复杂、仿佛马戏团演员似的、几乎像魔法一样的事情，实际上是可以教授的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:16:53.550" end="00:16:57.080" >}}
@@ -1052,7 +1052,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:16:57.080" end="00:17:00.660" >}}
 {{< styled-paragraph class="lang-en" >}}I remember going to visit him in Maine.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得有一次去缅因州（Maine）拜访他。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得有一次去缅因州（ Maine ）拜访他。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:17:00.660" end="00:17:01.710" >}}
@@ -1082,12 +1082,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:17:25.960" end="00:17:29.160" >}}
 {{< styled-paragraph class="lang-en" >}}Another critical part of that is the notion of debugging.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}其中另一个关键部分是调试（debugging）的概念。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}其中另一个关键部分是调试（ debugging ）的概念。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:17:32.340" end="00:17:34.000" >}}
 {{< styled-paragraph class="lang-en" >}}So there's this idea that you do something, and you make a mistake.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}有这样一种想法：你在做某件事， 然后犯了一个错误。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}有这样一种想法：你在做某件事，然后犯了一个错误。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:17:36.100" end="00:17:39.140" >}}
@@ -1097,12 +1097,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:17:40.560" end="00:17:43.930" >}}
 {{< styled-paragraph class="lang-en" >}}Bugs are just great because that allows you to go back and analyze and think about stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}Bug（程序错误）非常棒，因为它们让你能回过头去分析和思考。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}Bug （程序错误）非常棒，因为它们让你能回过头去分析和思考。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:17:46.170" end="00:17:52.430" >}}
 {{< styled-paragraph class="lang-en" >}}And all of that influence went not only in my own work in education, but also in the computer science work that Gerry Sussman and I did.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所有这些影响不仅体现在我自己的教育工作中， 也体现在我与 Gerry Sussman 合作的计算机科学工作中。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所有这些影响不仅体现在我自己的教育工作中，也体现在我与 Gerry Sussman 合作的计算机科学工作中。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:18:00.280" end="00:18:05.880" >}}
@@ -1117,22 +1117,22 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:18:21.210" end="00:18:23.340" >}}
 {{< styled-paragraph class="lang-en" >}}And that goes right through all of our work in the Scheme programming language and our work in making MIT's first computer science course.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这一点贯穿在我们在 Scheme 编程语言的全部工作， 以及我们创建 MIT 首门计算机科学课程的工作中。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这一点贯穿在我们在 Scheme 编程语言的全部工作，以及我们创建 MIT 首门计算机科学课程的工作中。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:18:27.260" end="00:18:31.210" >}}
 {{< styled-paragraph class="lang-en" >}}It goes absolutely, directly back to Seymour.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这绝对能直接追溯到 Seymour。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这绝对能直接追溯到 Seymour 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:18:31.210" end="00:18:34.870" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: Were there other key mentors or professors that influenced your development, your intellectual or your professional development as a graduate student.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：作为研究生，是否还有其他关键的导师或教授影响了您的发展， 智识上或者职业上的发展？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：作为研究生，是否还有其他关键的导师或教授影响了您的发展，智识上或者职业上的发展？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:18:40.440" end="00:18:41.410" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh well, sure.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：噢，那是肯定的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：噢，那是肯定的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:18:41.410" end="00:18:46.220" >}}
@@ -1147,7 +1147,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:18:52.690" end="00:18:55.540" >}}
 {{< styled-paragraph class="lang-en" >}}My research was actually in mathematics under Dennis Sullivan, who is a very, very famous topologist, who was in the math department at MIT in those days.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的研究实际上是在数学系，师从 Dennis Sullivan，他是一位非常、非常著名的拓扑学家， 当时在 MIT 数学系任教。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的研究实际上是在数学系，师从 Dennis Sullivan ，他是一位非常、非常著名的拓扑学家，当时在 MIT 数学系任教。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:19:02.380" end="00:19:04.420" >}}
@@ -1182,27 +1182,27 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:19:30.580" end="00:19:33.210" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So tell me a little bit more about your professional path from mathematics to computer science and from getting a PhD at MIT to being a professor at MIT?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：那么，请多讲讲你的职业发展轨迹， 从数学到计算机科学，以及从在 MIT 获得博士学位到成为 MIT 教授的过程？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：那么，请多讲讲你的职业发展轨迹，从数学到计算机科学，以及从在 MIT 获得博士学位到成为 MIT 教授的过程？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:19:41.400" end="00:19:42.885" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh, sure.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：哦，当然可以。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：哦，当然可以。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:19:42.885" end="00:19:44.910" >}}
 {{< styled-paragraph class="lang-en" >}}Well when I got a PhD, I was in the math department doing topology.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}嗯，我获得博士学位的时候，是在数学系做拓扑学（topology）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}嗯，我获得博士学位的时候，是在数学系做拓扑学（ topology ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:19:47.960" end="00:19:51.990" >}}
 {{< styled-paragraph class="lang-en" >}}Got an appointment as an instructor.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}后来被任命为讲师（instructor）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}后来被任命为讲师（ instructor ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:19:51.990" end="00:19:55.280" >}}
 {{< styled-paragraph class="lang-en" >}}But then because I was working in Logo, MIT started something in the mid-'70s called the Division for Study in Research and Education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但后来由于，我在从事 Logo 方面的工作，MIT 在 70 年代中期成立了一个名为"科研与教育研究部"（Division for Study in Research and Education， 简称 DSRE）的机构。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但后来由于，我在从事 Logo 方面的工作， MIT 在 70 年代中期成立了一个名为"科研与教育研究部"（ Division for Study in Research and Education ，简称 DSRE ）的机构。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:20:03.180" end="00:20:07.910" >}}
@@ -1217,7 +1217,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:20:10.590" end="00:20:14.460" >}}
 {{< styled-paragraph class="lang-en" >}}One was Ben Snyder, who wrote a very famous book at MIT called The Hidden Curriculum, which is all about how surviving at MIT is a process of constant triage.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}一位是 Ben Snyder，他写了一本在 MIT 非常有名的书，叫做《隐藏的课程》（The Hidden Curriculum）， 讲的是在 MIT 生存是一个不断取舍的过程。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}一位是 Ben Snyder ，他写了一本在 MIT 非常有名的书，叫做《隐藏的课程》（ The Hidden Curriculum ），讲的是在 MIT 生存是一个不断取舍的过程。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:20:22.630" end="00:20:25.100" >}}
@@ -1227,12 +1227,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:20:25.100" end="00:20:29.000" >}}
 {{< styled-paragraph class="lang-en" >}}One's Don Schon, who was in the Sloan School, who was very famous for his theories of knowledge or ideas of espoused knowledge and how you do things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}一位是 Don Schon，他在斯隆学院（Sloan School）， 以他的知识理论，或说“信奉知识”（espoused knowledge） 与实际行动之间关系的思想而闻名。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}一位是 Don Schon ，他在斯隆学院（ Sloan School ），以他的知识理论，或说“信奉知识”（ espoused knowledge ）与实际行动之间关系的思想而闻名。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:20:34.320" end="00:20:37.030" >}}
 {{< styled-paragraph class="lang-en" >}}And the third one which was Seymour doing Logo.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}第三个是 Seymour，做 Logo 相关的工作。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}第三个是 Seymour ，做 Logo 相关的工作。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:20:37.030" end="00:20:40.125" >}}
@@ -1252,7 +1252,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:20:56.070" end="00:20:57.910" >}}
 {{< styled-paragraph class="lang-en" >}}But then eventually what happens, MIT decided to close down DSRE.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但最终发生的情况是，MIT 决定解散 DSRE。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但最终发生的情况是， MIT 决定解散 DSRE 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:20:59.270" end="00:21:04.730" >}}
@@ -1262,7 +1262,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:21:06.930" end="00:21:09.410" >}}
 {{< styled-paragraph class="lang-en" >}}But in any case, MIT decided to close it down.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但无论如何，MIT 决定关闭它。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但无论如何， MIT 决定关闭它。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:21:09.410" end="00:21:12.110" >}}
@@ -1282,7 +1282,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:21:35.785" end="00:21:39.750" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well, I don't actually think about Logo and distributed computing together very much.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，我其实不太把 Logo 和分布式计算放在一起考虑。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯，我其实不太把 Logo 和分布式计算放在一起考虑。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:21:47.650" end="00:21:48.810" >}}
@@ -1292,7 +1292,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:21:48.810" end="00:21:52.700" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Other than they kind of both end up being a vision of computing and being formal about it and things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：除了它们最后都成为了对计算的某种愿景，而且都很形式化等等。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：除了它们最后都成为了对计算的某种愿景，而且都很形式化等等。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:21:56.100" end="00:21:59.950" >}}
@@ -1312,7 +1312,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:22:10.961" end="00:22:17.980" >}}
 {{< styled-paragraph class="lang-en" >}}What we used to say in Logo is oh my god, if a computer could just cost $10,000, that would revolutionize all of education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们以前做 Logo 的时候经常说，老天爷，如果一台电脑只要 1 万美元， 那必将对教育产生彻底变革。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们以前做 Logo 的时候经常说，老天爷，如果一台电脑只要 1 万美元，那必将对教育产生彻底变革。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:22:24.095" end="00:22:26.680" >}}
@@ -1322,7 +1322,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:22:35.530" end="00:22:37.690" >}}
 {{< styled-paragraph class="lang-en" >}}They were sitting in the Artificial Intelligence Lab, doing the world's very best, fanciest research an artificial intelligence.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它们放在人工智能实验室里， 做着世界上最顶尖、最前沿的人工智能研究。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它们放在人工智能实验室里，做着世界上最顶尖、最前沿的人工智能研究。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:22:43.470" end="00:22:47.820" >}}
@@ -1347,7 +1347,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:23:14.720" end="00:23:17.530" >}}
 {{< styled-paragraph class="lang-en" >}}So that was like my first job as a graduate student, implementing that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那是我作为研究生的第一份工作， 实现那个东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那是我作为研究生的第一份工作，实现那个东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:23:19.190" end="00:23:22.060" >}}
@@ -1367,12 +1367,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:23:38.300" end="00:23:43.940" >}}
 {{< styled-paragraph class="lang-en" >}}So most people thought we were crazy, because I mean what a weird thing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}大多数人觉得我们疯了，因为我是说， 这事太奇怪了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}大多数人觉得我们疯了，因为我是说，这事太奇怪了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:23:44.440" end="00:23:47.810" >}}
 {{< styled-paragraph class="lang-en" >}}Why could a computer ever be something that would be relevant to a kid, much less programming it or anything?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}计算机怎么可能与儿童相关， 更别说去给它编程了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}计算机怎么可能与儿童相关，更别说去给它编程了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:23:52.030" end="00:23:54.170" >}}
@@ -1382,7 +1382,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:23:54.170" end="00:23:57.270" >}}
 {{< styled-paragraph class="lang-en" >}}Every couple of weeks somebody would run in off the street saying, I want to see the robots.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}每隔几周就会有人从街上跑进来，说， 我想看看机器人。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}每隔几周就会有人从街上跑进来，说，我想看看机器人。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:24:01.320" end="00:24:02.390" >}}
@@ -1402,7 +1402,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:24:08.780" end="00:24:12.070" >}}
 {{< styled-paragraph class="lang-en" >}}So it was run by Seymour Papert and of course Marvin Minsky, who are just two completely brilliant people with I think a real sense of faith, in that if you're surrounded by a lot of smart people and you give them a lot of freedom and your job is really to inspire people, it will do great things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它由 Seymour Papert 领导，当然还有 Marvin Minsky，他们是两位极其杰出人， 我认为他们真正有一种信念，如果你身边围绕着一群聪明人，给他们充分的自由， 你的工作实际是去启发他们，这样就能做出伟大的成就。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它由 Seymour Papert 领导，当然还有 Marvin Minsky ，他们是两位极其杰出人，我认为他们真正有一种信念，如果你身边围绕着一群聪明人，给他们充分的自由，你的工作实际是去启发他们，这样就能做出伟大的成就。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:24:35.500" end="00:24:40.600" >}}
@@ -1442,7 +1442,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:25:22.280" end="00:25:24.650" >}}
 {{< styled-paragraph class="lang-en" >}}I mean in a deep sense it had to do with computer science, but not obviously.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是说，在深层意义上它与计算机科学有关， 但并不是很明显。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是说，在深层意义上它与计算机科学有关，但并不是很明显。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:25:25.500" end="00:25:29.360" >}}
@@ -1452,7 +1452,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:25:42.290" end="00:25:45.050" >}}
 {{< styled-paragraph class="lang-en" >}}And that of course goes way past software into things like Creative Commons and lots of the stuff that we see now.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而这一点远远超出了软件领域，延伸到了像知识共享（Creative Commons） 以及我们今天看到的许多事物中。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而这一点远远超出了软件领域，延伸到了像知识共享（ Creative Commons ）以及我们今天看到的许多事物中。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:25:48.270" end="00:25:52.820" >}}
@@ -1472,7 +1472,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:26:13.900" end="00:26:17.480" >}}
 {{< styled-paragraph class="lang-en" >}}I mean I've read that obviously there's a whole sort of different landscape of security and passwords or lack thereof.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的意思是我读到过，显然当时的安全和密码体系，或者说它们的缺失， 和现在截然不同。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的意思是我读到过，显然当时的安全和密码体系，或者说它们的缺失，和现在截然不同。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:26:23.030" end="00:26:27.370" >}}
@@ -1482,7 +1482,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:26:30.610" end="00:26:33.490" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well remember for thinking about now, the internet--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，要知道站在现在的角度，互联网——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯，要知道站在现在的角度，互联网——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:26:35.740" end="00:26:40.770" >}}
@@ -1492,7 +1492,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:26:40.770" end="00:26:43.780" >}}
 {{< styled-paragraph class="lang-en" >}}And it really was a very small, very, very homogeneous place.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它真的是一个非常小，非常、 非常同质化的地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它真的是一个非常小，非常、非常同质化的地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:26:45.960" end="00:26:50.080" >}}
@@ -1522,7 +1522,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:27:14.410" end="00:27:18.610" >}}
 {{< styled-paragraph class="lang-en" >}}I remember there was one sort of dark day when the people from ARPA said, you need to put passwords on your accounts because they're on the network.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得有那么一个“黑暗的日子”，ARPA 的人说， 你们必须给账户加上密码， 因为它们连网了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得有那么一个“黑暗的日子”， ARPA 的人说，你们必须给账户加上密码，因为它们连网了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:27:24.920" end="00:27:29.860" >}}
@@ -1537,17 +1537,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:27:33.760" end="00:27:36.680" >}}
 {{< styled-paragraph class="lang-en" >}}I mean what a terrible idea that you'd have to put a password in an account and people could get into it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是说，这想法也太糟糕了， 你得在账户上设置密码，才能登录帐号。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是说，这想法也太糟糕了，你得在账户上设置密码，才能登录帐号。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:27:39.260" end="00:27:42.720" >}}
 {{< styled-paragraph class="lang-en" >}}I remember Richard Stallman reacted to this by making his password RMS, which was initials.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得 Richard Stallman 的反应是把他的密码设为 RMS， 也就是他名字的首字母缩写。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得 Richard Stallman 的反应是把他的密码设为 RMS ，也就是他名字的首字母缩写。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:27:50.570" end="00:27:57.060" >}}
 {{< styled-paragraph class="lang-en" >}}So just jumping ahead a little bit, if you move about 10, 12 years later, my daughter, when she was about oh 14, introduced me to what became known as MUDS or multiplayer games on the internet.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以稍微快进一点，大约 10 到 12 年后， 我的女儿，大约 14 岁时，向我介绍了一种后来被称为 MUDS 或者互联网多人在线游戏的东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以稍微快进一点，大约 10 到 12 年后，我的女儿，大约 14 岁时，向我介绍了一种后来被称为 MUDS 或者互联网多人在线游戏的东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:28:11.960" end="00:28:14.320" >}}
@@ -1562,7 +1562,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:28:22.861" end="00:28:28.390" >}}
 {{< styled-paragraph class="lang-en" >}}And I come home and she says daddy, do you know there's this thing on the computer that all kids in the whole world can use?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我回到家，她说爸爸，你知道吗， 电脑上有个东西，全世界的孩子都能用？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我回到家，她说爸爸，你知道吗，电脑上有个东西，全世界的孩子都能用？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:28:35.740" end="00:28:38.200" >}}
@@ -1607,7 +1607,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:29:00.130" end="00:29:06.620" >}}
 {{< styled-paragraph class="lang-en" >}}And now I'm supposed to type R-M-S. And I say, oh my god, you're typing Stallman's password to get into the system.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}现在我应该按 R-M-S。我说，老天爷， 你在输入 Stallman 的密码来登入系统。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}现在我应该按 R-M-S 。我说，老天爷，你在输入 Stallman 的密码来登入系统。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:29:10.360" end="00:29:12.890" >}}
@@ -1622,7 +1622,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:29:13.390" end="00:29:15.230" >}}
 {{< styled-paragraph class="lang-en" >}}She had no idea that this was MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}她完全不知道这是 MIT。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}她完全不知道这是 MIT 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:29:15.230" end="00:29:18.350" >}}
@@ -1637,7 +1637,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:29:21.490" end="00:29:25.380" >}}
 {{< styled-paragraph class="lang-en" >}}And that's a little bit of the spirit of sharing and openness and delight that comes from that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这体现了一点点，那种共享和开放的精神， 以及随之而来的喜悦。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这体现了一点点，那种共享和开放的精神，以及随之而来的喜悦。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:29:27.600" end="00:29:29.370" >}}
@@ -1667,12 +1667,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:29:52.400" end="00:29:57.950" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So Joel Moses at that time was the head of the symbolic mathematics project.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：Joel Moses 当时是符号数学项目的负责人。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ： Joel Moses 当时是符号数学项目的负责人。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:30:00.680" end="00:30:05.380" >}}
 {{< styled-paragraph class="lang-en" >}}That's really the great thing that he did, before becoming provost, sort of inventing symbolic mathematics.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那真的是他的伟大成就，在他成为教务长之前， 可以说是创造了符号数学。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那真的是他的伟大成就，在他成为教务长之前，可以说是创造了符号数学。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:30:07.890" end="00:30:11.793" >}}
@@ -1707,17 +1707,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:30:49.980" end="00:30:53.260" >}}
 {{< styled-paragraph class="lang-en" >}}And that's a little bit again, the sense of playfulness and openness and we're all part of this big community and the computer system is a way of empowering that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这再次体现了一点点，那种玩心和开放的感觉， 我们都是这个大社区的一部分，计算机系统是让它成真的一种方式。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这再次体现了一点点，那种玩心和开放的感觉，我们都是这个大社区的一部分，计算机系统是让它成真的一种方式。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:31:02.220" end="00:31:05.640" >}}
 {{< styled-paragraph class="lang-en" >}}And I do believe that had a whole lot to do especially with the development of time sharing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我相信所有这些尤其与分时系统（time sharing）的发展有很大关系。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我相信所有这些尤其与分时系统（ time sharing ）的发展有很大关系。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:31:08.540" end="00:31:18.280" >}}
 {{< styled-paragraph class="lang-en" >}}In a sense sort of Bob Fano and Corby Corbato, when they started the time sharing project, it was sort of about technology.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}某种意义上说 Bob Fano 和 Corby Corbato， 当他们一开始做分时系统项目时， 基本是关注于技术。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}某种意义上说 Bob Fano 和 Corby Corbato ，当他们一开始做分时系统项目时，基本是关注于技术。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:31:25.080" end="00:31:28.530" >}}
@@ -1727,7 +1727,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:31:31.950" end="00:31:36.110" >}}
 {{< styled-paragraph class="lang-en" >}}And to their credit they recognized that very, very early and pushed the sense of gee, there's a thing like community.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}值得称赞的是，他们很早就认识到了这一点， 并推动了这种观念，哎， 有一种东西叫做社区。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}值得称赞的是，他们很早就认识到了这一点，并推动了这种观念，哎，有一种东西叫做社区。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:31:39.970" end="00:31:43.110" >}}
@@ -1747,7 +1747,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:31:52.820" end="00:31:54.910" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: Yeah, we'll return to the whole question of open networks, Open Source a bit later.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：是的，我们稍后会回到开放网络、 开源的整个问题。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：是的，我们稍后会回到开放网络、开源的整个问题。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:31:58.090" end="00:32:03.610" >}}
@@ -1762,7 +1762,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:32:29.470" end="00:32:33.040" >}}
 {{< styled-paragraph class="lang-en" >}}You mentioned very early on that when you were growing up, you were bad at arithmetic, but found out later that you were good at math.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}你刚才最早提到过，在成长的过程中， 你并不擅长算术，但后来发现自己其实很擅长数学。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}你刚才最早提到过，在成长的过程中，你并不擅长算术，但后来发现自己其实很擅长数学。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:32:37.330" end="00:32:38.935" >}}
@@ -1782,7 +1782,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:32:53.200" end="00:32:55.280" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: I don't know.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：我不知道。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：我不知道。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:32:55.280" end="00:32:57.460" >}}
@@ -1807,12 +1807,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:33:18.140" end="00:33:20.500" >}}
 {{< styled-paragraph class="lang-en" >}}But again, I've always been interested in puzzling out things and explaining things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但同样如前面说的，我一直都对把事情琢磨透、 把事情讲清楚感兴趣。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但同样如前面说的，我一直都对把事情琢磨透、把事情讲清楚感兴趣。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:33:23.940" end="00:33:28.740" >}}
 {{< styled-paragraph class="lang-en" >}}I wasn't very much interested in teaching until I, gosh, until I got to MIT in fact.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我曾经对教学并不是很感兴趣，直到我，老天， 直到我来到了 MIT，实际上。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我曾经对教学并不是很感兴趣，直到我，老天，直到我来到了 MIT ，实际上。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:33:31.360" end="00:33:36.080" >}}
@@ -1822,7 +1822,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:33:36.080" end="00:33:40.390" >}}
 {{< styled-paragraph class="lang-en" >}}Being in a couple of very good summer high school programs, one at University of Notre Dame, which has since moved to Ohio State, which had a long, long, long track record of inspiring people in mathematics.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我参加过几个非常好的高中暑期项目，一个在圣母大学（University of Notre Dame），后来搬到了俄亥俄州， 它在激励人们学习数学方面有着很长，很长， 很长的历史。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我参加过几个非常好的高中暑期项目，一个在圣母大学（ University of Notre Dame ），后来搬到了俄亥俄州，它在激励人们学习数学方面有着很长，很长，很长的历史。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:33:52.340" end="00:33:54.560" >}}
@@ -1857,7 +1857,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:34:30.074" end="00:34:33.130" >}}
 {{< styled-paragraph class="lang-en" >}}And I think just for the heck of it, I did what must have been one of the very first MIT computer exercises where students used the Multics computer system in those days to do some exercise at the end of the day about matrices.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得只是为了好玩，我设计了应该是 MIT 最早的计算机练习之一，让学生们使用当时的 Multics 计算机系统， 在一天结束时做一些关于矩阵的练习。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得只是为了好玩，我设计了应该是 MIT 最早的计算机练习之一，让学生们使用当时的 Multics 计算机系统，在一天结束时做一些关于矩阵的练习。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:34:45.460" end="00:34:47.389" >}}
@@ -1882,17 +1882,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:35:01.790" end="00:35:05.900" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: Thinking about teaching computer science specifically, can you talk a bit about the Structure and Interpretation of Computer Programs and what that grew out of and what the sort of fundamental concepts are behind your approach?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：具体到计算机科学的教学， 能谈谈《计算机程序的构造和解释》 这本书，它的来源，以及你们教学方法背后的基本概念吗？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：具体到计算机科学的教学，能谈谈《计算机程序的构造和解释》这本书，它的来源，以及你们教学方法背后的基本概念吗？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:35:18.220" end="00:35:23.160" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So Gerry Sussman and I, I think were really privileged in that we wrote a book that really was able to draw on that whole of a 20-year history of how MIT and that whole AI culture thought about computing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：所以 Gerry Sussman 和我， 我觉得我们真的很荣幸能写这样一本书，它充分借鉴了整整 20 年来 MIT 以及整个人工智能文化圈对“计算”的思考。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：所以 Gerry Sussman 和我，我觉得我们真的很荣幸能写这样一本书，它充分借鉴了整整 20 年来 MIT 以及整个人工智能文化圈对“计算”的思考。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:35:43.890" end="00:35:47.710" >}}
 {{< styled-paragraph class="lang-en" >}}And it goes directly back to again Seymour Papert and Marvin Minsky.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}再一次，这又能直接追溯到 Seymour Papert 和 Marvin Minsky。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}再一次，这又能直接追溯到 Seymour Papert 和 Marvin Minsky 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:35:49.450" end="00:35:53.600" >}}
@@ -1902,7 +1902,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:35:53.600" end="00:35:57.500" >}}
 {{< styled-paragraph class="lang-en" >}}what's the phrase we used-- a computer program is a way of expressing ideas and communicating ideas, and only incidentally about getting a machine to do stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们怎么说的来着——计算机程序是表达想法和交流想法的手段， 让机器做事只是附带的结果。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们怎么说的来着——计算机程序是表达想法和交流想法的手段，让机器做事只是附带的结果。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:36:06.600" end="00:36:09.400" >}}
@@ -1932,7 +1932,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:36:33.310" end="00:36:39.700" >}}
 {{< styled-paragraph class="lang-en" >}}And so the key idea in Structure and Interpretation is what we ended up calling the linguistic approach to programming design, which says if I would like to do some very complicated thing, one of the critical tasks is picking the right descriptive framework for saying that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以《结构与解释》中的关键思想， 我们最终称之为“语言学方法”的程序设计， 意思是说如果我想做一些非常复杂的事情，关键任务之一是选择恰当的描述框架来表达它。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以《结构与解释》中的关键思想，我们最终称之为“语言学方法”的程序设计，意思是说如果我想做一些非常复杂的事情，关键任务之一是选择恰当的描述框架来表达它。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:36:58.080" end="00:37:00.990" >}}
@@ -1967,7 +1967,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:37:50.320" end="00:37:56.790" >}}
 {{< styled-paragraph class="lang-en" >}}And that permeates both the design of the book and the actual programming technology that people use.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这种理念既贯穿于本书的设计中， 也贯穿于人们实际使用的编程技术里。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这种理念既贯穿于本书的设计中，也贯穿于人们实际使用的编程技术里。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:37:59.380" end="00:38:04.620" >}}
@@ -1987,7 +1987,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:38:23.780" end="00:38:26.310" >}}
 {{< styled-paragraph class="lang-en" >}}And again, it goes back to very, very technical things, like LISP is a very good language for creating other computer languages.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这又再次源于一些非常、非常技术性的东西， 比如 LISP 这门语言非常适合用来创建其他计算机语言。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这又再次源于一些非常、非常技术性的东西，比如 LISP 这门语言非常适合用来创建其他计算机语言。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:38:32.070" end="00:38:33.760" >}}
@@ -2022,7 +2022,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:39:17.900" end="00:39:21.750" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So moving beyond those communities that the book and that thought process came out of, did you encounter resistance, maybe that's not the right word, maybe misunderstanding--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：那么，等走出孕育出这本书以及那种思考方式的社群之后，你们有没有遇到过阻力——也许这个词不太准确， 或许该说是误解——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：那么，等走出孕育出这本书以及那种思考方式的社群之后，你们有没有遇到过阻力——也许这个词不太准确，或许该说是误解——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:39:28.880" end="00:39:30.735" >}}
@@ -2032,7 +2032,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:39:30.735" end="00:39:33.380" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So we published this with MIT Press.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：我们跟 MIT 出版社出版这本书后。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：我们跟 MIT 出版社出版这本书后。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:39:33.380" end="00:39:38.280" >}}
@@ -2052,7 +2052,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:39:42.670" end="00:39:49.840" >}}
 {{< styled-paragraph class="lang-en" >}}It said, quote, the question is, is in MIT Press publishing this book going to advance or set back computer science?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它写到，原话：“问题在是，MIT 出版社出版这本书，是会推动还是会阻碍计算机科学的发展？”{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它写到，原话：“问题在是， MIT 出版社出版这本书，是会推动还是会阻碍计算机科学的发展？”{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:39:56.090" end="00:39:57.890" >}}
@@ -2072,7 +2072,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:40:16.620" end="00:40:19.985" >}}
 {{< styled-paragraph class="lang-en" >}}There's a whole movement in computer science, a tremendously respectable one, and it says a program is like the proof of a mathematical theorem.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}计算机科学界有一整派运动， 备受尊敬，它认为一段程序就像一段对数学定理的证明。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}计算机科学界有一整派运动，备受尊敬，它认为一段程序就像一段对数学定理的证明。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:40:29.285" end="00:40:34.170" >}}
@@ -2117,7 +2117,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:41:05.570" end="00:41:06.570" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Exactly right.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：完全正确。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：完全正确。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:06.570" end="00:41:08.880" >}}
@@ -2132,17 +2132,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:41:19.510" end="00:41:20.100" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Gosh.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：老天爷。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：老天爷。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:20.100" end="00:41:25.920" >}}
 {{< styled-paragraph class="lang-en" >}}So the other person who really deserves enormous credit for this is Bob Fano.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}还有一位对这一切功不可没的人， 他是 Bob Fano。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}还有一位对这一切功不可没的人，他是 Bob Fano 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:27.170" end="00:41:29.460" >}}
 {{< styled-paragraph class="lang-en" >}}There was a tradition of, what was the first MIT computer science course?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当时有一个传统：MIT 第一门计算机科学课程是什么？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当时有一个传统： MIT 第一门计算机科学课程是什么？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:36.830" end="00:41:38.870" >}}
@@ -2157,7 +2157,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:41:45.532" end="00:41:48.100" >}}
 {{< styled-paragraph class="lang-en" >}}It was called 6.035.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}叫 6.035。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}叫 6.035 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:48.100" end="00:41:51.475" >}}
@@ -2167,7 +2167,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:41:51.475" end="00:41:53.040" >}}
 {{< styled-paragraph class="lang-en" >}}I think it might have been called Structure and Interpretation of Computer Languages.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得可能叫《计算机语言的构造和解释》 （Structure and Interpretation of Computer Languages）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得可能叫《计算机语言的构造和解释》（ Structure and Interpretation of Computer Languages ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:41:56.340" end="00:42:00.066" >}}
@@ -2177,12 +2177,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:42:00.066" end="00:42:02.830" >}}
 {{< styled-paragraph class="lang-en" >}}The language then was ALGOL people used.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那时教的语言是当时用的多的 ALGOL。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那时教的语言是当时用的多的 ALGOL 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:42:02.830" end="00:42:05.940" >}}
 {{< styled-paragraph class="lang-en" >}}And then it did a little bit of LISP.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后也稍微讲了一点 LISP。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后也稍微讲了一点 LISP 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:42:05.940" end="00:42:09.450" >}}
@@ -2202,12 +2202,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:42:17.310" end="00:42:23.220" >}}
 {{< styled-paragraph class="lang-en" >}}So I talked about what you're doing is making a language and how you make languages to make languages.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我刚才说到了，编程本质是创造一门语言， 以及你如何通过创造语言来创造语言。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我刚才说到了，编程本质是创造一门语言，以及你如何通过创造语言来创造语言。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:42:26.120" end="00:42:28.140" >}}
 {{< styled-paragraph class="lang-en" >}}The technical term for that is an interpreter.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}对应的术语叫作解释器（interpreter）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}对应的术语叫作解释器（ interpreter ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:42:28.140" end="00:42:31.930" >}}
@@ -2232,12 +2232,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:42:44.110" end="00:42:46.700" >}}
 {{< styled-paragraph class="lang-en" >}}I didn't get it until like the third time through, where he sort of said the really, really key thing is that you build up complexity by constructing an interpreter.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我自己反复听了三遍课才明白， 他大概是说，最最关键的事情在于通过构建一个解释器来堆砌复杂度。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我自己反复听了三遍课才明白，他大概是说，最最关键的事情在于通过构建一个解释器来堆砌复杂度。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:42:55.060" end="00:42:58.800" >}}
 {{< styled-paragraph class="lang-en" >}}And again, that's the core idea of 6.001, said in a slightly different way.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}像刚才说的，这是 6.001 的核心思想， 只是说法略有不同。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}像刚才说的，这是 6.001 的核心思想，只是说法略有不同。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:43:00.670" end="00:43:04.870" >}}
@@ -2247,12 +2247,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:43:08.000" end="00:43:13.130" >}}
 {{< styled-paragraph class="lang-en" >}}So about this time, there was a tradition in the electrical engineering computer science department of when the department did the transition from kind of power engineering to signals engineering in the late '50s, led by people like Ernie Guillemin and those sort legends at MIT, there was a very, very influential series of textbooks that came out, I think in the late '50s, early '60s, that almost sort of set the academic marker for the field of electrical engineering.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}有一次，电气工程与计算机科学系里有一个传统：系里在 50 年代末从电力工程转向信号工程的时候， 在 Ernie Guillemin 以及其他 MIT 那些传奇人物的带领下， 催生了一系列非常、非常有影响力的教材， 我想是在 50 年代末、60 年代初， 它们几乎为电气工程领域树立了学术标杆。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}有一次，电气工程与计算机科学系里有一个传统：系里在 50 年代末从电力工程转向信号工程的时候，在 Ernie Guillemin 以及其他 MIT 那些传奇人物的带领下，催生了一系列非常、非常有影响力的教材，我想是在 50 年代末、 60 年代初，它们几乎为电气工程领域树立了学术标杆。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:43:52.260" end="00:43:55.280" >}}
 {{< styled-paragraph class="lang-en" >}}So when we were there in the in the late '70s and very beginning of the '80s, Joel Moses and Gerry Wilson wanted to do that again.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以当我们在 70 年代末、80 年代初在那里时，Joel Moses 和 Gerry Wilson 想要再来一次。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以当我们在 70 年代末、 80 年代初在那里时， Joel Moses 和 Gerry Wilson 想要再来一次。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:44:02.350" end="00:44:05.540" >}}
@@ -2272,7 +2272,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:44:23.960" end="00:44:26.520" >}}
 {{< styled-paragraph class="lang-en" >}}And again, there was a lot of a lot of controversy there because people didn't believe it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}刚才也说了，这里有很多、很多争议， 因为人们不相信它。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}刚才也说了，这里有很多、很多争议，因为人们不相信它。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:44:29.340" end="00:44:32.540" >}}
@@ -2297,7 +2297,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:44:47.480" end="00:44:49.760" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: How has introductory curriculum in ECS changed since that time?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：从那时起，ECS（电气工程与计算机科学系）的入门课程发生了怎样的变化？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：从那时起， ECS （电气工程与计算机科学系）的入门课程发生了怎样的变化？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:44:56.720" end="00:44:57.590" >}}
@@ -2307,7 +2307,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:44:57.590" end="00:44:58.930" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh, it's changed a lot.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：哦，变化很大。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：哦，变化很大。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:44:58.930" end="00:45:00.430" >}}
@@ -2317,7 +2317,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:45:00.430" end="00:45:01.230" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: I don't know.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：我也说不太清楚。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：我也说不太清楚。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:45:01.230" end="00:45:06.890" >}}
@@ -2332,7 +2332,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:45:09.860" end="00:45:13.310" >}}
 {{< styled-paragraph class="lang-en" >}}So what happened in the department is the department kind of decided that the way students get introduced into the department should become more horizontal and less vertical, by which I mean when you go into the department before the new curriculum, there were a bunch of very intellectually deep courses.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以，系里发生的事情是， 系里某种程度上决定，学生进入这个系的引介方式应该变得更“横向”，而不是那么“纵向”，我的意思是，在新课程体系之前你进到系里的时候， 会有一系列极具智力深度的课程。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以，系里发生的事情是，系里某种程度上决定，学生进入这个系的引介方式应该变得更“横向”，而不是那么“纵向”，我的意思是，在新课程体系之前你进到系里的时候，会有一系列极具智力深度的课程。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:45:38.060" end="00:45:41.530" >}}
@@ -2342,7 +2342,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:45:43.700" end="00:45:45.970" >}}
 {{< styled-paragraph class="lang-en" >}}And then the idea was well, you shouldn't actually do that because if students want to think about what they want to major in, they ought to get an experience that's a lot more broad.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}之后的想法是，其实不应该这样做， 因为如果学生要思考自己主修什么专业，他们应该有更加广泛的体验。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}之后的想法是，其实不应该这样做，因为如果学生要思考自己主修什么专业，他们应该有更加广泛的体验。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:45:55.380" end="00:45:58.630" >}}
@@ -2372,12 +2372,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:46:12.060" end="00:46:15.930" >}}
 {{< styled-paragraph class="lang-en" >}}But I also had this feeling that the course needed to change.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但我也有种感觉， 这门课需要改变。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但我也有种感觉，这门课需要改变。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:46:18.380" end="00:46:23.460" >}}
 {{< styled-paragraph class="lang-en" >}}And both Gerry and I felt that as long as we were part of it, it wasn't going to change.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而且 Gerry 和我都觉得，只要我们还参与其中， 它就不会改变。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而且 Gerry 和我都觉得，只要我们还参与其中，它就不会改变。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:46:26.120" end="00:46:29.190" >}}
@@ -2387,7 +2387,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:46:29.190" end="00:46:39.100" >}}
 {{< styled-paragraph class="lang-en" >}}We had an official, what you call passing of the baton ceremony in one of the lectures where Bob Fano was there as the originator of this, who let us do 6.001.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们在其中一堂课上举行了一个正式的，所谓的交接仪式，Bob Fano 也在场，作为这门课的发起人，是他让我们开设了 6.001。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们在其中一堂课上举行了一个正式的，所谓的交接仪式， Bob Fano 也在场，作为这门课的发起人，是他让我们开设了 6.001 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:46:47.250" end="00:46:50.020" >}}
@@ -2432,7 +2432,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:47:10.530" end="00:47:13.290" >}}
 {{< styled-paragraph class="lang-en" >}}But sometimes you just need a kick in the pants to go someplace else.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但是有时候你就是得屁股上来一脚， 才能去到别的地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但是有时候你就是得屁股上来一脚，才能去到别的地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:47:15.150" end="00:47:17.530" >}}
@@ -2442,12 +2442,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:47:19.950" end="00:47:23.200" >}}
 {{< styled-paragraph class="lang-en" >}}And so I was part of the group, along with Leslie Kaelbling and Jacob White and Tomas Lozano-Perez, who sort of designed sort of the new course, which consciously was not about 6.001.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我成了新课程组的一员，和 Leslie Kaelbling， Jacob White 还有 Tomas Lozano-Perez 一起，基本上是他们设计了新课程，刻意不再围绕 6.001 展开。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我成了新课程组的一员，和 Leslie Kaelbling ， Jacob White 还有 Tomas Lozano-Perez 一起，基本上是他们设计了新课程，刻意不再围绕 6.001 展开。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:47:36.550" end="00:47:41.320" >}}
 {{< styled-paragraph class="lang-en" >}}But a lot of the biggest themes of 6.001 about extraction and modularity and the way you express things, they carry over into the new course.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但 6.001 中许多最重要的主题， 关于抽象、模块化，以及如何表达， 延续到了新课程中。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但 6.001 中许多最重要的主题，关于抽象、模块化，以及如何表达，延续到了新课程中。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:47:47.170" end="00:47:49.210" >}}
@@ -2477,7 +2477,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:47:59.430" end="00:48:02.550" >}}
 {{< styled-paragraph class="lang-en" >}}I don't want to take credit for 6.001 and that, but I want to say it was a very deep experience in how you think of software--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我不想把 6.001 和下面的话归功于己， 但我想说，它是关于如何思考软件的一个非常深入的体验——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我不想把 6.001 和下面的话归功于己，但我想说，它是关于如何思考软件的一个非常深入的体验——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:48:11.110" end="00:48:13.522" >}}
@@ -2497,12 +2497,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:48:20.400" end="00:48:22.500" >}}
 {{< styled-paragraph class="lang-en" >}}It was just profoundly influenced by that kind of very--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}深刻地影响了他们， 那种非常——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}深刻地影响了他们，那种非常——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:48:24.370" end="00:48:25.730" >}}
 {{< styled-paragraph class="lang-en" >}}we would sit in that class and talk about the philosophy sometimes.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们有时会坐在那门课上， 谈论哲学。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们有时会坐在那门课上，谈论哲学。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:48:26.980" end="00:48:30.180" >}}
@@ -2517,7 +2517,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:48:37.590" end="00:48:42.030" >}}
 {{< styled-paragraph class="lang-en" >}}And the fact that you talk to the minority of students who really, really glommed on to our way of thinking and they say, gee, we really wish MIT were still doing that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}事实是，如果你和少数那些真的、真的接受了我们思维方式的学生交谈，他们会说， 哎呀，我们真的希望 MIT 还那样教课。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}事实是，如果你和少数那些真的、真的接受了我们思维方式的学生交谈，他们会说，哎呀，我们真的希望 MIT 还那样教课。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:48:48.040" end="00:48:51.070" >}}
@@ -2527,7 +2527,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:48:52.150" end="00:48:55.160" >}}
 {{< styled-paragraph class="lang-en" >}}But in any case we're just doing something rather different in motivation now.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但无论如何，我们现在做的事情， 出发点已经大不相同。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但无论如何，我们现在做的事情，出发点已经大不相同。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:48:57.260" end="00:49:01.045" >}}
@@ -2537,7 +2537,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:49:01.045" end="00:49:02.980" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: And very consciously less deep.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：并且非常有意地不那么深入。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：并且非常有意地不那么深入。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:49:02.980" end="00:49:05.660" >}}
@@ -2552,12 +2552,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:49:07.780" end="00:49:12.950" >}}
 {{< styled-paragraph class="lang-en" >}}I mean how do they respond to the deep dive on the one hand or the sort of broad fire hose on the other of having to deal with all of these different things?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的意思是，他们对一边是这种深入的课程， 另一边是必须应付各种不同内容的 “大消防水枪”式的教学，有什么反应？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的意思是，他们对一边是这种深入的课程，另一边是必须应付各种不同内容的 “大消防水枪”式的教学，有什么反应？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:49:19.240" end="00:49:21.050" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: I think you can't generalize.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：我认为你不能一概而论。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：我认为你不能一概而论。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:49:21.050" end="00:49:21.580" >}}
@@ -2582,7 +2582,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:49:42.440" end="00:49:43.700" >}}
 {{< styled-paragraph class="lang-en" >}}But then there are a whole bunch of others who just want to--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但还有一大批其他学生， 他们只想——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但还有一大批其他学生，他们只想——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:49:45.480" end="00:49:47.650" >}}
@@ -2592,7 +2592,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:49:50.450" end="00:49:53.100" >}}
 {{< styled-paragraph class="lang-en" >}}I don't want to just because I'm going to major in electrical engineering, have to take a whole semester of this other stuff, most of which is kind of irrelevant to me.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我不想仅仅因为我要主修电气工程， 就非得学上一整学期这些其他的东西，其中大部分对我来说都无关紧要。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我不想仅仅因为我要主修电气工程，就非得学上一整学期这些其他的东西，其中大部分对我来说都无关紧要。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:50:00.510" end="00:50:03.170" >}}
@@ -2602,12 +2602,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:50:09.920" end="00:50:14.200" >}}
 {{< styled-paragraph class="lang-en" >}}Because we did this other thing at the same time, which as far as students I think has a much bigger impact.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}因为我们同时还做了另一件事， 我认为就学生而言，影响要大得多。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}因为我们同时还做了另一件事，我认为就学生而言，影响要大得多。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:50:18.550" end="00:50:20.920" >}}
 {{< styled-paragraph class="lang-en" >}}So there's a whole other stream which we haven't talked about at MIT and active learning, which comes from the stuff I've been doing with the Educational Technology Council.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}在 MIT 还有另一条我们还没谈到的脉络： 主动学习（active learning），源于我和教育技术委员会（Educational Technology Council） 一直在做的事情。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}在 MIT 还有另一条我们还没谈到的脉络：主动学习（ active learning ），源于我和教育技术委员会（ Educational Technology Council ）一直在做的事情。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:50:28.380" end="00:50:34.600" >}}
@@ -2632,12 +2632,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:50:57.090" end="00:51:00.110" >}}
 {{< styled-paragraph class="lang-en" >}}And there's kind of a pyramidal structure where there are undergraduate laboratory assistants, and each group of them is kind of supervised by a graduate student TA, and each group of graduate student TA's are supervised by the actual course faculty.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那里有一种金字塔结构， 先是本科生实验室助理， 他们分组后由研究生助教监督， 研究生助教再分组后再由真正的课程教师监督。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那里有一种金字塔结构，先是本科生实验室助理，他们分组后由研究生助教监督，研究生助教再分组后再由真正的课程教师监督。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:51:12.460" end="00:51:16.160" >}}
 {{< styled-paragraph class="lang-en" >}}And we're all sort of mixing it up in the course and sitting there talking to individual students.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们所有人都在课程中混合在一起， 坐在那里与单个学生交谈。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们所有人都在课程中混合在一起，坐在那里与单个学生交谈。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:51:19.980" end="00:51:23.710" >}}
@@ -2647,7 +2647,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:51:28.650" end="00:51:32.760" >}}
 {{< styled-paragraph class="lang-en" >}}And that's such an enormous change in style, that when you kind of ask the students well, do you like it more, how you react to it more, that's got to dominate what we were doing in terms of content.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这种风格上的改变是如此巨大，以至于决定课程内容的主要因素是，我们去问学生， 嗯，你们更喜欢它吗，怎么能让你更有反应呢？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这种风格上的改变是如此巨大，以至于决定课程内容的主要因素是，我们去问学生，嗯，你们更喜欢它吗，怎么能让你更有反应呢？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:51:41.680" end="00:51:42.670" >}}
@@ -2662,7 +2662,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:51:49.030" end="00:51:52.730" >}}
 {{< styled-paragraph class="lang-en" >}}Before turning to that, at the risk of asking to generalize again about MIT students, is there any way of talking about how or whether MIT students have changed over the course of your career?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}在转向那个话题之前，虽然又可能要冒昧地引出对 MIT 学生的一概而论，但能否谈谈在你的职业生涯中，MIT 学生是如何， 或者是否发生了变化？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}在转向那个话题之前，虽然又可能要冒昧地引出对 MIT 学生的一概而论，但能否谈谈在你的职业生涯中， MIT 学生是如何，或者是否发生了变化？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:52:03.391" end="00:52:06.080" >}}
@@ -2682,17 +2682,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:52:28.770" end="00:52:30.890" >}}
 {{< styled-paragraph class="lang-en" >}}Marilee Jones, who was admissions director, actually thought about this a lot.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当时的招生主任 Marilee Jones，实际上对此思考了很多。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当时的招生主任 Marilee Jones ，实际上对此思考了很多。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:52:32.525" end="00:52:37.295" >}}
 {{< styled-paragraph class="lang-en" >}}Remember in the '60s, MIT took half of its applicants.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}还记得在 60 年代，MIT 会录取一半的申请者。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}还记得在 60 年代， MIT 会录取一半的申请者。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:52:39.570" end="00:52:42.100" >}}
 {{< styled-paragraph class="lang-en" >}}And now it takes what, 10 percent, under 10 percent?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而现在录取多少，10%，不到 10%？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而现在录取多少， 10%，不到 10%？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:52:47.670" end="00:52:53.510" >}}
@@ -2727,7 +2727,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:53:37.710" end="00:53:41.760" >}}
 {{< styled-paragraph class="lang-en" >}}Now I don't know whether that's a generational thing or whether it's this particular kind of influence at the top schools like MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我不知道这是一整代人的事情， 还是像 MIT 这样的顶尖学校所特有的影响。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我不知道这是一整代人的事情，还是像 MIT 这样的顶尖学校所特有的影响。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:53:45.240" end="00:53:48.050" >}}
@@ -2742,7 +2742,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:54:02.070" end="00:54:04.550" >}}
 {{< styled-paragraph class="lang-en" >}}And now we get upset if students crack into an elevator.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而现在，如果学生黑进了电梯， 我们都会感到不安。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而现在，如果学生黑进了电梯，我们都会感到不安。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:54:06.730" end="00:54:11.050" >}}
@@ -2772,17 +2772,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:54:24.290" end="00:54:30.820" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: What price do we pay if the students are more sort of quick to fall in line or to do what's expected, rather than to push boundaries, I mean if any?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：如果学生更循规蹈矩、按部就班， 而不是去突破边界，我们会付出什么代价，如果有的话？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：如果学生更循规蹈矩、按部就班，而不是去突破边界，我们会付出什么代价，如果有的话？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:54:38.930" end="00:54:41.160" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: I think its brilliance, its creativity, its achievement.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON:我认为代价是才华、 创造力和成就。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON:我认为代价是才华、创造力和成就。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:54:42.410" end="00:54:47.310" >}}
 {{< styled-paragraph class="lang-en" >}}When you think about any place or MIT, you sort of think in terms of the characters.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当你去思考一个地方时，包括 MIT，你多少会用那里的“人物”去衡量。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当你去思考一个地方时，包括 MIT ，你多少会用那里的“人物”去衡量。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:54:54.610" end="00:54:57.710" >}}
@@ -2807,12 +2807,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:55:11.520" end="00:55:15.780" >}}
 {{< styled-paragraph class="lang-en" >}}And the more we worry about those people are going to be doing something destructive or they'll be wasting time or they'll be wasting resources or something, the more you lose that kind of spice.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而我们越是担心这些人会做出破坏性的事情，或者浪费时间， 或者浪费资源之类的，我们就越会失去那种味道。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而我们越是担心这些人会做出破坏性的事情，或者浪费时间，或者浪费资源之类的，我们就越会失去那种味道。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:55:24.430" end="00:55:29.260" >}}
 {{< styled-paragraph class="lang-en" >}}And I sort of hope MIT never loses that, although there's just a lot of I don't quite want to say regimentation, but it's just I'd say a little lack of tolerance for the oddballs.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我希望 MIT 永远不要失去它， 尽管现在有很多的，我不太想说是教条，但我会说是有点缺少对怪才的容忍。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我希望 MIT 永远不要失去它，尽管现在有很多的，我不太想说是教条，但我会说是有点缺少对怪才的容忍。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:55:38.880" end="00:55:42.520" >}}
@@ -2822,7 +2822,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:55:42.520" end="00:55:46.130" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So turning to educational technology, you've been deeply involved in any number of initiatives and deployment of programs since you've been at MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：那么转到教育技术这个话题， 自从你来到 MIT 之后就一直深度参与了许多项目的倡议和实施。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：那么转到教育技术这个话题，自从你来到 MIT 之后就一直深度参与了许多项目的倡议和实施。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:55:54.460" end="00:55:55.940" >}}
@@ -2847,7 +2847,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:56:06.994" end="00:56:09.960" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So part of it quite frankly was this accident about going over to the AI Lab, meeting Papert in the elevator.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON: 其中一部分，说实话是机缘巧合， 那次偶然去 AI 实验室并在电梯里遇到 Papert。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON: 其中一部分，说实话是机缘巧合，那次偶然去 AI 实验室并在电梯里遇到 Papert 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:56:14.980" end="00:56:20.250" >}}
@@ -2877,7 +2877,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:56:36.310" end="00:56:41.160" >}}
 {{< styled-paragraph class="lang-en" >}}So even going back to the original sort of Logo turtle, which is the first thing I worked on, it's not that oh, it's sort of cool.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以即使回到最初的 Logo 海龟， 那是我参与的第一个项目，不是说 “哦，这挺酷的”。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以即使回到最初的 Logo 海龟，那是我参与的第一个项目，不是说 “哦，这挺酷的”。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:56:44.990" end="00:56:46.980" >}}
@@ -2907,7 +2907,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:57:14.216" end="00:57:17.840" >}}
 {{< styled-paragraph class="lang-en" >}}oh, it didn't come until the late '80s or even the mid-'90s, where I started thinking about the institution in educational technology.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}哦，那要到 80 年代末， 甚至 90 年代中期，我才开始思考学校之于教育技术的意义。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}哦，那要到 80 年代末，甚至 90 年代中期，我才开始思考学校之于教育技术的意义。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:57:23.580" end="00:57:28.430" >}}
@@ -2932,7 +2932,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:57:54.600" end="00:57:59.190" >}}
 {{< styled-paragraph class="lang-en" >}}The person who for me embodies that and still embodies that is Chuck Vest. His whole presidency was this sense of is MIT acting as a responsible, ethical being in what it can do?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}对我而言，体现这一点、并且至今仍然体现这一点的人是 Chuck Vest。他的整个校长任期都贯穿着这样一种思考： MIT 在自身所能做的事情中，是否在扮演一个负责任、有道德的角色？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}对我而言，体现这一点、并且至今仍然体现这一点的人是 Chuck Vest 。他的整个校长任期都贯穿着这样一种思考： MIT 在自身所能做的事情中，是否在扮演一个负责任、有道德的角色？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:58:11.990" end="00:58:17.890" >}}
@@ -2942,7 +2942,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:58:17.890" end="00:58:21.980" >}}
 {{< styled-paragraph class="lang-en" >}}It's not only how do we behave towards our own student body, it's how do we behave towards the world?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这不仅关乎我们如何对待自己的学生群体， 还关乎我们如何对待整个世界？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这不仅关乎我们如何对待自己的学生群体，还关乎我们如何对待整个世界？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:58:24.890" end="00:58:29.190" >}}
@@ -2967,7 +2967,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:58:54.510" end="00:58:58.560" >}}
 {{< styled-paragraph class="lang-en" >}}So even going back to like the book that Gerry Sussman and I wrote, there was always this sense that when you're writing a textbook at MIT, it's not really that they're going to be big sales about it, because in our case it was gosh, we're teaching computer programming and it's got calculus in chapter one.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}甚至最早 Gerry Sussman 和我写的那本书，我们一直有种感觉， 给 MIT 写教科书，并不会真的指望能卖出很多，因为就我们那本书而言，老天， 我们是要讲计算机科学，而且第一章还带着微积分。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}甚至最早 Gerry Sussman 和我写的那本书，我们一直有种感觉，给 MIT 写教科书，并不会真的指望能卖出很多，因为就我们那本书而言，老天，我们是要讲计算机科学，而且第一章还带着微积分。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:59:14.170" end="00:59:15.410" >}}
@@ -2982,12 +2982,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:59:22.360" end="00:59:26.990" >}}
 {{< styled-paragraph class="lang-en" >}}So a sense of people are watching and it matters what you do.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}就有一种意识，人们在看着， 所以你的所作所为很重要。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}就有一种意识，人们在看着，所以你的所作所为很重要。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:59:30.170" end="00:59:32.780" >}}
 {{< styled-paragraph class="lang-en" >}}And that's kind of a little bit what's behind OpenCourseWare.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这有点像 OpenCourseWare（开放课程） 背后的理念。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这有点像 OpenCourseWare （开放课程）背后的理念。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:59:33.440" end="00:59:34.840" >}}
@@ -2997,12 +2997,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="00:59:34.840" end="00:59:40.750" >}}
 {{< styled-paragraph class="lang-en" >}}The original notion about OpenCourseWare is we thought that our audience in OpenCourseWare were other educators.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}关于 OpenCourseWare 最初的想法是， 我们认为开放课程的受众是其他教育者。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}关于 OpenCourseWare 最初的想法是，我们认为开放课程的受众是其他教育者。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="00:59:48.040" end="00:59:53.450" >}}
 {{< styled-paragraph class="lang-en" >}}And the way that whole initiative was crafted where we said it's really important that we show all MIT courses because what you're trying to exhibit there, your model was--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}整个倡议构筑于一个想法上，就是我们一定要展示 MIT 所有的课程， 因为你想展示的是， 你的榜样作用是——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}整个倡议构筑于一个想法上，就是我们一定要展示 MIT 所有的课程，因为你想展示的是，你的榜样作用是——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:00:06.080" end="01:00:07.060" >}}
@@ -3017,7 +3017,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:00:18.280" end="01:00:23.310" >}}
 {{< styled-paragraph class="lang-en" >}}And then you sort of see displayed out before you is what MIT, the top institution in the world, thinks is chemical engineering.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后你就能看到展示在你面前的是 MIT，世界顶尖学府， 所理解的化学工程。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后你就能看到展示在你面前的是 MIT ，世界顶尖学府，所理解的化学工程。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:00:28.700" end="01:00:32.070" >}}
@@ -3027,7 +3027,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:00:32.850" end="01:00:36.260" >}}
 {{< styled-paragraph class="lang-en" >}}Of course it didn't quite work that way because what we say, oh my god, they're all these people who actually want to learn chemical engineering, who look at this stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当然，事情并没有完全像那样发展， 因为我们发现，老天爷，有那么多人是真的想来学习化学工程，来看这些课程。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当然，事情并没有完全像那样发展，因为我们发现，老天爷，有那么多人是真的想来学习化学工程，来看这些课程。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:00:43.400" end="01:00:47.610" >}}
@@ -3042,7 +3042,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:00:54.150" end="01:00:57.100" >}}
 {{< styled-paragraph class="lang-en" >}}But to get back to the original ethos of that, is you're setting yourself up as a model and you're trying to influence the influencers.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但是回到最初的理想， 你是在把自己树立为榜样， 去影响那些决策者。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但是回到最初的理想，你是在把自己树立为榜样，去影响那些决策者。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:01:03.850" end="01:01:06.060" >}}
@@ -3067,7 +3067,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:01:21.540" end="01:01:26.230" >}}
 {{< styled-paragraph class="lang-en" >}}You have an obligation to sort of see that it works out right with respect to how you think the world is evolving and how you think the internet is evolving.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}你有义务确保它朝着正确的方向发展， 基于你对世界会如何演变、 互联网会如何演变的理解。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}你有义务确保它朝着正确的方向发展，基于你对世界会如何演变、互联网会如何演变的理解。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:01:31.370" end="01:01:34.440" >}}
@@ -3087,7 +3087,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:01:45.340" end="01:01:49.480" >}}
 {{< styled-paragraph class="lang-en" >}}I know that when I first heard about it at the time it was first announced, I guess certainly not before then, it was somewhat from my very limited perspective it seemed very shocking that MIT would do that.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我知道当我第一次听说它的时候，也就是在刚宣布它时，我想在那之前肯定没有， 从我非常有限的视角来看，MIT 竟然会这样做，真是相当令人震惊。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我知道当我第一次听说它的时候，也就是在刚宣布它时，我想在那之前肯定没有，从我非常有限的视角来看， MIT 竟然会这样做，真是相当令人震惊。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:01:59.750" end="01:02:03.470" >}}
@@ -3107,7 +3107,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:02:16.370" end="01:02:26.040" >}}
 {{< styled-paragraph class="lang-en" >}}Again, if you go back to the late '90s, right, 1998, 1999, 2000, there was this sense, if you read in the educational technology press or the education news, that universities were sitting on a gold mine.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}又说回去，假如你回到 90 年代，对， 1998，1999，2000，当时有一种观点，如果你去读关于教育技术的媒体或者教育新闻， 说大学正坐在一座金矿上。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}又说回去，假如你回到 90 年代，对， 1998 ， 1999 ， 2000 ，当时有一种观点，如果你去读关于教育技术的媒体或者教育新闻，说大学正坐在一座金矿上。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:02:36.980" end="01:02:44.170" >}}
@@ -3117,7 +3117,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:02:50.500" end="01:02:57.670" >}}
 {{< styled-paragraph class="lang-en" >}}And I just loved it that in that climate, MIT said hey, we're giving it away.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而我非常喜欢的是，在那种气候下，MIT 却说， 嘿，我们不要钱。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而我非常喜欢的是，在那种气候下， MIT 却说，嘿，我们不要钱。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:03:00.350" end="01:03:05.790" >}}
@@ -3132,7 +3132,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:03:09.410" end="01:03:13.980" >}}
 {{< styled-paragraph class="lang-en" >}}That stuff you can watch on television, we just give that away.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那些你在电视上看到的东西， 我们免费赠送。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那些你在电视上看到的东西，我们免费赠送。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:03:15.210" end="01:03:18.070" >}}
@@ -3152,7 +3152,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:03:28.670" end="01:03:35.850" >}}
 {{< styled-paragraph class="lang-en" >}}But in fact what happened is Bob Brown, who was provost then, formed the Council on Educational Technology, which he and I ran together for a couple years.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但实际上发生的是，当时担任教务长的 Bob Brown 成立了教育技术委员会（Council on Educational Technology）， 他和我在几年里共同主持这个委员会。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但实际上发生的是，当时担任教务长的 Bob Brown 成立了教育技术委员会（ Council on Educational Technology ），他和我在几年里共同主持这个委员会。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:03:48.220" end="01:03:53.440" >}}
@@ -3187,7 +3187,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:04:16.050" end="01:04:18.050" >}}
 {{< styled-paragraph class="lang-en" >}}I forget with the name was, but there was a council that sort of talked about MIT's agenda going ahead and talked about all sorts of stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我忘了它的名字，但有一个委员会算是讨论了 MIT 未来的发展议程， 讨论了各种各样的事务。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我忘了它的名字，但有一个委员会算是讨论了 MIT 未来的发展议程，讨论了各种各样的事务。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:04:23.610" end="01:04:28.830" >}}
@@ -3207,17 +3207,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:04:32.740" end="01:04:35.810" >}}
 {{< styled-paragraph class="lang-en" >}}MIT should focus 02139.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}MIT 应该专注于 02139（译者注：麻省理工学院的邮政编码）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}MIT 应该专注于 02139 （译者注：麻省理工学院的邮政编码）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:04:35.810" end="01:04:39.640" >}}
 {{< styled-paragraph class="lang-en" >}}And there was this grudging idea that there was something outside in terms of the opportunities for MIT going forward in the future.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这里带着一种勉强承认的感觉，认为对于 MIT 未来的发展机遇来说， 外面的世界还是有点什么的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这里带着一种勉强承认的感觉，认为对于 MIT 未来的发展机遇来说，外面的世界还是有点什么的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:04:44.600" end="01:04:47.310" >}}
 {{< styled-paragraph class="lang-en" >}}And then there was another committee which said the opposite, that was run by Nick Negroponte and Mike Dertouzos, that basically said, gosh, MIT is the most wonderful place in the world.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后另一个委员会持相反意见，由 Nick Negroponte 和 Mike Dertouzos 领导， 基本上是说：老天，MIT 是世界上最棒的地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后另一个委员会持相反意见，由 Nick Negroponte 和 Mike Dertouzos 领导，基本上是说：老天， MIT 是世界上最棒的地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:04:54.870" end="01:04:55.860" >}}
@@ -3227,7 +3227,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:04:55.860" end="01:04:58.990" >}}
 {{< styled-paragraph class="lang-en" >}}And we should just take millions of dollars and invest this in all sorts of technology things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们应该拿出数百万美元， 投资于各种技术领域。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们应该拿出数百万美元，投资于各种技术领域。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:05:01.380" end="01:05:06.540" >}}
@@ -3257,32 +3257,32 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:05:26.720" end="01:05:30.250" >}}
 {{< styled-paragraph class="lang-en" >}}And so Bob Brown sort of wanted to find a way to mediate this stuff, to think about what's the way forward, looking at these things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以 Bob Brown 是想找个办法来调和这些分歧，在审视这些情况时， 思考未来的路该怎么走。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以 Bob Brown 是想找个办法来调和这些分歧，在审视这些情况时，思考未来的路该怎么走。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:05:34.380" end="01:05:39.280" >}}
 {{< styled-paragraph class="lang-en" >}}And he formed the Council on Educational Technology, which it's kind of hidden agenda was to do that, find a path.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}于是他成立了教育技术委员会（Council on Educational Technology）， 它多少有点隐藏的议题就是要这么做，找到一条出路。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}于是他成立了教育技术委员会（ Council on Educational Technology ），它多少有点隐藏的议题就是要这么做，找到一条出路。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:05:43.460" end="01:05:52.020" >}}
 {{< styled-paragraph class="lang-en" >}}So one of the things we did is we actually got McKinsey in to do a consulting--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以我们做的一件事是，我们真的请来了麦肯锡（McKinsey）做咨询——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以我们做的一件事是，我们真的请来了麦肯锡（ McKinsey ）做咨询——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:05:53.210" end="01:05:55.980" >}}
 {{< styled-paragraph class="lang-en" >}}their standard kind of strategic consulting, saying where we are we going, what are the opportunities?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他们那种标准的战略咨询， 说我们的方向是什么，有哪些机遇？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他们那种标准的战略咨询，说我们的方向是什么，有哪些机遇？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:05:58.460" end="01:06:01.170" >}}
 {{< styled-paragraph class="lang-en" >}}And we kind of said MIT is doing a whole bunch of disjointed things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们大致表示，MIT 正在做一大堆互不相关的事情。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们大致表示， MIT 正在做一大堆互不相关的事情。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:06:04.180" end="01:06:07.680" >}}
 {{< styled-paragraph class="lang-en" >}}One of the consultant's had a really nice graphic he made with a whole bunch of sailboats that were MIT things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}其中一位顾问做了一张很漂亮的图， 上面画着一大堆帆船， 代表 MIT 的各种项目。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}其中一位顾问做了一张很漂亮的图，上面画着一大堆帆船，代表 MIT 的各种项目。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:06:10.000" end="01:06:12.190" >}}
@@ -3292,12 +3292,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:06:13.440" end="01:06:15.630" >}}
 {{< styled-paragraph class="lang-en" >}}And we did a survey of the MIT community about what's important.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们还对 MIT 社区做了一项调查， 关于“什么是重要的”。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们还对 MIT 社区做了一项调查，关于“什么是重要的”。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:06:21.460" end="01:06:27.460" >}}
 {{< styled-paragraph class="lang-en" >}}And what was interesting is not coming from us on this ed tech council, but as said back to us by the consultants, it said, gee, what's really important at MIT is the integration of research and education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}结果有趣的结论并不是来自我们教育技术委员会，而是由顾问们反馈给我们的， 他们说，哎，MIT 真正重要的是研究与教育的融合。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}结果有趣的结论并不是来自我们教育技术委员会，而是由顾问们反馈给我们的，他们说，哎， MIT 真正重要的是研究与教育的融合。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:06:42.430" end="01:06:43.270" >}}
@@ -3337,12 +3337,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:07:17.800" end="01:07:19.470" >}}
 {{< styled-paragraph class="lang-en" >}}And there's the sense if you're on the faculty, you're supposed to do all of these things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}并且有一种观念是，如果你在教师团队中， 你就应该承担所有这些职责。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}并且有一种观念是，如果你在教师团队中，你就应该承担所有这些职责。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:07:21.730" end="01:07:27.610" >}}
 {{< styled-paragraph class="lang-en" >}}So there's this notion of if we really went and like oh, the Harvard Extension School, had a whole bunch of people who are not actual Harvard faculty who were teaching this thing, ahh, that's not the sort of thing MIT does.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以我们的想法是，如果我们真的像哈佛大学继续教育学院（Harvard Extension School）那样， 让一大批不是真正的哈佛教师的人来讲课， 啊，那可不是 MIT 的做法。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以我们的想法是，如果我们真的像哈佛大学继续教育学院（ Harvard Extension School ）那样，让一大批不是真正的哈佛教师的人来讲课，啊，那可不是 MIT 的做法。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:07:38.610" end="01:07:42.080" >}}
@@ -3352,12 +3352,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:07:42.080" end="01:07:45.410" >}}
 {{< styled-paragraph class="lang-en" >}}And eventually we were sort of saying as MIT goes forward, do we think about expanding to new communities?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}最终我们在讨论的是，随着 MIT 向前发展， 我们是否要考虑扩展到新的群体？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}最终我们在讨论的是，随着 MIT 向前发展，我们是否要考虑扩展到新的群体？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:07:48.830" end="01:07:55.280" >}}
 {{< styled-paragraph class="lang-en" >}}Right now we think of our potential student body as the top whatever it is, two percent, three percent of students in the world.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}目前我们把潜在学生群体定义为排名顶尖， 大概是全球排名前 2% 或 3% 的学生。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}目前我们把潜在学生群体定义为排名顶尖，大概是全球排名前 2% 或 3% 的学生。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:08:05.200" end="01:08:08.590" >}}
@@ -3397,7 +3397,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:08:58.970" end="01:09:00.853" >}}
 {{< styled-paragraph class="lang-en" >}}So that was one of these things called lifelong education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以那就是一种所谓的 “终身教育”（lifelong education）的东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以那就是一种所谓的 “终身教育”（ lifelong education ）的东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:09:02.103" end="01:09:04.729" >}}
@@ -3417,17 +3417,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:09:17.229" end="01:09:19.460" >}}
 {{< styled-paragraph class="lang-en" >}}We actually did another consulting engagement with Booz Allen, who came in as very analytical, saying is this going to work?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们实际上请来了 Booz Allen 做另一轮咨询，他们非常分析性地来， 讨论“这行得通吗？”{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们实际上请来了 Booz Allen 做另一轮咨询，他们非常分析性地来，讨论“这行得通吗？”{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:09:25.149" end="01:09:30.630" >}}
 {{< styled-paragraph class="lang-en" >}}And basically after long drawn-out things and analyses and talking to possible clients and competitors and offices at MIT about everything, they found it wasn't going to work.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后基本上在经过了漫长的过程，各种分析， 与潜在客户、竞争对手以及 MIT 内部各办公室进行方方面面的沟通之后，他们发现行不通。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后基本上在经过了漫长的过程，各种分析，与潜在客户、竞争对手以及 MIT 内部各办公室进行方方面面的沟通之后，他们发现行不通。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:09:38.520" end="01:09:44.040" >}}
 {{< styled-paragraph class="lang-en" >}}So they called in one of their spreadsheet ninjas, who made this giant thing with every possible parameter you could imagine, what are the production values, how long is the course, what's the client thing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}于是他们找来了他们的一位电子表格高手， 做了一个巨大的东西，包含了你能想象到的每一个可能的参数，产品价值有哪些、 课程多长、客户情况如何。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}于是他们找来了他们的一位电子表格高手，做了一个巨大的东西，包含了你能想象到的每一个可能的参数，产品价值有哪些、课程多长、客户情况如何。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:09:52.350" end="01:09:56.600" >}}
@@ -3437,12 +3437,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:10:05.740" end="01:10:08.570" >}}
 {{< styled-paragraph class="lang-en" >}}So this whole committee was actually pretty-- oh my god, what are we going to do?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}于是整个委员会当时都相当——老天爷， 我们咋办啊？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}于是整个委员会当时都相当——老天爷，我们咋办啊？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:10:11.620" end="01:10:13.430" >}}
 {{< styled-paragraph class="lang-en" >}}And finally, I think it was Dick Yue, there's some famous story--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}最后，我想应该是 Dick Yue， 有个很著名的故事——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}最后，我想应该是 Dick Yue ，有个很著名的故事——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:10:14.600" end="01:10:15.590" >}}
@@ -3467,7 +3467,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:10:25.520" end="01:10:28.270" >}}
 {{< styled-paragraph class="lang-en" >}}But then you sort of think well you know, if we're not going to make money charging alumni and other people to do this, maybe we can get foundations to pay for this.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但你接着会想到，好吧， 如果我们无法通过向校友和其他人收费来赚钱，也许我们可以让基金会来买单。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但你接着会想到，好吧，如果我们无法通过向校友和其他人收费来赚钱，也许我们可以让基金会来买单。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:10:36.340" end="01:10:39.900" >}}
@@ -3492,7 +3492,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:10:53.320" end="01:10:56.210" >}}
 {{< styled-paragraph class="lang-en" >}}And he did this amazing thing, which is whenever the consultants would do anything, they'd interview somebody, and he'd sort of xerox the sheet.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}他做了一件非常厉害的事情，就是每当顾问做什么事情时，比如要访谈某人， 他就会把那张纸复印下来。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}他做了一件非常厉害的事情，就是每当顾问做什么事情时，比如要访谈某人，他就会把那张纸复印下来。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:11:01.020" end="01:11:03.210" >}}
@@ -3507,7 +3507,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:11:07.790" end="01:11:10.680" >}}
 {{< styled-paragraph class="lang-en" >}}And when he'd come in to make a presentation, he'd put the notebook on the desk, saying the committee has done this research for its conclusions.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当他来做报告时，他会把笔记本往桌上一放，说委员会做了这项研究， 得出了这些结论。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当他来做报告时，他会把笔记本往桌上一放，说委员会做了这项研究，得出了这些结论。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:11:16.300" end="01:11:19.430" >}}
@@ -3532,7 +3532,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:11:28.810" end="01:11:33.300" >}}
 {{< styled-paragraph class="lang-en" >}}But the committee's report was this incredibly precise reasoned out, spreadsheet-backed, financial model thing about how we could do some for pay lifelong learning things with careful analysis.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}委员会的报告是一份极其精确、 经过推敲、有电子表格支撑的财务模型，说明我们如何做一些付费的终身学习项目，分析得很仔细。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}委员会的报告是一份极其精确、经过推敲、有电子表格支撑的财务模型，说明我们如何做一些付费的终身学习项目，分析得很仔细。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:11:44.780" end="01:11:47.530" >}}
@@ -3542,12 +3542,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:11:47.530" end="01:11:49.180" >}}
 {{< styled-paragraph class="lang-en" >}}It said, and by the way, we have this other idea that we should just give it away.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它说，顺便提一下，我们还有另一个想法， 我们应该干脆把这些免费。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它说，顺便提一下，我们还有另一个想法，我们应该干脆把这些免费。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:11:50.830" end="01:11:52.620" >}}
 {{< styled-paragraph class="lang-en" >}}And we'll call it OpenCourseWare.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们会叫它 OpenCourseWare。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们会叫它 OpenCourseWare 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:11:52.620" end="01:11:54.770" >}}
@@ -3557,7 +3557,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:11:54.770" end="01:12:00.680" >}}
 {{< styled-paragraph class="lang-en" >}}And then to its tremendous credit, Chuck Bastian, Bob and Tom Magnanti got inspired by this and said yeah, this one seems right.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}接着，极为难能可贵的是，Chuck Bastian（注：此处原文或为 Chuck Vest）、 Bob 和 Tom Magnanti 受此启发，说，对， 这个看上去靠谱。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}接着，极为难能可贵的是， Chuck Bastian （注：此处原文或为 Chuck Vest ）、 Bob 和 Tom Magnanti 受此启发，说，对，这个看上去靠谱。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:12:05.230" end="01:12:09.210" >}}
@@ -3577,7 +3577,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:12:16.940" end="01:12:18.820" >}}
 {{< styled-paragraph class="lang-en" >}}And we did a bunch of things, talked with the faculty over the year.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们也做了一系列的事情， 在这一年里与教师们沟通。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们也做了一系列的事情，在这一年里与教师们沟通。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:12:20.230" end="01:12:22.810" >}}
@@ -3602,7 +3602,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:12:36.390" end="01:12:38.800" >}}
 {{< styled-paragraph class="lang-en" >}}We were thinking about here MIT is exhibiting itself as a model.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们考虑的是，MIT 要把自己作为典范展示。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们考虑的是， MIT 要把自己作为典范展示。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:12:41.110" end="01:12:44.800" >}}
@@ -3637,7 +3637,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:13:04.670" end="01:13:07.740" >}}
 {{< styled-paragraph class="lang-en" >}}And there were lots and lots of places that when we did the original McKinsey analysis, were saying, oh god, these people are starting.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当我们进行最初的麦肯锡分析时， 有很多很多地方都在说，噢天哪， 这些人要开始了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当我们进行最初的麦肯锡分析时，有很多很多地方都在说，噢天哪，这些人要开始了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:13:12.280" end="01:13:13.110" >}}
@@ -3657,7 +3657,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:13:17.470" end="01:13:19.670" >}}
 {{< styled-paragraph class="lang-en" >}}And it was just great that we can be so counter-intuitive as MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而作为 MIT，我们能如此反直觉地行事，这真的很棒。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而作为 MIT ，我们能如此反直觉地行事，这真的很棒。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:13:20.960" end="01:13:24.570" >}}
@@ -3677,17 +3677,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:13:36.290" end="01:13:38.630" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: It was surprisingly supportive.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：出人意料地支持。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：出人意料地支持。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:13:38.630" end="01:13:41.730" >}}
 {{< styled-paragraph class="lang-en" >}}And in fact Larry Bacow, who was chancellor then, basically said, look, you cannot go ahead with this unless you really go, really talk to the faculty.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}事实上，当时担任校长的 Larry Bacow 基本上说， 听着，除非你们真的、真的去和教职工沟通，否则这个项目无法推进。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}事实上，当时担任校长的 Larry Bacow 基本上说，听着，除非你们真的、真的去和教职工沟通，否则这个项目无法推进。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:13:48.110" end="01:13:50.700" >}}
 {{< styled-paragraph class="lang-en" >}}So there was a group of about four or five of us who made presentations to every single MIT department.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以，我们有一个大约四五人的小组， 向 MIT 的每一个系做了演示。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以，我们有一个大约四五人的小组，向 MIT 的每一个系做了演示。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:13:54.110" end="01:13:56.200" >}}
@@ -3697,7 +3697,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:13:56.200" end="01:13:59.670" >}}
 {{< styled-paragraph class="lang-en" >}}I'd say the predominant negative reaction was oh my god, you want to take my class notes and put them out on the internet for everybody to look at.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我得说，主要的负面反应是， 天哪，你们要把我的课堂讲义拿到互联网上让所有人都看到。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我得说，主要的负面反应是，天哪，你们要把我的课堂讲义拿到互联网上让所有人都看到。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:14:11.210" end="01:14:12.450" >}}
@@ -3742,7 +3742,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:14:45.050" end="01:14:47.410" >}}
 {{< styled-paragraph class="lang-en" >}}It was much more than the other reaction I said: well god, you're showing my stuff in other than its pristine state after I've worked on the publication manuscript for a long time.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}更多的是我提到的另一种反应： 唉老天，在我花了很长时间打磨出版稿件之后，你却要以不完美的状态展示我的东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}更多的是我提到的另一种反应：唉老天，在我花了很长时间打磨出版稿件之后，你却要以不完美的状态展示我的东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:14:56.530" end="01:14:58.170" >}}
@@ -3752,12 +3752,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:14:58.170" end="01:15:01.050" >}}
 {{< styled-paragraph class="lang-en" >}}And it certainly helped that the administration was so incredibly visibly positive about this.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而且管理层对这件事非常明显地积极支持， 肯定也起到了很大帮助。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而且管理层对这件事非常明显地积极支持，肯定也起到了很大帮助。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:15:03.420" end="01:15:06.770" >}}
 {{< styled-paragraph class="lang-en" >}}But again OpenCourseWare got positioned.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以话说回来，OpenCourseWare 确定了它的地位。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以话说回来， OpenCourseWare 确定了它的地位。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:15:10.030" end="01:15:12.400" >}}
@@ -3777,7 +3777,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:15:22.480" end="01:15:25.560" >}}
 {{< styled-paragraph class="lang-en" >}}So it wasn't a administration driven, something, something, something.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}它不是由行政部门推动的， 诸如此类的东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}它不是由行政部门推动的，诸如此类的东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:15:27.080" end="01:15:31.030" >}}
@@ -3792,17 +3792,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:15:38.310" end="01:15:43.150" >}}
 {{< styled-paragraph class="lang-en" >}}Ten plus years out, what has OCW's impact been on the broader world?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}十多年过去了，OCW 对更广泛的世界产生了什么影响？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}十多年过去了， OCW 对更广泛的世界产生了什么影响？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:15:44.900" end="01:15:47.300" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh, well OCW created what's called Open Educational Resources.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON: 哦，OCW 开创了所谓的开放教育资源（Open Educational Resources）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON: 哦， OCW 开创了所谓的开放教育资源（ Open Educational Resources ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:15:49.800" end="01:15:58.130" >}}
 {{< styled-paragraph class="lang-en" >}}So there is now an enormous I want to say movement that's called OER, Open Educational Resources.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以现在有一个巨大的，我想称之为运动,叫做 OER， 开放教育资源（Open Educational Resources）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以现在有一个巨大的，我想称之为运动,叫做 OER ，开放教育资源（ Open Educational Resources ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:16:01.080" end="01:16:07.690" >}}
@@ -3852,7 +3852,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:16:53.120" end="01:16:57.990" >}}
 {{< styled-paragraph class="lang-en" >}}And it was a combination of that the time was kind of right for it, the technology was right for it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这是时机正好、技术成熟， 结合到一起的结果。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这是时机正好、技术成熟，结合到一起的结果。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:17:00.210" end="01:17:03.750" >}}
@@ -3897,7 +3897,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:17:47.280" end="01:17:50.930" >}}
 {{< styled-paragraph class="lang-en" >}}Again, I have to say there really was a question, right, in 2000, about whether there could be a lot of free educational material on the internet.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}刚才说了，在 2000 年左右， 确实存在一个问题说，互联网上是否能够有大量免费的教育材料。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}刚才说了，在 2000 年左右，确实存在一个问题说，互联网上是否能够有大量免费的教育材料。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:17:58.840" end="01:18:00.020" >}}
@@ -3977,7 +3977,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:19:01.350" end="01:19:04.200" >}}
 {{< styled-paragraph class="lang-en" >}}But when you start talking about real education, you're talking about interaction with people and empowering groups to do stuff, thinking about did people actually learn the stuff, do you certify it, how do you certify it, how do you use it?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但当你开始谈论真正的教育时， 你谈论的是与人的互动、赋予群体做某事的能力，思考他们是否真的学会了， 要对它做认证吗，怎么做认证，怎么使用它？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但当你开始谈论真正的教育时，你谈论的是与人的互动、赋予群体做某事的能力，思考他们是否真的学会了，要对它做认证吗，怎么做认证，怎么使用它？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:19:16.000" end="01:19:18.260" >}}
@@ -4002,7 +4002,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:19:32.200" end="01:19:32.910" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh sure.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：噢，当然。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：噢，当然。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:19:32.910" end="01:19:38.130" >}}
@@ -4052,12 +4052,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:20:08.450" end="01:20:12.730" >}}
 {{< styled-paragraph class="lang-en" >}}Or to say it another way, if there's a lot of open stuff, there are a lot of people who are starting companies that say well, what's the missing piece in that, that I can add that'll be a sustainable business.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}或者换种说法，如果现在有了大量的开放资源， 有很多人在创办公司说，嗯，这其中还缺少什么环节是我可以补充进去， 从而形成可持续的商业模式的？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}或者换种说法，如果现在有了大量的开放资源，有很多人在创办公司说，嗯，这其中还缺少什么环节是我可以补充进去，从而形成可持续的商业模式的？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:20:22.540" end="01:20:24.760" >}}
 {{< styled-paragraph class="lang-en" >}}And sometimes it's certification and sometimes it's editing of the things and sometimes it's organization and sometimes it's adding some special videos or something to it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}有时是认证，有时是内容编辑，有时是组织管理， 有时候是增加一些特别的视频或其他内容。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}有时是认证，有时是内容编辑，有时是组织管理，有时候是增加一些特别的视频或其他内容。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:20:33.030" end="01:20:36.280" >}}
@@ -4097,7 +4097,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:21:04.580" end="01:21:07.570" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So you've been involved in obviously other initiatives as well that are very, very significant, iCampus being one, DSpace.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：显然你还参与过其他一些非常非常重要的项目，iCampus 是其中之一，还有 DSpace。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：显然你还参与过其他一些非常非常重要的项目， iCampus 是其中之一，还有 DSpace 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:21:13.870" end="01:21:17.030" >}}
@@ -4117,12 +4117,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:21:28.350" end="01:21:31.620" >}}
 {{< styled-paragraph class="lang-en" >}}And maybe just sort of wrapping it in the larger question of how technology has changed and continues to change the classroom experience?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}也许可以把它包在一个更大的问题里，技术是如何改变了、 会如何继续改变课堂体验？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}也许可以把它包在一个更大的问题里，技术是如何改变了、会如何继续改变课堂体验？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:21:39.660" end="01:21:43.720" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So sort of big area.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：这确实是个相当大的领域。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：这确实是个相当大的领域。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:21:43.720" end="01:21:44.810" >}}
@@ -4137,7 +4137,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:21:47.950" end="01:21:52.120" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So DSpace is kind of not really about the classroom.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：所以 DSpace 其实并不与课堂有关。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：所以 DSpace 其实并不与课堂有关。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:21:53.330" end="01:21:55.620" >}}
@@ -4152,7 +4152,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:21:59.590" end="01:22:02.855" >}}
 {{< styled-paragraph class="lang-en" >}}I almost want to say crafted by Ann Wolpert, who's the head of libraries, and me, having to do with the issue of, will the public be able to get access to university research?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我几乎想说，是由图书馆馆长 Ann Wolpert 和我共同精心设计的，涉及的问题是， 公众是否能够获得大学研究成果的访问权？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我几乎想说，是由图书馆馆长 Ann Wolpert 和我共同精心设计的，涉及的问题是，公众是否能够获得大学研究成果的访问权？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:22:17.160" end="01:22:21.970" >}}
@@ -4162,7 +4162,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:22:26.860" end="01:22:32.690" >}}
 {{< styled-paragraph class="lang-en" >}}DSpace is about the vision of are the research let's say products of the top research enterprises in the world available to all of humanity?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}DSpace 的愿景是，世界顶尖研究企业的研究成果，或者说产品， 是否应当向全人类开放？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}DSpace 的愿景是，世界顶尖研究企业的研究成果，或者说产品，是否应当向全人类开放？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:22:40.110" end="01:22:42.200" >}}
@@ -4187,7 +4187,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:22:54.200" end="01:22:56.930" >}}
 {{< styled-paragraph class="lang-en" >}}And then you find that there's no sense of gosh, what's it's mean to post it on the internet?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后你会发现，并没有一个清晰的认识说老天， 把东西发布到互联网上意味着什么？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后你会发现，并没有一个清晰的认识说老天，把东西发布到互联网上意味着什么？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:22:58.740" end="01:23:03.710" >}}
@@ -4222,7 +4222,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:23:35.170" end="01:23:38.240" >}}
 {{< styled-paragraph class="lang-en" >}}We kind of see this thing brewing with the ability to put stuff on the internet.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们看到，从我们能在互联网发布内容开始， 它就在酝酿之中了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们看到，从我们能在互联网发布内容开始，它就在酝酿之中了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:23:40.530" end="01:23:43.680" >}}
@@ -4257,7 +4257,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:24:10.330" end="01:24:14.170" >}}
 {{< styled-paragraph class="lang-en" >}}We're now in the interesting stage of that where the publishers and journals are fighting back.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们现在正处于一个有意思的阶段， 出版商和期刊开始反击了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们现在正处于一个有意思的阶段，出版商和期刊开始反击了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:24:16.990" end="01:24:21.960" >}}
@@ -4302,7 +4302,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:24:41.800" end="01:24:46.630" >}}
 {{< styled-paragraph class="lang-en" >}}But the classroom stuff is a very, very complicated mix because part of what you want to think about is making it expansive, making this world of sharing, making this world where stuff is very possible.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但课堂教学是一个非常、非常复杂的混合体，因为一方面你想让它具有扩展性， 创造一个分享的世界，创造这个让这些事情都很可能实现的世界。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但课堂教学是一个非常、非常复杂的混合体，因为一方面你想让它具有扩展性，创造一个分享的世界，创造这个让这些事情都很可能实现的世界。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:24:57.480" end="01:25:01.500" >}}
@@ -4312,17 +4312,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:25:04.080" end="01:25:08.650" >}}
 {{< styled-paragraph class="lang-en" >}}What's the stuff that I want to do in my class that I really don't want to share, because I want to say to these students, my god, you're not just in any place.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}什么东西是我在自己的课堂上想做， 但真的不想分享出去的，因为我想对这些学生说，老天爷，你们可不是在随便一个什么地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}什么东西是我在自己的课堂上想做，但真的不想分享出去的，因为我想对这些学生说，老天爷，你们可不是在随便一个什么地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:25:13.930" end="01:25:15.480" >}}
 {{< styled-paragraph class="lang-en" >}}You're at MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}你们是在 MIT。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}你们是在 MIT 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:25:15.480" end="01:25:17.240" >}}
 {{< styled-paragraph class="lang-en" >}}And this thing that's happening in this classroom now is really about our small group.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}此时此刻在这个教室内的事情， 是关于我们这个小群体的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}此时此刻在这个教室内的事情，是关于我们这个小群体的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:25:20.800" end="01:25:22.020" >}}
@@ -4342,7 +4342,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:25:30.050" end="01:25:35.320" >}}
 {{< styled-paragraph class="lang-en" >}}And so that ends up being a whole bunch of different kinds of initiatives that look at that in different ways.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}于是就产生了各种不同类型的倡议， 以不同的方式看待这个问题。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}于是就产生了各种不同类型的倡议，以不同的方式看待这个问题。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:25:39.230" end="01:25:43.630" >}}
@@ -4357,7 +4357,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:26:03.910" end="01:26:07.650" >}}
 {{< styled-paragraph class="lang-en" >}}You come in, and you have to spend 30 minutes setting it up, and the equipment's broken, and you have to go through the safety class to make sure you don't do things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}你走进来，先花 30 分钟做准备，结果设备坏了， 你还得参加安全课程以确保你不会做错事。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}你走进来，先花 30 分钟做准备，结果设备坏了，你还得参加安全课程以确保你不会做错事。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:26:11.940" end="01:26:16.010" >}}
@@ -4367,7 +4367,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:26:17.550" end="01:26:19.500" >}}
 {{< styled-paragraph class="lang-en" >}}Wouldn't it be nice if you could do that from your dorm room over the internet?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}如果你能通过互联网在宿舍里完成它， 不是很好吗？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}如果你能通过互联网在宿舍里完成它，不是很好吗？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:26:21.180" end="01:26:24.710" >}}
@@ -4392,7 +4392,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:26:42.860" end="01:26:44.950" >}}
 {{< styled-paragraph class="lang-en" >}}So that's a little bit of trying to bridge this, hey, it's special, but it's also accessible kind of thing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}所以这有点像试图弥合这种“嘿，它很特别， 但人们也能拿到它”的矛盾。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}所以这有点像试图弥合这种“嘿，它很特别，但人们也能拿到它”的矛盾。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:26:49.360" end="01:26:53.230" >}}
@@ -4402,7 +4402,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:27:00.050" end="01:27:05.130" >}}
 {{< styled-paragraph class="lang-en" >}}How do I make it so if I'm in some kind of laboratory or some kind of classroom session where I'm getting individual instruction, you could also imagine doing that from across the world?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我怎样才能做到，如果我在某种实验室或某种课堂环节中接受个别指导， 你也可以设想从世界另一端来做同样的事情？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我怎样才能做到，如果我在某种实验室或某种课堂环节中接受个别指导，你也可以设想从世界另一端来做同样的事情？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:27:14.760" end="01:27:17.370" >}}
@@ -4417,7 +4417,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:27:28.250" end="01:27:32.280" >}}
 {{< styled-paragraph class="lang-en" >}}We're sort of moving to a new stage in that where the idea that there's effectively a book on the internet, well that's good.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们正进入一个新阶段，现有的这种“互联网上本质上有一本书”的想法， 这很好。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们正进入一个新阶段，现有的这种“互联网上本质上有一本书”的想法，这很好。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:27:37.070" end="01:27:38.620" >}}
@@ -4447,7 +4447,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:28:02.990" end="01:28:03.330" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Yeah.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：是啊。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：是啊。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:28:03.330" end="01:28:08.190" >}}
@@ -4462,12 +4462,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:28:08.600" end="01:28:15.860" >}}
 {{< styled-paragraph class="lang-en" >}}Because again on the one hand, there are some places in education, not the large lecture or anything, where you really, really, really want the sense of intimacy.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}因为刚才说的，一方面，在教育中有一些场合，不是那种大型讲座之类的， 你会真的、真的、非常需要那种亲密感。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}因为刚才说的，一方面，在教育中有一些场合，不是那种大型讲座之类的，你会真的、真的、非常需要那种亲密感。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:28:23.090" end="01:28:27.850" >}}
 {{< styled-paragraph class="lang-en" >}}I mean as much as you could ever want, you really have to be, I'm here for you.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的意思是，做到什么程度都不为过，你真的必须表现出， 我在这里是为了你们。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的意思是，做到什么程度都不为过，你真的必须表现出，我在这里是为了你们。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:28:30.780" end="01:28:33.730" >}}
@@ -4482,7 +4482,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:28:35.830" end="01:28:41.200" >}}
 {{< styled-paragraph class="lang-en" >}}And I don't want this stuff going outside the classroom because what's happening with us right now is very special.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我不想让这些东西流出课堂， 因为此刻我们的事情非常特别。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我不想让这些东西流出课堂，因为此刻我们的事情非常特别。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:28:47.030" end="01:28:50.890" >}}
@@ -4502,7 +4502,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:28:58.410" end="01:29:03.250" >}}
 {{< styled-paragraph class="lang-en" >}}The hard part is you have to ask yourself how much of that sense of intimacy is technology now going to be able to supply?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}困难之处在于你必须问自己， 现在的技术能在多大程度上提供这种亲密感？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}困难之处在于你必须问自己，现在的技术能在多大程度上提供这种亲密感？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:29:09.130" end="01:29:11.170" >}}
@@ -4577,7 +4577,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:30:17.360" end="01:30:18.860" >}}
 {{< styled-paragraph class="lang-en" >}}There are all these serendipitous things that happen, what do they call it, the water cooler effect.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}会有很多不期而遇的事情发生， 他们叫什么来着，饮水机效应。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}会有很多不期而遇的事情发生，他们叫什么来着，饮水机效应。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:30:22.270" end="01:30:25.520" >}}
@@ -4612,12 +4612,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:30:50.050" end="01:30:54.260" >}}
 {{< styled-paragraph class="lang-en" >}}We can all make up science fiction stories about how physical presence doesn't matter.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们是可以编造科幻故事说， 实体到场并不重要。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们是可以编造科幻故事说，实体到场并不重要。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:30:55.780" end="01:30:58.760" >}}
 {{< styled-paragraph class="lang-en" >}}But the point is for at least right now, physical presence matters a whole hell of a lot.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但重点是，至少在目前， 实体到场相当重要。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但重点是，至少在目前，实体到场相当重要。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:31:00.930" end="01:31:04.600" >}}
@@ -4632,7 +4632,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:31:19.380" end="01:31:23.580" >}}
 {{< styled-paragraph class="lang-en" >}}And I guess my question is, given this very thorny question that we were just discussing, how should MIT deal with that?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我觉得我想问的是，鉴于我们刚刚讨论的这个非常棘手的问题，MIT 应该如何应对？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我觉得我想问的是，鉴于我们刚刚讨论的这个非常棘手的问题， MIT 应该如何应对？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:31:28.720" end="01:31:31.970" >}}
@@ -4647,12 +4647,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:31:47.850" end="01:31:49.930" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: I kind of want to say it's ethically driven.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：我有点想说，是由道德驱动的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：我有点想说，是由道德驱动的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:31:51.860" end="01:31:59.580" >}}
 {{< styled-paragraph class="lang-en" >}}I really do feel that MIT has an almost ethical obligation to say look, we are a precious resource.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我真的觉得 MIT 有一种近乎道德上的义务去说， 看，我们是一项宝贵的资源。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我真的觉得 MIT 有一种近乎道德上的义务去说，看，我们是一项宝贵的资源。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:32:03.430" end="01:32:08.145" >}}
@@ -4677,7 +4677,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:32:24.950" end="01:32:30.530" >}}
 {{< styled-paragraph class="lang-en" >}}And it means that when you think about what we should do in educational technology at MIT, you really are thinking that you're a model for the rest of the world.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这意味着，当你思考我们应该在 MIT 的教育技术方面做些什么时， 你实际上是在考虑做全世界的榜样。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这意味着，当你思考我们应该在 MIT 的教育技术方面做些什么时，你实际上是在考虑做全世界的榜样。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:32:39.340" end="01:32:43.280" >}}
@@ -4692,12 +4692,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:32:45.820" end="01:32:53.130" >}}
 {{< styled-paragraph class="lang-en" >}}When we do something great in a classroom, we are obligated to say how can other people follow that or how could other people think about whether it's a good thing to do.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当我们在课堂上做一些很棒的事情时， 我们有义务说，其他人如何效仿，或者如何分辨这是否是一件值得做的好事。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当我们在课堂上做一些很棒的事情时，我们有义务说，其他人如何效仿，或者如何分辨这是否是一件值得做的好事。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:32:59.260" end="01:33:02.720" >}}
 {{< styled-paragraph class="lang-en" >}}It's not just about MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}这不仅仅关乎 MIT。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}这不仅仅关乎 MIT 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:33:02.720" end="01:33:06.930" >}}
@@ -4742,17 +4742,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:33:44.810" end="01:33:48.350" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: This isn't about the classroom specifically, but it very much relates to what you just said.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：这个问题虽然不是专门关于课堂的， 但与你刚才所说的密切相关。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：这个问题虽然不是专门关于课堂的，但与你刚才所说的密切相关。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:33:53.510" end="01:33:57.420" >}}
 {{< styled-paragraph class="lang-en" >}}I wanted to ask you about the open access policy.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我想问一下关于“开放获取政策”（open access policy）的问题。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我想问一下关于“开放获取政策”（ open access policy ）的问题。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:33:57.420" end="01:33:58.670" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Oh, right.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：哦，对。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：哦，对。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:33:58.670" end="01:34:00.910" >}}
@@ -4762,7 +4762,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:34:04.130" end="01:34:05.450" >}}
 {{< styled-paragraph class="lang-en" >}}I talked before about DSpace.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我之前谈到了 DSpace。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我之前谈到了 DSpace 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:34:05.450" end="01:34:10.060" >}}
@@ -4772,7 +4772,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:34:10.060" end="01:34:11.710" >}}
 {{< styled-paragraph class="lang-en" >}}I'm also one of the founding directors for the Free Software Foundation, which is--{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我还是自由软件基金会（Free Software Foundation）的创始董事之一，这——{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我还是自由软件基金会（ Free Software Foundation ）的创始董事之一，这——{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:34:14.990" end="01:34:19.190" >}}
@@ -4797,7 +4797,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:34:34.470" end="01:34:37.420" >}}
 {{< styled-paragraph class="lang-en" >}}So a lot of times when people talk about open access, they say gee, I ought to be able to read some stuff on the internet or be able to do stuff or it's locked away and I shouldn't have to pay to get it.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}很多时候，当人们谈论“开放获取”时，他们会说，哎呀，我应该能够在互联网上读到一些东西，或者做到一些事情，结果它被锁起来了， 我不应该付费才能拿到它。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}很多时候，当人们谈论“开放获取”时，他们会说，哎呀，我应该能够在互联网上读到一些东西，或者做到一些事情，结果它被锁起来了，我不应该付费才能拿到它。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:34:47.110" end="01:34:50.600" >}}
@@ -4852,7 +4852,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:35:40.130" end="01:35:45.440" >}}
 {{< styled-paragraph class="lang-en" >}}But the other is that people get to modify and we republish it and make it better and improve.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但另一个是人们可以修改它，重新发布它， 让它变得更好，改进它。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但另一个是人们可以修改它，重新发布它，让它变得更好，改进它。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:35:48.480" end="01:35:50.980" >}}
@@ -4862,12 +4862,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:35:52.030" end="01:35:59.480" >}}
 {{< styled-paragraph class="lang-en" >}}Open access is in some sense a bad word because it doesn't have this sense of building on each other's work.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}从某种意义上说，“开放获取”这个词取得不好， 因为它没有体现出在彼此工作基础上创造的含义。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}从某种意义上说，“开放获取”这个词取得不好，因为它没有体现出在彼此工作基础上创造的含义。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:36:01.610" end="01:36:04.470" >}}
 {{< styled-paragraph class="lang-en" >}}I'm sort of playing with this new slogan that I want to call the remixed university.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我最近在琢磨一个新口号，我想称之为 “重混大学”（remixed university）。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我最近在琢磨一个新口号，我想称之为 “重混大学”（ remixed university ）。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:36:07.450" end="01:36:09.520" >}}
@@ -4917,7 +4917,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:36:50.030" end="01:36:53.720" >}}
 {{< styled-paragraph class="lang-en" >}}Tell me about Creative Commons, another I think important part of this.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}请讲讲 Creative Commons，我认为这是其中另一个重要的部分。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}请讲讲 Creative Commons ，我认为这是其中另一个重要的部分。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:36:54.860" end="01:36:56.530" >}}
@@ -4927,7 +4927,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:36:56.530" end="01:37:01.000" >}}
 {{< styled-paragraph class="lang-en" >}}There was this magical couple years where we started DSpace, we started OpenCourseWare, we showed Creative Commons, right around 2000.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}有那么神奇的几年，我们启动了 DSpace， 启动了 OpenCourseWare，展示了 Creative Commons， 大约在 2000 年左右。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}有那么神奇的几年，我们启动了 DSpace ，启动了 OpenCourseWare ，展示了 Creative Commons ，大约在 2000 年左右。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:37:10.160" end="01:37:14.630" >}}
@@ -4937,7 +4937,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:37:15.320" end="01:37:19.090" >}}
 {{< styled-paragraph class="lang-en" >}}We tried a joint course between Harvard and MIT when he was formulating these ideas about open culture and things.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}当他正在构思一些关于开放文化等事物的想法时， 我们曾尝试在哈佛大学和 MIT 之间开设一门联合课程。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}当他正在构思一些关于开放文化等事物的想法时，我们曾尝试在哈佛大学和 MIT 之间开设一门联合课程。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:37:23.340" end="01:37:28.210" >}}
@@ -5042,7 +5042,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:39:11.530" end="01:39:15.290" >}}
 {{< styled-paragraph class="lang-en" >}}And then it kind of linked into some stuff that I'd been doing with the Web Consortium that said oh by the way, one of the things you might want to do if you're going to make licenses crafted to that, you want to make those licenses machine readable so machines can identify that on the internet.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}然后它又和我与万维网联盟（WebConsortium） 合作的事情联系起来， 说顺便一提，如果你要为这个目的设计许可协议，你可能会想让机器能读取这些许可， 以便机器能在互联网上识别它们。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}然后它又和我与万维网联盟（ WebConsortium ）合作的事情联系起来，说顺便一提，如果你要为这个目的设计许可协议，你可能会想让机器能读取这些许可，以便机器能在互联网上识别它们。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:39:31.120" end="01:39:32.550" >}}
@@ -5062,7 +5062,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:39:36.340" end="01:39:40.490" >}}
 {{< styled-paragraph class="lang-en" >}}I remember we were sitting around and saying well, what would be success?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我记得我们曾坐在一起讨论说， 怎样才算是成功了？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我记得我们曾坐在一起讨论说，怎样才算是成功了？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:39:45.560" end="01:39:47.680" >}}
@@ -5082,12 +5082,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:39:54.490" end="01:39:57.530" >}}
 {{< styled-paragraph class="lang-en" >}}And I said, gosh if we got a couple of million of things on the net with the Creative Commons, that would be really good.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我说，天哪，如果网络能有数百万个采用 Creative Commons 的东西， 那就真的很不错了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我说，天哪，如果网络能有数百万个采用 Creative Commons 的东西，那就真的很不错了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:39:59.820" end="01:40:02.520" >}}
 {{< styled-paragraph class="lang-en" >}}And Larry said well, I actually think all of it should be Creative Commons.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而 Larry 则说，我其实认为所有内容都应该采用 Creative Commons。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而 Larry 则说，我其实认为所有内容都应该采用 Creative Commons 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:40:04.360" end="01:40:06.220" >}}
@@ -5127,7 +5127,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:40:42.760" end="01:40:49.300" >}}
 {{< styled-paragraph class="lang-en" >}}So in particular when I put up my lectures on OpenCourseWare and I want to put some illustrations into my lecture, there's a lot of Creative Commons licensed stuff that I could just use.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}特别是当我把自己的讲座放到 OpenCourseWare 上， 并且想在讲义中加入一些插图时，我有大量采用 Creative Commons 许可的资源可以直接使用。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}特别是当我把自己的讲座放到 OpenCourseWare 上，并且想在讲义中加入一些插图时，我有大量采用 Creative Commons 许可的资源可以直接使用。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:40:55.350" end="01:40:58.895" >}}
@@ -5162,12 +5162,12 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:41:18.790" end="01:41:21.420" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well like I said, we've gone from the stage of they ignore us to the stage where they laugh at us to the stage where they are actually fighting us.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯就像刚才说的，我们已经从 “他们无视我们”的阶段，走过了“他们嘲笑我们”的阶段， 到了“他们开始对抗我们”的阶段。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯就像刚才说的，我们已经从 “他们无视我们”的阶段，走过了“他们嘲笑我们”的阶段，到了“他们开始对抗我们”的阶段。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:41:26.600" end="01:41:32.290" >}}
 {{< styled-paragraph class="lang-en" >}}The rhetoric in Congress now is we're stealing all of this stuff.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}如今国会里的论调是， 我们在窃取这些东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}如今国会里的论调是，我们在窃取这些东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:41:38.000" end="01:41:41.550" >}}
@@ -5187,7 +5187,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:41:58.790" end="01:42:02.060" >}}
 {{< styled-paragraph class="lang-en" >}}I mean part of the problem is that Creative Common sounds a lot like communist. So everyone says gosh, you guys are a bunch of communists.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我的意思是，部分问题在于 Creative Commons 听起来很像"共产主义"。所以每个人都说天哪， 你们这群人是共产主义者。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我的意思是，部分问题在于 Creative Commons 听起来很像"共产主义"。所以每个人都说天哪，你们这群人是共产主义者。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:42:07.420" end="01:42:08.810" >}}
@@ -5197,7 +5197,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:42:08.810" end="01:42:11.770" >}}
 {{< styled-paragraph class="lang-en" >}}Oh my god, there was an article when Creative Commons was first starting up, in was it Billboard, which talked about gosh, there is this young composer who puts his music up on a Creative Commons thing.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}老天爷，Creative Commons 刚起步时有一篇文章，在《告示牌》（Billboard）上，讲到老天， 有位年轻的作曲家把他的音乐放到了 Creative Commons 的平台上。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}老天爷， Creative Commons 刚起步时有一篇文章，在《告示牌》（ Billboard ）上，讲到老天，有位年轻的作曲家把他的音乐放到了 Creative Commons 的平台上。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:42:29.910" end="01:42:32.580" >}}
@@ -5222,7 +5222,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:42:48.810" end="01:42:52.940" >}}
 {{< styled-paragraph class="lang-en" >}}And there's this whole rhetoric that's around it, because people are starting to see that it's getting serious.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}围绕这个事情有了这一整套说辞， 因为人们开始意识到事情变得严重了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}围绕这个事情有了这一整套说辞，因为人们开始意识到事情变得严重了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:42:57.201" end="01:43:02.770" >}}
@@ -5242,7 +5242,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:43:22.070" end="01:43:25.200" >}}
 {{< styled-paragraph class="lang-en" >}}I mean Creative Commons is built in copyright.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是说，Creative Commons 是建立在版权之上的。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是说， Creative Commons 是建立在版权之上的。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:43:25.200" end="01:43:29.680" >}}
@@ -5287,7 +5287,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:44:23.470" end="01:44:25.870" >}}
 {{< styled-paragraph class="lang-en" >}}But when I said people are fighting it, by and large you're seeing people in the old business models who of course are established, who of course have stories that Congress understands.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但当我说人们在与之对抗时， 大体上你看到的是那些旧商业模式中的人， 他们当然已经站稳了脚跟，当然有国会能够听懂的说辞。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但当我说人们在与之对抗时，大体上你看到的是那些旧商业模式中的人，他们当然已经站稳了脚跟，当然有国会能够听懂的说辞。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:44:36.350" end="01:44:39.930" >}}
@@ -5307,7 +5307,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:44:53.270" end="01:44:57.550" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: So in moving towards wrapping up just a bit, in these two related but somewhat differing areas of open networks, open access, and educational technology with a focus on this whole question of the remoteness or the locality of education, MIT has been obviously historically a leader in both of those areas, if you think about OpenCourseWare as one example of many.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：那么我们试着开始收尾，在这两个相互关联但又有所不同的领域， 开放网络、开放获取，以及聚焦于教育的远程属性或局域性这一整体问题的教育技术， 显然 MIT 在历史上一直都是这两个领域的领导者，如果你把 OpenCourseWare 视为众多例子之一的话。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：那么我们试着开始收尾，在这两个相互关联但又有所不同的领域，开放网络、开放获取，以及聚焦于教育的远程属性或局域性这一整体问题的教育技术，显然 MIT 在历史上一直都是这两个领域的领导者，如果你把 OpenCourseWare 视为众多例子之一的话。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:45:26.370" end="01:45:31.360" >}}
@@ -5322,7 +5322,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:45:42.410" end="01:45:44.910" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: So one of the things that MIT is not doing, and I'm not sure why not, is we are currently making a lot of partnerships with institutions around the world, which I think is fantastic.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：MIT 目前没在做的一件事是， 我不确定为什么，尽管我们正与世界各地的研究机构建立大量合作关系， 我认为这非常棒。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ： MIT 目前没在做的一件事是，我不确定为什么，尽管我们正与世界各地的研究机构建立大量合作关系，我认为这非常棒。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:46:00.430" end="01:46:04.520" >}}
@@ -5332,17 +5332,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:46:07.050" end="01:46:11.430" >}}
 {{< styled-paragraph class="lang-en" >}}So we talk about MIT's association with some research institute and partly because of what these other places want from MIT and whether they view MIT, they sort of say this is a great research partnership.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们与某些研究机构谈论 MIT 的合作， 一部分出于这些其他机构想从 MIT 得到什么以及他们如何看待 MIT，他们会说这是一个很棒的科研合作。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们与某些研究机构谈论 MIT 的合作，一部分出于这些其他机构想从 MIT 得到什么以及他们如何看待 MIT ，他们会说这是一个很棒的科研合作。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:46:23.550" end="01:46:27.410" >}}
 {{< styled-paragraph class="lang-en" >}}And one of the things MIT needs to be insisting on is what's the place of students and undergraduates in that kind of partnership?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}而 MIT 需要坚持的一点是， 在这种合作关系中，学生和本科生的位置在哪里？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}而 MIT 需要坚持的一点是，在这种合作关系中，学生和本科生的位置在哪里？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:46:32.390" end="01:46:38.340" >}}
 {{< styled-paragraph class="lang-en" >}}MIT needs to say as part of leading the world, we deeply believe that what makes an institution like MIT work is the integration of research and education.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}MIT 需要声明，作为引领世界的一部分， 我们深信 MIT 这样的机构得以运作的关键在于研究与教育的结合。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}MIT 需要声明，作为引领世界的一部分，我们深信 MIT 这样的机构得以运作的关键在于研究与教育的结合。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:46:47.200" end="01:46:49.840" >}}
@@ -5387,7 +5387,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:47:54.662" end="01:48:00.550" >}}
 {{< styled-paragraph class="lang-en" >}}If you take the combined MIT alumni, which are what now, 80,000, 90,000, you have a considerable fraction of the technological power of the world.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}如果把 MIT 校友加在一起，现在是多少， 八万，九万？你就拥有了全球科技力量中相当大的一部分。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}如果把 MIT 校友加在一起，现在是多少，八万，九万？你就拥有了全球科技力量中相当大的一部分。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:48:10.580" end="01:48:14.020" >}}
@@ -5407,17 +5407,17 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:48:29.220" end="01:48:34.100" >}}
 {{< styled-paragraph class="lang-en" >}}In a world where, oh some university I want to mention and say we could teach calculus to 50,000 people in some foreign country, how do we use technology to allow our undergraduates to have tremendously good international experiences, while taking some MIT calculus?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}在这样一个世界里，我想提下某所大学说我们可以给国外的五万人教微积分，我们如何利用技术让我们的本科生获得极佳的国际体验， 同时还能修读 MIT 的微积分课程？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}在这样一个世界里，我想提下某所大学说我们可以给国外的五万人教微积分，我们如何利用技术让我们的本科生获得极佳的国际体验，同时还能修读 MIT 的微积分课程？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:48:55.025" end="01:48:59.730" >}}
 {{< styled-paragraph class="lang-en" >}}Are there ways we can translate little pieces of MIT so that MIT students can have some of these experiences without feeling that they have to blow off courses for a semester?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}是否有办法转化 MIT 的一小部分， 让 MIT 的学生能够获得这些体验， 而不用觉得他们必须水掉一整个学期的课？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}是否有办法转化 MIT 的一小部分，让 MIT 的学生能够获得这些体验，而不用觉得他们必须水掉一整个学期的课？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:49:10.040" end="01:49:12.370" >}}
 {{< styled-paragraph class="lang-en" >}}The mechanical engineering department talks about wouldn't it be great if students in mechanical engineering could take two weeks off and go build cars and race them on the Isle of White.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}机械工程系在讨论，如果机械工程的学生能休假两周， 去怀特岛造车并拿它们赛车， 那该多好。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}机械工程系在讨论，如果机械工程的学生能休假两周，去怀特岛造车并拿它们赛车，那该多好。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:49:21.000" end="01:49:24.400" >}}
@@ -5437,27 +5437,27 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:49:33.370" end="01:49:36.870" >}}
 {{< styled-paragraph class="lang-en" >}}How do we make that possible and how does MIT lead in showing how you can make that possible?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我们如何实现它，MIT 又如何在展示这种可能性方面发挥领导作用？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我们如何实现它， MIT 又如何在展示这种可能性方面发挥领导作用？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:49:38.310" end="01:49:41.940" >}}
 {{< styled-paragraph class="lang-en" >}}INTERVIEWER: I mean MIT obviously is a place with tremendous technical technological expertise.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}采访者：我想说，MIT 显然是一个拥有强大技术专长的地方。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}采访者：我想说， MIT 显然是一个拥有强大技术专长的地方。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:49:48.440" end="01:49:51.030" >}}
 {{< styled-paragraph class="lang-en" >}}But our conversation has ranged over all sorts of topics that go beyond simple technology, policy issues, just how we live our lives in the world.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但我们的谈话涉及了各种各样的话题， 超越了单纯的技术、政策问题，触及到我们在世界上如何生活。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但我们的谈话涉及了各种各样的话题，超越了单纯的技术、政策问题，触及到我们在世界上如何生活。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:49:57.690" end="01:50:02.560" >}}
 {{< styled-paragraph class="lang-en" >}}And I'm wondering if you could talk a bit about what special or particular role technologists, engineers should or could play in those broader ethical, philosophical, policy kinds of questions?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我在想，能否谈谈什么特殊或者特定的角色， 是技术人员、工程师在这些更广泛的伦理、哲学、政策类问题中， 应该或能够扮演的？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我在想，能否谈谈什么特殊或者特定的角色，是技术人员、工程师在这些更广泛的伦理、哲学、政策类问题中，应该或能够扮演的？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:50:13.510" end="01:50:17.540" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well, part is the easy thing about just knowing the consequences or the likely consequences of certain kinds of investments or policies.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，一部分是比较容易的事情，比如知晓某些投资或政策的后果或可能的后果。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯，一部分是比较容易的事情，比如知晓某些投资或政策的后果或可能的后果。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:50:28.580" end="01:50:33.170" >}}
@@ -5487,7 +5487,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:51:08.650" end="01:51:12.410" >}}
 {{< styled-paragraph class="lang-en" >}}But there's this notion of you kind of have to put it on the line and make something.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}但有一种观念是，你必须承担风险， 做出一点东西来。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}但有一种观念是，你必须承担风险，做出一点东西来。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:51:15.330" end="01:51:21.550" >}}
@@ -5522,7 +5522,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:51:37.150" end="01:51:39.330" >}}
 {{< styled-paragraph class="lang-en" >}}And that's what I think a place like MIT and a place like engineering cultures can add to these discussions.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我认为这正是像 MIT 这样的地方， 以及工程文化，能够为这些讨论增添的东西。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我认为这正是像 MIT 这样的地方，以及工程文化，能够为这些讨论增添的东西。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:51:42.850" end="01:51:46.070" >}}
@@ -5537,7 +5537,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:51:55.690" end="01:52:05.270" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Well no, other than I'm constantly humbled and amazed and charged by just the privilege of being in a place like MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：嗯，没有了，除了我始终对自己能有幸身处 MIT 这样的地方感到受宠若惊，它如此惊艳， 让我充满动力。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：嗯，没有了，除了我始终对自己能有幸身处 MIT 这样的地方感到受宠若惊，它如此惊艳，让我充满动力。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:09.730" end="01:52:13.030" >}}
@@ -5557,7 +5557,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:52:23.180" end="01:52:25.475" >}}
 {{< styled-paragraph class="lang-en" >}}And there's this place where you drive up Commonwealth Avenue and then you sort of turn and go over the BU Bridge.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}有一个地方，你沿着联邦大道开车， 然后你转弯，开过波士顿大学桥。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}有一个地方，你沿着联邦大道开车，然后你转弯，开过波士顿大学桥。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:29.595" end="01:52:31.640" >}}
@@ -5572,7 +5572,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:52:34.300" end="01:52:37.525" >}}
 {{< styled-paragraph class="lang-en" >}}It's almost every day, after so many years, I say oh my god, I'm coming to MIT.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}几乎每天，这么多年了，我都会说，老天爷， 我要去 MIT 了。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}几乎每天，这么多年了，我都会说，老天爷，我要去 MIT 了。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:41.360" end="01:52:43.790" >}}
@@ -5582,7 +5582,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:52:43.790" end="01:52:48.350" >}}
 {{< styled-paragraph class="lang-en" >}}How did I get so lucky as to be in a place like this, just surrounded by all of these brilliant people and all of these incredible students?{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}我是何其有幸能身处这样一个地方， 周围全是这些才华横溢的人， 这些出类拔萃的学生？{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}我是何其有幸能身处这样一个地方，周围全是这些才华横溢的人，这些出类拔萃的学生？{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:51.840" end="01:52:54.845" >}}
@@ -5592,7 +5592,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:52:55.290" end="01:52:56.370" >}}
 {{< styled-paragraph class="lang-en" >}}Well, thanks so much Hal.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}那么，非常感谢你，Hal。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}那么，非常感谢你， Hal 。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:56.370" end="01:52:58.350" >}}
@@ -5602,7 +5602,7 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 
 {{< track-segment start="01:52:58.350" end="01:52:58.460" >}}
 {{< styled-paragraph class="lang-en" >}}ABELSON: Sure.{{< /styled-paragraph >}}
-{{< styled-paragraph class="lang-cn" >}}ABELSON：不客气。{{< /styled-paragraph >}}
+{{< styled-paragraph class="lang-cn" >}}ABELSON ：不客气。{{< /styled-paragraph >}}
 {{< /track-segment >}}
 
 {{< track-segment start="01:52:58.460" end="01:52:58.625" >}}
