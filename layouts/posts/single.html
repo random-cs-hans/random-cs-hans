@@ -110,6 +110,11 @@
         if (btn) {
           btn.addEventListener('click', function(e) {
             e.preventDefault();
+            const fallback = window.bibiliFallbackState;
+            if (fallback && fallback.isActive) {
+              fallback.iframe.src = `https://player.bilibili.com/player.html?bvid=${fallback.bvId}&page=1&high_quality=1&autoplay=1&danmaku=0&t=${start}`;
+              return;
+            }
             player.currentTime(start);
             if (player.paused()) {
               player.play();

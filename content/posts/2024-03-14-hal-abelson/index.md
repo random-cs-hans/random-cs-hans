@@ -8,9 +8,6 @@ video:
     - src: https://www.youtube.com/watch?v=r8k8o7zkA1o
       type: video/youtube
       label: Youtube
-    - src: https://www.bilibili.com/video/BV1rK4y1v7V1
-      type: video/youtube
-      label: 哔哩哔哩
   tracks:
     - src: './Hal Abelson.cn.vtt'
       label: 简体中文
@@ -28,6 +25,8 @@ All rights of the [original work](https://www.youtube.com/watch?v=r8k8o7zkA1o) b
 译者注：每次看到这个视频里 Abelson 教授所展现出的对教育和开放资源事业的热忱，以
 及他的国际主义胸怀，我都会十分感动。他和他的导师、同僚和学生们对世界的贡献，是一
 份来自全球化进程蒸蒸日上、技术乐观主义盛行的时代的馈赠，这份馈赠我们受益至今。
+
+{{< bilibili_fallback bvid="BV1rK4y1v7V1" >}}
 
 ---
 
