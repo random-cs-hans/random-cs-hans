@@ -1,0 +1,88 @@
+{{ $bvid := .Get "bvid" }}
+
+{{ if $bvid }}
+<div id="bilibili-fallback-container">
+  <label id="bilibili-fallback-label" style="cursor: pointer;">
+    <input type="checkbox" id="bilibili-fallback-checkbox" autocomplete="off" />
+    <span>国内用户可选择 B 站播放器</span>
+  </label>
+</div>
+
+<script>
+(function() {
+  const bvId = {{ $bvid }};
+  const checkbox = document.getElementById('bilibili-fallback-checkbox');
+  const label = document.getElementById('bilibili-fallback-label');
+  
+  // Initialize state tracking on window object for external access
+  window.bibiliFallbackState = {
+    isActive: false,
+    iframe: null,
+    bvId: bvId
+  };
+  
+  // Function to switch to Bilibili player
+  function switchToBilibili() {
+    const videoElement = document.getElementById('main-video');
+    
+    // Hide the video element
+    videoElement.style.display = 'none';
+    
+    // Create Bilibili iframe wrapper with responsive sizing
+    const wrapper = document.createElement('div');
+    wrapper.id = 'bilibili-player-wrapper';
+    wrapper.style.position = 'relative';
+    wrapper.style.width = '100%';
+    wrapper.style.paddingTop = '56.25%'; // 16:9 aspect ratio
+    wrapper.style.marginBottom = '10px';
+    
+    // Create Bilibili iframe
+    const bilibiliIframe = document.createElement('iframe');
+    bilibiliIframe.src = `https://player.bilibili.com/player.html?bvid=${bvId}&page=1&high_quality=1&autoplay=0&danmaku=0`;
+    bilibiliIframe.style.position = 'absolute';
+    bilibiliIframe.style.top = '0';
+    bilibiliIframe.style.left = '0';
+    bilibiliIframe.style.width = '100%';
+    bilibiliIframe.style.height = '100%';
+    bilibiliIframe.setAttribute('allowfullscreen', 'true');
+    bilibiliIframe.setAttribute('scrolling', 'no');
+    bilibiliIframe.setAttribute('border', '0');
+    bilibiliIframe.setAttribute('frameborder', '0');
+    bilibiliIframe.setAttribute('framespacing', '0');
+    
+    wrapper.appendChild(bilibiliIframe);
+    
+    // Insert wrapper before the video element
+    videoElement.parentNode.insertBefore(wrapper, videoElement);
+    
+    // Disable checkbox and gray out the label
+    checkbox.disabled = true;
+    label.style.opacity = '0.5';
+    label.style.cursor = 'not-allowed';
+    
+    // Update state
+    window.bibiliFallbackState.iframe = bilibiliIframe;
+    window.bibiliFallbackState.isActive = true;
+
+    // Get reference to Video.js player and dispose it
+    if (typeof videojs !== 'undefined') {
+      try {
+        const player = videojs('main-video');
+        if (player) {
+          player.dispose();
+        }
+      } catch (e) {
+        console.warn('Could not dispose Video.js player:', e);
+      }
+    }
+  }
+  
+  // Checkbox change event handler
+  checkbox.addEventListener('change', function() {
+    if (this.checked) {
+      switchToBilibili();
+    }
+  });
+})();
+</script>
+{{ end }}
